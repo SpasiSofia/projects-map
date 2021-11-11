@@ -24,7 +24,7 @@ export const fetchProjects = async (filter) => {
       link: 'https://spasisofia.org/bg/%d0%bf%d0%b0%d1%80%d0%ba-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%8f-%d1%88%d0%b0%d0%bd%d1%81-%d0%b7%d0%b0-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f.html',
       categories: ['парк', 'градска среда', 'зелен град'],
       topics: 'Парк Македония',
-      coordinates: [42.698334, 23.319941],
+      coordinates: [42.69009954096696, 23.31180254992983],
       date: '2020-04-01',
     },
     {
