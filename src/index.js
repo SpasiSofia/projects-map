@@ -1,12 +1,30 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import reportWebVitals from './reportWebVitals';
+import { ChakraProvider } from '@chakra-ui/react';
+import ProjectsProvider from './ProjectsProvider';
+import { QueryClient, QueryClientProvider } from 'react-query';
 import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+import {theme} from './theme';
+
+const queryClient = new QueryClient({
+  defaultOptions: {
+    queries: {
+      refetchOnWindowFocus: false,
+    },
+  },
+});
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <ChakraProvider theme={theme}>
+    <QueryClientProvider client={queryClient}>
+      <ProjectsProvider>
+        <App />
+      </ProjectsProvider>
+      </QueryClientProvider>
+    </ChakraProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );
