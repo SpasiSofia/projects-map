@@ -1,6 +1,8 @@
 import React from 'react';
 import logo from './spasi-sofia-logo.png';
-import { MapContainer, TileLayer, Marker, Tooltip } from 'react-leaflet';
+import districts from './data/sofia-districts.json';
+import { districtNames } from './data/sofia-districts-names';
+import { MapContainer, TileLayer, Marker, Tooltip, GeoJSON } from 'react-leaflet';
 import {
   Drawer,
   DrawerBody,
@@ -21,7 +23,6 @@ import {
 } from '@chakra-ui/react';
 import { useProjects } from './ProjectsProvider';
 import './App.css';
-import L from 'leaflet';
 
 // TODO Custom markers (even by project topic)
 // var myIcon = L.icon({
@@ -29,10 +30,20 @@ import L from 'leaflet';
 //   iconSize: [30, 30],
 // });
 
+const mapQuarterIdToName = (id) => {
+  if (id) {
+    return districtNames.get(id);
+  }
+}
+
 function App() {
   const [{ projects, selected }, { setSelected }] = useProjects();
   const { isOpen, onOpen, onClose } = useDisclosure();
   const btnRef = React.useRef();
+
+  const [regionName, setRegionName] = React.useState('');
+  const [hoverId, setHoverId] = React.useState(null);
+
 
   return (
     <div className="App">
@@ -92,7 +103,6 @@ function App() {
           </DrawerFooter>
         </DrawerContent>
       </Drawer>
-
       <div className="map">
         <MapContainer
           center={[42.698334, 23.319941]}
@@ -103,6 +113,22 @@ function App() {
             attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
             url="https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png"
           />
+          <GeoJSON
+          style={(feature) => {
+              if (hoverId === feature.properties.id) {
+                return {color: "#90CDF4", opacity: 0.8, fillColor: "#90CDF4", fillOpacity: 0.3};
+              } else {
+                return {color: "#718096", opacity: .1, fillColor: "#BEE3F8", fillOpacity: 0};
+              }
+              }}
+          eventHandlers={{
+            mouseover: (e) => {
+              setRegionName(mapQuarterIdToName(e.layer.feature.properties.id));
+              setHoverId(e.layer.feature.properties.id);
+            }
+          }} attribution="София План" data={districts}>
+              <Tooltip sticky>{regionName}</Tooltip>
+          </GeoJSON>
 
           {projects &&
             projects.map((project) => (
