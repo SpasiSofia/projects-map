@@ -110,8 +110,8 @@ function App() {
           scrollWheelZoom={false}
         >
           <TileLayer
-            attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-            url="https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png"
+            attribution='Map tiles by <a href="http://cartodb.com/attributions#basemaps">CartoDB</a>, under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.'
+            url="http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png"
           />
           <GeoJSON
           style={(feature) => {
