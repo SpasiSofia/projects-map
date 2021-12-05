@@ -3,6 +3,8 @@ import logo from './spasi-sofia-logo.png';
 import districts from './data/sofia-districts.json';
 import { districtNames } from './data/sofia-districts-names';
 import { MapContainer, TileLayer, Marker, Tooltip, GeoJSON } from 'react-leaflet';
+import MarkerClusterGroup from 'react-leaflet-markercluster';
+
 import {
   Drawer,
   DrawerBody,
@@ -129,7 +131,7 @@ function App() {
           }} attribution="София План" data={districts}>
               <Tooltip sticky>{regionName}</Tooltip>
           </GeoJSON>
-
+          <MarkerClusterGroup showCoverageOnHover={false}>
           {projects &&
             projects.map((project) => (
               <Marker
@@ -146,6 +148,7 @@ function App() {
                 <Tooltip>{project.name}</Tooltip>
               </Marker>
             ))}
+            </MarkerClusterGroup>
         </MapContainer>
       </div>
     </div>
