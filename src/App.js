@@ -131,7 +131,7 @@ function App() {
           }} attribution="София План" data={districts}>
               <Tooltip sticky>{regionName}</Tooltip>
           </GeoJSON>
-          <MarkerClusterGroup>
+          <MarkerClusterGroup showCoverageOnHover={false}>
           {projects &&
             projects.map((project) => (
               <Marker
