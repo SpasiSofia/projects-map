@@ -26,4 +26,29 @@ export const districtNames = new Map([
 ])
 
 
-//
+export const districtOptions = [
+{ value:"Средец", label: "Средец" },
+{ value:"Изгрев", label: "Изгрев" },
+{ value:"Лозенец", label: "Лозенец" },
+{ value:"Триадица", label: "Триадица" },
+{ value:"Витоша", label: "Витоша" },
+{ value:"Панчарево", label: "Панчарево" },
+{ value:"Овча купел", label: "Овча купел" },
+{ value:"Красна поляна", label: "Красна поляна" },
+{ value:"Сердика", label: "Сердика" },
+{ value:"Искър", label: "Искър" },
+{ value:"Надежда", label: "Надежда" },
+{ value:"Искър", label: "Искър" },
+{ value:"Връбница", label: "Връбница" },
+{ value:"Люлин", label: "Люлин" },
+{ value:"Банкя", label: "Банкя" },
+{ value:"Красно село", label: "Красно село" },
+{ value:"Възраждане", label: "Възраждане" },
+{ value:"Оборище", label: "Оборище" },
+{ value:"Слатина", label: "Слатина" },
+{ value:"Илинден", label: "Илинден" },
+{ value:"Младост", label: "Младост" },
+{ value:"Кремиковци", label: "Кремиковци" },
+{ value:"Подуяне", label: "Подуяне" },
+{ value:"Студентски", label: "Студентски" },
+]

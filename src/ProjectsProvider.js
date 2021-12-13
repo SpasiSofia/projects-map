@@ -9,8 +9,9 @@ const INITIAL_STATE = {
   projects: [],
   selected: {},
   filter: {
-    type: [],
-    search: '',
+    years: [],
+    topics: [],
+    districts: [],
   },
 };
 
@@ -28,8 +29,8 @@ export const ProjectsProvider = ({ children }) => {
   const [reducerState, callbacks] = useMethods(methods, INITIAL_STATE);
 
   const projectsQuery = useQuery(
-    ['projects'],
-    () => fetchProjects(reducerState.filter),
+    ['projects', reducerState.filter],
+    () => fetchProjects({ ...reducerState.filter }),
     {
       keepPreviousData: true,
     }
@@ -48,7 +49,7 @@ export const ProjectsProvider = ({ children }) => {
 export default ProjectsProvider;
 
 const methods = (state) => ({
-  setFilter: (filter) => {
+  setFilters: (filter) => {
     state.filter = { ...state.filter, ...filter };
   },
   setSelected: (project) => {
