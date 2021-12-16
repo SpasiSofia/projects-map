@@ -15,14 +15,24 @@ import {
 import { FiFilter } from 'react-icons/fi';
 import Select from 'react-select';
 import { useProjects } from './ProjectsProvider';
+import { useLocation, useSearchParams } from 'react-router-dom';
 
 import { topics } from './data/topics';
+import { years } from './data/years';
 import { districtOptions } from './data/sofia-districts-names';
 
-const Filters = () => {
-  const [{ projects }, { setFilters }] = useProjects();
+function useUrlQuery() {
+  const { search } = useLocation();
 
-  const [filterYears, setFilterYears] = React.useState([]);
+  return React.useMemo(() => new URLSearchParams(search), [search]);
+}
+
+const Filters = () => {
+  let [searchParams, setSearchParams] = useSearchParams();
+
+  const [{ filter, projects }, { setFilters }] = useProjects();
+
+  const [filterYears, setFilterYears] = React.useState(filter.years);
   const [filterTopics, setFilterTopics] = React.useState([]);
   const [filterDistricts, setFilterDistricts] = React.useState([]);
 
@@ -43,6 +53,12 @@ const Filters = () => {
   };
 
   const applyFilters = () => {
+    setSearchParams({
+      years: filterYears.join('&'),
+      topics: filterTopics.map((t) => t.value).join('&'),
+      districts: filterDistricts.map((d) => d.value).join('&'),
+    });
+
     setFilters({
       years: filterYears,
       topics: filterTopics,
@@ -62,7 +78,8 @@ const Filters = () => {
           <PopoverCloseButton />
           <PopoverHeader>
             <Text textAlign="left" fontWeight={'bold'}>
-              Филтриране на проектите({projects && projects.length})
+              Филтриране на проектите(
+              {projects && projects.length})
             </Text>
           </PopoverHeader>
           <PopoverBody>
@@ -73,6 +90,7 @@ const Filters = () => {
               options={districtOptions}
               onChange={onDistrictChange}
               isMulti
+              defaultValue={filter.districts}
               placeholder="Изберете район"
             />
             <Text textAlign="left" mt={4} mb="8px">
@@ -80,78 +98,18 @@ const Filters = () => {
             </Text>
 
             <HStack wrap={'wrap'} spacing="12px">
-              <Button
-                colorScheme="gray"
-                size="xs"
-                my={1}
-                isActive={filterYears && filterYears.includes(2015)}
-                onClick={() => onYearChange(2015)}
-              >
-                2015
-              </Button>
-              <Button
-                colorScheme="gray"
-                size="xs"
-                my={1}
-                isActive={filterYears && filterYears.includes(2016)}
-                onClick={() => onYearChange(2016)}
-              >
-                2016
-              </Button>
-              <Button
-                colorScheme="gray"
-                size="xs"
-                my={1}
-                isActive={filterYears.includes(2017)}
-                onClick={() => onYearChange(2017)}
-              >
-                2017
-              </Button>
-              <Button
-                colorScheme="gray"
-                size="xs"
-                my={1}
-                isActive={filterYears && filterYears.includes(2018)}
-                onClick={() => onYearChange(2018)}
-              >
-                2018
-              </Button>
-              <Button
-                colorScheme="gray"
-                size="xs"
-                my={1}
-                isActive={filterYears && filterYears.includes(2019)}
-                onClick={() => onYearChange(2019)}
-              >
-                2019
-              </Button>
-              <Button
-                colorScheme="gray"
-                size="xs"
-                my={1}
-                isActive={filterYears && filterYears.includes(2020)}
-                onClick={() => onYearChange(2020)}
-              >
-                2020
-              </Button>
-              <Button
-                colorScheme="gray"
-                size="xs"
-                my={1}
-                isActive={filterYears && filterYears.includes(2021)}
-                onClick={() => onYearChange(2021)}
-              >
-                2021
-              </Button>
-              <Button
-                colorScheme="gray"
-                size="xs"
-                my={1}
-                isActive={filterYears && filterYears.includes(2022)}
-                onClick={() => onYearChange(2022)}
-              >
-                2022
-              </Button>
+              {years.map((year) => (
+                <Button
+                  key={year}
+                  colorScheme="gray"
+                  size="xs"
+                  my={1}
+                  isActive={filterYears && filterYears.includes(year)}
+                  onClick={() => onYearChange(year)}
+                >
+                  {year}
+                </Button>
+              ))}
             </HStack>
 
             <Text textAlign="left" mt={4} mb="8px">
@@ -161,6 +119,7 @@ const Filters = () => {
               options={topics}
               isMulti
               placeholder="Изберете тема"
+              defaultValue={filter.topics}
               onChange={onTopicChange}
             />
             <Button w={'100%'} mt={6} mb={4} onClick={applyFilters}>

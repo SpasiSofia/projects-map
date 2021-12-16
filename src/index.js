@@ -4,9 +4,10 @@ import reportWebVitals from './reportWebVitals';
 import { ChakraProvider } from '@chakra-ui/react';
 import ProjectsProvider from './ProjectsProvider';
 import { QueryClient, QueryClientProvider } from 'react-query';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './index.css';
 import App from './App';
-import {theme} from './theme';
+import { theme } from './theme';
 
 const queryClient = new QueryClient({
   defaultOptions: {
@@ -18,13 +19,18 @@ const queryClient = new QueryClient({
 
 ReactDOM.render(
   <React.StrictMode>
-    <ChakraProvider theme={theme}>
-    <QueryClientProvider client={queryClient}>
-      <ProjectsProvider>
-        <App />
-      </ProjectsProvider>
-      </QueryClientProvider>
-    </ChakraProvider>
+    <Router>
+      <ChakraProvider theme={theme}>
+        <QueryClientProvider client={queryClient}>
+          <ProjectsProvider>
+            <Routes>
+              <Route path="/" element={<App />} />
+              <Route path="/:name" element={<App />} />
+            </Routes>
+          </ProjectsProvider>
+        </QueryClientProvider>
+      </ChakraProvider>
+    </Router>
   </React.StrictMode>,
   document.getElementById('root')
 );

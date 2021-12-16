@@ -32,6 +32,7 @@ import {
 
 import Filters from './Filters';
 import { useProjects } from './ProjectsProvider';
+import { SOFIA_GPS_CENTER } from './ProjectsService';
 import './App.css';
 
 // TODO Custom markers (even by project topic)
@@ -115,9 +116,9 @@ function App() {
       </Drawer>
       <div className="map">
         <MapContainer
-          center={[42.698334, 23.319941]}
+          center={SOFIA_GPS_CENTER}
           zoom={12}
-          scrollWheelZoom={false}
+          scrollWheelZoom={true}
         >
           <TileLayer
             attribution='Map tiles by <a href="http://cartodb.com/attributions#basemaps">CartoDB</a>, under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.'

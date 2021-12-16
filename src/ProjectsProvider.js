@@ -2,6 +2,7 @@ import React from 'react';
 import useMethods from 'use-methods';
 import { useQuery } from 'react-query';
 import { fetchProjects } from './ProjectsService';
+import { useSearchParams } from 'react-router-dom';
 
 const TasksContext = React.createContext(null);
 
@@ -26,6 +27,31 @@ export const useProjects = () => {
 };
 
 export const ProjectsProvider = ({ children }) => {
+  let [searchParams, setSearchParams] = useSearchParams();
+
+  const yearsParams = searchParams.get('years');
+  const topicsParams = searchParams.get('topics');
+  const districtsParams = searchParams.get('districts');
+
+  if (yearsParams) {
+    let years = yearsParams.split('&').map((y) => parseInt(y));
+    INITIAL_STATE.filter.years = years;
+  }
+
+  if (topicsParams) {
+    let topics = topicsParams.split('&').map((e) => {
+      return { value: e, label: e };
+    });
+    INITIAL_STATE.filter.topics = topics;
+  }
+
+  if (districtsParams) {
+    let districts = districtsParams.split('&').map((e) => {
+      return { value: e, label: e };
+    });
+    INITIAL_STATE.filter.districts = districts;
+  }
+
   const [reducerState, callbacks] = useMethods(methods, INITIAL_STATE);
 
   const projectsQuery = useQuery(
