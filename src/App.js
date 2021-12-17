@@ -2,7 +2,13 @@ import React from 'react';
 import logo from './spasi-sofia-logo.png';
 import districts from './data/sofia-districts.json';
 import { districtNames } from './data/sofia-districts-names';
-import { MapContainer, TileLayer, Marker, Tooltip, GeoJSON } from 'react-leaflet';
+import {
+  MapContainer,
+  TileLayer,
+  Marker,
+  Tooltip,
+  GeoJSON,
+} from 'react-leaflet';
 import MarkerClusterGroup from 'react-leaflet-markercluster';
 
 import {
@@ -23,7 +29,10 @@ import {
   Text,
   useDisclosure,
 } from '@chakra-ui/react';
+
+import Filters from './Filters';
 import { useProjects } from './ProjectsProvider';
+import { SOFIA_GPS_CENTER } from './ProjectsService';
 import './App.css';
 
 // TODO Custom markers (even by project topic)
@@ -36,7 +45,7 @@ const mapQuarterIdToName = (id) => {
   if (id) {
     return districtNames.get(id);
   }
-}
+};
 
 function App() {
   const [{ projects, selected }, { setSelected }] = useProjects();
@@ -45,7 +54,6 @@ function App() {
 
   const [regionName, setRegionName] = React.useState('');
   const [hoverId, setHoverId] = React.useState(null);
-
 
   return (
     <div className="App">
@@ -57,6 +65,7 @@ function App() {
           </Text>
         </Link>
       </Box>
+      <Filters />
       <Drawer
         isOpen={isOpen}
         placement="bottom"
@@ -107,48 +116,63 @@ function App() {
       </Drawer>
       <div className="map">
         <MapContainer
-          center={[42.698334, 23.319941]}
+          center={SOFIA_GPS_CENTER}
           zoom={12}
-          scrollWheelZoom={false}
+          scrollWheelZoom={true}
         >
           <TileLayer
             attribution='Map tiles by <a href="http://cartodb.com/attributions#basemaps">CartoDB</a>, under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.'
             url="http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png"
           />
           <GeoJSON
-          style={(feature) => {
+            style={(feature) => {
               if (hoverId === feature.properties.id) {
-                return {color: "#90CDF4", opacity: 0.8, fillColor: "#90CDF4", fillOpacity: 0.3};
+                return {
+                  color: '#90CDF4',
+                  opacity: 0.8,
+                  fillColor: '#90CDF4',
+                  fillOpacity: 0.3,
+                };
               } else {
-                return {color: "#718096", opacity: .1, fillColor: "#BEE3F8", fillOpacity: 0};
+                return {
+                  color: '#718096',
+                  opacity: 0.1,
+                  fillColor: '#BEE3F8',
+                  fillOpacity: 0,
+                };
               }
-              }}
-          eventHandlers={{
-            mouseover: (e) => {
-              setRegionName(mapQuarterIdToName(e.layer.feature.properties.id));
-              setHoverId(e.layer.feature.properties.id);
-            }
-          }} attribution="София План" data={districts}>
-              <Tooltip sticky>{regionName}</Tooltip>
+            }}
+            eventHandlers={{
+              mouseover: (e) => {
+                setRegionName(
+                  mapQuarterIdToName(e.layer.feature.properties.id)
+                );
+                setHoverId(e.layer.feature.properties.id);
+              },
+            }}
+            attribution="София План"
+            data={districts}
+          >
+            <Tooltip sticky>{regionName}</Tooltip>
           </GeoJSON>
           <MarkerClusterGroup showCoverageOnHover={false}>
-          {projects &&
-            projects.map((project) => (
-              <Marker
-                position={project.coordinates}
-                key={project.id}
-                // icon={myIcon}
-                eventHandlers={{
-                  click: () => {
-                    setSelected(projects.find((p) => p.id === project.id));
-                    onOpen();
-                  },
-                }}
-              >
-                <Tooltip>{project.name}</Tooltip>
-              </Marker>
-            ))}
-            </MarkerClusterGroup>
+            {projects &&
+              projects.map((project) => (
+                <Marker
+                  position={project.coordinates}
+                  key={project.id}
+                  // icon={myIcon}
+                  eventHandlers={{
+                    click: () => {
+                      setSelected(projects.find((p) => p.id === project.id));
+                      onOpen();
+                    },
+                  }}
+                >
+                  <Tooltip>{project.name}</Tooltip>
+                </Marker>
+              ))}
+          </MarkerClusterGroup>
         </MapContainer>
       </div>
     </div>
