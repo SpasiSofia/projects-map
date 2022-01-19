@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './spasi-sofia-logo.png';
 import districts from './data/sofia-districts.json';
 import { districtNames } from './data/sofia-districts-names';
 import {
@@ -26,7 +25,7 @@ import {
   HStack,
   Box,
   Flex,
-  Text,
+  // Text,
   useDisclosure,
 } from '@chakra-ui/react';
 
@@ -57,15 +56,15 @@ function App() {
 
   return (
     <div className="App">
-      <Box className="logo">
+      {/* <Box className="logo">
         <Link href="https://spasi-sofia.org" isExternal>
           <img src={logo} alt="Спаси София" />
           <Text fontSize="10px" color="white" align="center" mt={'-12px'}>
             Някои от нашите проекти
           </Text>
         </Link>
-      </Box>
-      <Filters />
+      </Box> */}
+      <Filters showYears={false} />
       <Drawer
         isOpen={isOpen}
         placement="bottom"

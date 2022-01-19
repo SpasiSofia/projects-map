@@ -6,8 +6,9 @@ export const fetchProjects = async (filter) => {
   let smallProjects = [];
 
   // https://benborgers.com/posts/google-sheets-json
+  // 1gw5_HxfGup6dqVk0fWucEKY2wMtee_iMYX689Ubnt8g
   await fetch(
-    'https://opensheet.vercel.app/1-4jrHfL_nJex6gt2VMIaj2TP-f-xAhFo12iVlCSK2sQ/projectslist'
+    'https://opensheet.vercel.app/1gw5_HxfGup6dqVk0fWucEKY2wMtee_iMYX689Ubnt8g/projectslist'
   )
     .then((response) => response.json())
     .then((data) => {
@@ -32,6 +33,7 @@ export const fetchProjects = async (filter) => {
         });
     });
 
+  console.log('smallProjects', smallProjects);
   let projects = [...PROJECTS, ...smallProjects];
 
   if (filter.years.length > 0) {

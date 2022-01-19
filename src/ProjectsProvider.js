@@ -27,7 +27,7 @@ export const useProjects = () => {
 };
 
 export const ProjectsProvider = ({ children }) => {
-  let [searchParams, setSearchParams] = useSearchParams();
+  let [searchParams] = useSearchParams();
 
   const yearsParams = searchParams.get('years');
   const topicsParams = searchParams.get('topics');
