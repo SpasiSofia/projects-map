@@ -29,7 +29,7 @@ import {
   useDisclosure,
 } from '@chakra-ui/react';
 
-import Filters from './Filters';
+// import Filters from './Filters';
 import { useProjects } from './ProjectsProvider';
 import { SOFIA_GPS_CENTER } from './ProjectsService';
 import './App.css';
@@ -64,7 +64,7 @@ function App() {
           </Text>
         </Link>
       </Box> */}
-      <Filters showYears={false} />
+      {/* <Filters showYears={false} /> */}
       <Drawer
         isOpen={isOpen}
         placement="bottom"
@@ -86,31 +86,35 @@ function App() {
             </Box>
           </DrawerHeader>
 
-          <DrawerBody>
+          <DrawerBody pb={10}>
             <Flex shrink={0}>
               <Box flex={1} mr={4}>
                 {' '}
                 {selected.description}
               </Box>
-              <Box w="200px" flexBasis="200px">
-                <Image
-                  boxSize="200px"
-                  width="200px"
-                  objectFit="cover"
-                  src={selected.imageUrl}
-                  alt={selected.name}
-                />
-              </Box>
+              {selected.imageUrl && (
+                <Box w="200px" flexBasis="200px">
+                  <Image
+                    boxSize="200px"
+                    width="200px"
+                    objectFit="cover"
+                    src={selected.imageUrl}
+                    alt={selected.name}
+                  />
+                </Box>
+              )}
             </Flex>
           </DrawerBody>
 
-          <DrawerFooter justifyContent={'flex-start'}>
-            <Button colorScheme="brand">
-              <Link href={selected.link} isExternal>
-                Виж проекта в сайта на Спаси София
-              </Link>
-            </Button>
-          </DrawerFooter>
+          {selected.link && (
+            <DrawerFooter justifyContent={'flex-start'}>
+              <Button colorScheme="brand">
+                <Link href={selected.link} isExternal>
+                  Виж проекта в сайта на Спаси София
+                </Link>
+              </Button>
+            </DrawerFooter>
+          )}
         </DrawerContent>
       </Drawer>
       <div className="map">
