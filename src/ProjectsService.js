@@ -2,12 +2,15 @@ import { PROJECTS } from './data/static-projects.js';
 import { v4 as uuidv4 } from 'uuid';
 
 export const SOFIA_GPS_CENTER = [42.698334, 23.319941];
+const HOSTING_URL = 'https://opensheet.elk.sh/';
+
 export const fetchProjects = async (filter) => {
   let smallProjects = [];
 
   // https://benborgers.com/posts/google-sheets-json
+  // 1gw5_HxfGup6dqVk0fWucEKY2wMtee_iMYX689Ubnt8g
   await fetch(
-    'https://opensheet.vercel.app/1-4jrHfL_nJex6gt2VMIaj2TP-f-xAhFo12iVlCSK2sQ/projectslist'
+    HOSTING_URL + '1gw5_HxfGup6dqVk0fWucEKY2wMtee_iMYX689Ubnt8g/projectslist'
   )
     .then((response) => response.json())
     .then((data) => {
