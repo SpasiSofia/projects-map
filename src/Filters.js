@@ -15,20 +15,14 @@ import {
 import { FiFilter } from 'react-icons/fi';
 import Select from 'react-select';
 import { useProjects } from './ProjectsProvider';
-import { useLocation, useSearchParams } from 'react-router-dom';
+import { useSearchParams } from 'react-router-dom';
 
 import { topics } from './data/topics';
 import { years } from './data/years';
 import { districtOptions } from './data/sofia-districts-names';
 
-function useUrlQuery() {
-  const { search } = useLocation();
-
-  return React.useMemo(() => new URLSearchParams(search), [search]);
-}
-
-const Filters = () => {
-  let [searchParams, setSearchParams] = useSearchParams();
+const Filters = ({ showYears = true }) => {
+  let [, setSearchParams] = useSearchParams();
 
   const [{ filter, projects }, { setFilters }] = useProjects();
 
@@ -93,25 +87,28 @@ const Filters = () => {
               defaultValue={filter.districts}
               placeholder="Изберете район"
             />
-            <Text textAlign="left" mt={4} mb="8px">
-              Изберете една или няколко години
-            </Text>
+            {showYears && (
+              <>
+                <Text textAlign="left" mt={4} mb="8px">
+                  Изберете една или няколко години
+                </Text>
 
-            <HStack wrap={'wrap'} spacing="12px">
-              {years.map((year) => (
-                <Button
-                  key={year}
-                  colorScheme="gray"
-                  size="xs"
-                  my={1}
-                  isActive={filterYears && filterYears.includes(year)}
-                  onClick={() => onYearChange(year)}
-                >
-                  {year}
-                </Button>
-              ))}
-            </HStack>
-
+                <HStack wrap={'wrap'} spacing="12px">
+                  {years.map((year) => (
+                    <Button
+                      key={year}
+                      colorScheme="gray"
+                      size="xs"
+                      my={1}
+                      isActive={filterYears && filterYears.includes(year)}
+                      onClick={() => onYearChange(year)}
+                    >
+                      {year}
+                    </Button>
+                  ))}
+                </HStack>
+              </>
+            )}
             <Text textAlign="left" mt={4} mb="8px">
               Изберете тема
             </Text>

@@ -32,9 +32,11 @@ export const fetchProjects = async (filter) => {
                 : SOFIA_GPS_CENTER,
             date: el.date,
           };
-        });
+        })
+        .slice(1);
     });
 
+  console.log('smallProjects', smallProjects);
   let projects = [...PROJECTS, ...smallProjects];
 
   if (filter.years.length > 0) {
