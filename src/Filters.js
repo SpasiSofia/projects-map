@@ -70,7 +70,7 @@ const Filters = () => {
     <Box pos="absolute" top="4" right="4" zIndex="800">
       <Popover>
         <PopoverTrigger>
-          <Button color="white" background="blue.500">
+          <Button color="white" background="ssyellow.500" color="black">
             <Icon as={FiFilter} w={5} h={5} m={2} />
           </Button>
         </PopoverTrigger>
@@ -122,7 +122,14 @@ const Filters = () => {
               defaultValue={filter.topics}
               onChange={onTopicChange}
             />
-            <Button w={'100%'} mt={6} mb={4} onClick={applyFilters}>
+            <Button
+              w={'100%'}
+              mt={6}
+              mb={4}
+              onClick={applyFilters}
+              background="ssyellow.500"
+              color="black"
+            >
               Приложете филтрите
             </Button>
           </PopoverBody>

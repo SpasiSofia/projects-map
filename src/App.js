@@ -1,7 +1,4 @@
 import React from 'react';
-import logo from './spasi-sofia-logo.png';
-import districts from './data/sofia-districts.json';
-import { districtNames } from './data/sofia-districts-names';
 import {
   MapContainer,
   TileLayer,
@@ -9,7 +6,12 @@ import {
   Tooltip,
   GeoJSON,
 } from 'react-leaflet';
+import L from 'leaflet';
 import MarkerClusterGroup from 'react-leaflet-markercluster';
+
+import logo from './spasi-sofia-logo.png';
+import districts from './data/sofia-districts.json';
+import { districtNames } from './data/sofia-districts-names';
 
 import {
   Drawer,
@@ -36,10 +38,10 @@ import { SOFIA_GPS_CENTER } from './ProjectsService';
 import './App.css';
 
 // TODO Custom markers (even by project topic)
-// var myIcon = L.icon({
-//   iconUrl: 'https://cdn-icons.flaticon.com/png/512/2377/premium/2377922.png?token=exp=1636559881~hmac=29e4cb60da8c58e66b2b3a667960e2f8',
-//   iconSize: [30, 30],
-// });
+const myIcon = L.icon({
+  iconUrl: './ss-marker.svg',
+  iconSize: [40, 40],
+});
 
 const mapQuarterIdToName = (id) => {
   if (id) {
@@ -128,9 +130,9 @@ function App() {
             style={(feature) => {
               if (hoverId === feature.properties.id) {
                 return {
-                  color: '#90CDF4',
+                  color: '#f9dd95',
                   opacity: 0.8,
-                  fillColor: '#90CDF4',
+                  fillColor: '#f9dd95',
                   fillOpacity: 0.3,
                 };
               } else {
@@ -161,7 +163,7 @@ function App() {
                 <Marker
                   position={project.coordinates}
                   key={project.id}
-                  // icon={myIcon}
+                  icon={myIcon}
                   eventHandlers={{
                     click: () => {
                       setSelected(projects.find((p) => p.id === project.id));

@@ -1,7 +1,7 @@
 {
   "name": "spasi-sofia-projects-map",
   "version": "0.1.0",
-  "homepage": "http://vhod2.com/spasi-sofia-projects",
+  "homepage": "https://projects.spasisofia.org/",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^1.6.12",
