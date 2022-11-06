@@ -36,18 +36,22 @@ import Filters from './Filters';
 import { useProjects } from './ProjectsProvider';
 import { SOFIA_GPS_CENTER } from './ProjectsService';
 import './App.css';
+import { topicsToPinsMap } from './data/pins-map';
 
-// TODO Custom markers (even by project topic)
-const myIcon = L.icon({
-  iconUrl: './ss-marker.svg',
-  iconSize: [40, 40],
-});
+const markerIcon = (topic) => {
+  return L.icon({
+    iconUrl: topicsToPinsMap.get(topic) || './pins/city-for-people.svg',
+    iconSize: [40, 40],
+  });
+};
 
 const mapQuarterIdToName = (id) => {
   if (id) {
     return districtNames.get(id);
   }
 };
+
+const showLogo = false;
 
 function App() {
   const [{ projects, selected }, { setSelected }] = useProjects();
@@ -59,14 +63,16 @@ function App() {
 
   return (
     <div className="App">
-      <Box className="logo">
-        <Link href="https://spasi-sofia.org" isExternal>
-          <img src={logo} alt="Спаси София" />
-          <Text fontSize="10px" color="white" align="center" mt={'-12px'}>
-            Някои от нашите проекти
-          </Text>
-        </Link>
-      </Box>
+      {showLogo && (
+        <Box className="logo">
+          <Link href="https://spasi-sofia.org" isExternal>
+            <img src={logo} alt="Спаси София" />
+            <Text fontSize="10px" color="white" align="center" mt={'-12px'}>
+              Някои от нашите проекти
+            </Text>
+          </Link>
+        </Box>
+      )}
       <Filters />
       <Drawer
         isOpen={isOpen}
@@ -92,7 +98,6 @@ function App() {
           <DrawerBody>
             <Flex shrink={0}>
               <Box flex={1} mr={4}>
-                {' '}
                 {selected.description}
               </Box>
               <Box w="200px" flexBasis="200px">
@@ -130,10 +135,11 @@ function App() {
             style={(feature) => {
               if (hoverId === feature.properties.id) {
                 return {
-                  color: '#f9dd95',
+                  color: '#3E294D',
                   opacity: 0.8,
-                  fillColor: '#f9dd95',
-                  fillOpacity: 0.3,
+                  fillColor: '#4A2162',
+                  fillOpacity: 0.14,
+                  weight: 1,
                 };
               } else {
                 return {
@@ -163,7 +169,7 @@ function App() {
                 <Marker
                   position={project.coordinates}
                   key={project.id}
-                  icon={myIcon}
+                  icon={markerIcon(project.topic)}
                   eventHandlers={{
                     click: () => {
                       setSelected(projects.find((p) => p.id === project.id));

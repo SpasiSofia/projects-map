@@ -34,6 +34,7 @@ export const fetchProjects = async (filter) => {
           };
         });
     });
+  smallProjects.shift();
 
   let projects = [...PROJECTS, ...smallProjects];
 
