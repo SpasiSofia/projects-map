@@ -21,12 +21,10 @@ import { topics } from './data/topics';
 import { years } from './data/years';
 import { districtOptions } from './data/sofia-districts-names';
 
-function useUrlQuery() {
-  const { search } = useLocation();
-
-  return React.useMemo(() => new URLSearchParams(search), [search]);
-}
-
+// function useUrlQuery() {
+//   const { search } = useLocation();
+//   return React.useMemo(() => new URLSearchParams(search), [search]);
+// }
 const Filters = () => {
   let [searchParams, setSearchParams] = useSearchParams();
 
@@ -70,7 +68,7 @@ const Filters = () => {
     <Box pos="absolute" top="4" right="4" zIndex="800">
       <Popover>
         <PopoverTrigger>
-          <Button color="white" background="ssyellow.500" color="black">
+          <Button color="white" background="ssyellow.500">
             <Icon as={FiFilter} w={5} h={5} m={2} />
           </Button>
         </PopoverTrigger>
