@@ -39,8 +39,9 @@ export const fetchProjects = async (filter) => {
   let projects = [...PROJECTS, ...smallProjects];
 
   if (filter.years.length > 0) {
-    projects = projects.filter((project) =>
-      filter.years.includes(Number(project.date.slice(-4)))
+    projects = projects.filter(
+      (project) =>
+        project.date && filter.years.includes(Number(project.date.slice(-4)))
     );
   }
   if (filter.topics.length > 0) {

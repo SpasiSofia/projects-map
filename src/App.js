@@ -81,7 +81,7 @@ function App() {
         finalFocusRef={btnRef}
       >
         <DrawerOverlay />
-        <DrawerContent>
+        <DrawerContent style={{ height: '100%', maxHeight: '100vh' }}>
           <DrawerCloseButton />
           <DrawerHeader>
             {selected.name}
@@ -96,14 +96,41 @@ function App() {
           </DrawerHeader>
 
           <DrawerBody>
-            <Flex shrink={0}>
+            <Flex
+              shrink={0}
+              direction={{ base: 'column', sm: 'column', md: 'row', lg: 'row' }}
+            >
               <Box flex={1} mr={4}>
                 {selected.description}
               </Box>
-              <Box w="200px" flexBasis="200px">
+              <Box
+                m={{ base: '0', sm: '0', md: '2', lg: '2' }}
+                w={{
+                  base: '100%',
+                  sm: '100%',
+                  md: '100%',
+                  lg: '400px',
+                }}
+                flexBasis={{
+                  base: '100%',
+                  sm: '100%',
+                  md: '200px',
+                  lg: '400px',
+                }}
+              >
                 <Image
-                  boxSize="200px"
-                  width="200px"
+                  boxSize={{
+                    base: '100%',
+                    sm: '100%',
+                    md: '100%',
+                    lg: '400px',
+                  }}
+                  width={{
+                    base: '100%',
+                    sm: '100%',
+                    md: '200px',
+                    lg: '400px',
+                  }}
                   objectFit="cover"
                   src={selected.imageUrl}
                   alt={selected.name}
