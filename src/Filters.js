@@ -20,13 +20,12 @@ import { useLocation, useSearchParams } from 'react-router-dom';
 import { topics } from './data/topics';
 import { years } from './data/years';
 import { districtOptions } from './data/sofia-districts-names';
+import { theme } from './theme';
 
-function useUrlQuery() {
-  const { search } = useLocation();
-
-  return React.useMemo(() => new URLSearchParams(search), [search]);
-}
-
+// function useUrlQuery() {
+//   const { search } = useLocation();
+//   return React.useMemo(() => new URLSearchParams(search), [search]);
+// }
 const Filters = () => {
   let [searchParams, setSearchParams] = useSearchParams();
 
@@ -66,11 +65,35 @@ const Filters = () => {
     });
   };
 
+  const clearFilters = () => {
+    setFilterYears([]);
+    setFilterTopics([]);
+    setFilterDistricts([]);
+    setSearchParams({
+      years: [],
+      topics: [],
+      districts: [],
+    });
+
+    setFilters({
+      years: [],
+      topics: [],
+      districts: [],
+    });
+  };
+
   return (
     <Box pos="absolute" top="4" right="4" zIndex="800">
       <Popover>
         <PopoverTrigger>
-          <Button color="white" background="ssyellow.500" color="black">
+          <Button
+            color="white"
+            background="brand.900"
+            _hover={{
+              background: 'ssyellow.500',
+              color: 'white',
+            }}
+          >
             <Icon as={FiFilter} w={5} h={5} m={2} />
           </Button>
         </PopoverTrigger>
@@ -92,12 +115,18 @@ const Filters = () => {
               isMulti
               defaultValue={filter.districts}
               placeholder="Изберете район"
+              theme={theme.brand}
             />
             <Text textAlign="left" mt={4} mb="8px">
               Изберете една или няколко години
             </Text>
 
-            <HStack wrap={'wrap'} spacing="12px">
+            <HStack
+              wrap={'wrap'}
+              spacing="12px"
+              justify={'start'}
+              isInline={true}
+            >
               {years.map((year) => (
                 <Button
                   key={year}
@@ -106,6 +135,19 @@ const Filters = () => {
                   my={1}
                   isActive={filterYears && filterYears.includes(year)}
                   onClick={() => onYearChange(year)}
+                  color="white"
+                  background="gray.400"
+                  _hover={{
+                    background: 'ssyellow.500',
+                    color: 'white',
+                  }}
+                  _active={{
+                    background: 'brand.900',
+                    color: 'white',
+                  }}
+                  style={{
+                    margin: '10px 4px 0 0',
+                  }}
                 >
                   {year}
                 </Button>
@@ -119,18 +161,37 @@ const Filters = () => {
               options={topics}
               isMulti
               placeholder="Изберете тема"
-              defaultValue={filter.topics}
+              defaultValue={filterTopics}
+              variant="brand"
               onChange={onTopicChange}
             />
             <Button
               w={'100%'}
               mt={6}
-              mb={4}
+              mb={0}
               onClick={applyFilters}
-              background="ssyellow.500"
-              color="black"
+              color="white"
+              background="brand.900"
+              _hover={{
+                background: 'ssyellow.500',
+                color: 'white',
+              }}
             >
               Приложете филтрите
+            </Button>
+            <Button
+              w={'100%'}
+              mt={2}
+              mb={4}
+              onClick={clearFilters}
+              color="white"
+              background="gray.400"
+              _hover={{
+                background: 'ssyellow.300',
+                color: 'white',
+              }}
+            >
+              Изчистете филтрите
             </Button>
           </PopoverBody>
         </PopoverContent>
