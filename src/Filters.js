@@ -15,7 +15,7 @@ import {
 import { FiFilter } from 'react-icons/fi';
 import Select from 'react-select';
 import { useProjects } from './ProjectsProvider';
-import { useLocation, useSearchParams } from 'react-router-dom';
+import { useSearchParams } from 'react-router-dom';
 
 import { topics } from './data/topics';
 import { years } from './data/years';
@@ -27,7 +27,7 @@ import { theme } from './theme';
 //   return React.useMemo(() => new URLSearchParams(search), [search]);
 // }
 const Filters = () => {
-  let [searchParams, setSearchParams] = useSearchParams();
+  let [, setSearchParams] = useSearchParams();
 
   const [{ filter, projects }, { setFilters }] = useProjects();
 

@@ -1,8 +1,30 @@
-import { PROJECTS } from './data/static-projects.js';
+import { PROJECTS as STATIC_PROJECTS } from './data/static-projects.js';
 import { v4 as uuidv4 } from 'uuid';
+import { format } from 'date-fns';
 
 export const SOFIA_GPS_CENTER = [42.698334, 23.319941];
 const HOSTING_URL = 'https://opensheet.elk.sh/';
+
+const prepareProjects = (projects) => {
+  return projects.map((el) => {
+    return {
+      id: uuidv4(),
+      name: el.name,
+      description: el.description,
+      imageUrl: el.imageUrl,
+      link: el.link,
+      tags: el.tags,
+      topic: el.topic,
+      quarter: el.quarter,
+      coordinates: [
+        Number(el.gps.split(',')[0]),
+        Number(el.gps.split(',')[1].trim()),
+      ],
+      date: format(new Date(el.timestamp), 'dd.mm.yyyy'),
+      type: el.type,
+    };
+  });
+};
 
 export const fetchProjects = async (filter) => {
   let smallProjects = [];
@@ -36,7 +58,7 @@ export const fetchProjects = async (filter) => {
     });
   smallProjects.shift();
 
-  let projects = [...PROJECTS, ...smallProjects];
+  let projects = [...prepareProjects(STATIC_PROJECTS)]; //, ...smallProjects];
 
   if (filter.years.length > 0) {
     projects = projects.filter(

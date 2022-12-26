@@ -137,6 +137,11 @@ function App() {
                 />
               </Box>
             </Flex>
+            <Flex>
+              <Box flex={1} mr={4}>
+                {selected.tags}
+              </Box>
+            </Flex>
           </DrawerBody>
 
           <DrawerFooter justifyContent={'flex-start'}>

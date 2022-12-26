@@ -4,7 +4,7 @@ import { useQuery } from 'react-query';
 import { fetchProjects } from './ProjectsService';
 import { useSearchParams } from 'react-router-dom';
 
-const TasksContext = React.createContext(null);
+const ProjectsContext = React.createContext(null);
 
 const INITIAL_STATE = {
   projects: [],
@@ -17,7 +17,7 @@ const INITIAL_STATE = {
 };
 
 export const useProjects = () => {
-  const context = React.useContext(TasksContext);
+  const context = React.useContext(ProjectsContext);
 
   if (context === null) {
     throw new Error('useTasks must be within TasksProvider');
@@ -27,7 +27,7 @@ export const useProjects = () => {
 };
 
 export const ProjectsProvider = ({ children }) => {
-  let [searchParams, setSearchParams] = useSearchParams();
+  let [searchParams] = useSearchParams();
 
   const yearsParams = searchParams.get('years');
   const topicsParams = searchParams.get('topics');
@@ -68,7 +68,7 @@ export const ProjectsProvider = ({ children }) => {
   };
 
   return (
-    <TasksContext.Provider value={[state, callbacks]} children={children} />
+    <ProjectsContext.Provider value={[state, callbacks]} children={children} />
   );
 };
 
