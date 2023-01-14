@@ -1,18 +1,22 @@
 import { PROJECTS as STATIC_PROJECTS } from './data/static-projects.js';
 import { v4 as uuidv4 } from 'uuid';
-import { format } from 'date-fns';
+import { format, parse } from 'date-fns';
 
 export const SOFIA_GPS_CENTER = [42.698334, 23.319941];
-const HOSTING_URL = 'https://opensheet.elk.sh/';
+// const HOSTING_URL = 'https://opensheet.elk.sh/';
+const BASE_URL = 'https://spasisofia.org';
 
 const prepareProjects = (projects) => {
   return projects.map((el) => {
+    if (!el.timestamp) {
+      console.log(el.name, el.timestamp);
+    }
     return {
       id: uuidv4(),
       name: el.name,
       description: el.description,
       imageUrl: el.imageUrl,
-      link: el.link,
+      link: el.link ? BASE_URL + el.link : el.link,
       tags: el.tags,
       topic: el.topic,
       quarter: el.quarter,
@@ -20,43 +24,46 @@ const prepareProjects = (projects) => {
         Number(el.gps.split(',')[0]),
         Number(el.gps.split(',')[1].trim()),
       ],
-      date: format(new Date(el.timestamp), 'dd.mm.yyyy'),
+      date: format(
+        parse('', '', new Date(el.timestamp.replace(' ', 'T'))),
+        'dd.mm.yyyy'
+      ),
       type: el.type,
     };
   });
 };
 
 export const fetchProjects = async (filter) => {
-  let smallProjects = [];
+  // let smallProjects = [];
 
   // https://benborgers.com/posts/google-sheets-json
   // 1gw5_HxfGup6dqVk0fWucEKY2wMtee_iMYX689Ubnt8g
-  await fetch(
-    HOSTING_URL + '1gw5_HxfGup6dqVk0fWucEKY2wMtee_iMYX689Ubnt8g/projectslist'
-  )
-    .then((response) => response.json())
-    .then((data) => {
-      smallProjects = data
-        .filter((project) => project.timestamp)
-        .map((el) => {
-          return {
-            id: uuidv4(),
-            name: el.name,
-            description: el.description,
-            imageUrl: el.imageUrl,
-            link: el.link,
-            tags: el.tags ? el.tags.split(',') : [],
-            topic: el.topic,
-            quarter: el.quarter,
-            coordinates:
-              el.gpsLat & el.gpsLon
-                ? [Number(el.gpsLat), Number(el.gpsLon)]
-                : SOFIA_GPS_CENTER,
-            date: el.date,
-          };
-        });
-    });
-  smallProjects.shift();
+  // await fetch(
+  //   HOSTING_URL + '1gw5_HxfGup6dqVk0fWucEKY2wMtee_iMYX689Ubnt8g/projectslist'
+  // )
+  //   .then((response) => response.json())
+  //   .then((data) => {
+  //     smallProjects = data
+  //       .filter((project) => project.timestamp)
+  //       .map((el) => {
+  //         return {
+  //           id: uuidv4(),
+  //           name: el.name,
+  //           description: el.description,
+  //           imageUrl: el.imageUrl,
+  //           link: el.link,
+  //           tags: el.tags ? el.tags.split(',') : [],
+  //           topic: el.topic,
+  //           quarter: el.quarter,
+  //           coordinates:
+  //             el.gpsLat & el.gpsLon
+  //               ? [Number(el.gpsLat), Number(el.gpsLon)]
+  //               : SOFIA_GPS_CENTER,
+  //           date: el.date,
+  //         };
+  //       });
+  //   });
+  // smallProjects.shift();
 
   let projects = [...prepareProjects(STATIC_PROJECTS)]; //, ...smallProjects];
 

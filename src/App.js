@@ -41,7 +41,7 @@ import { topicsToPinsMap } from './data/pins-map';
 const markerIcon = (topic) => {
   return L.icon({
     iconUrl: topicsToPinsMap.get(topic) || './pins/city-for-people.svg',
-    iconSize: [40, 40],
+    iconSize: [36, 56],
   });
 };
 
@@ -60,6 +60,8 @@ function App() {
 
   const [regionName, setRegionName] = React.useState('');
   const [hoverId, setHoverId] = React.useState(null);
+
+  console.log('ss', selected.imageUrl);
 
   return (
     <div className="App">
@@ -81,7 +83,14 @@ function App() {
         finalFocusRef={btnRef}
       >
         <DrawerOverlay />
-        <DrawerContent style={{ height: '100%', maxHeight: '100vh' }}>
+        <DrawerContent
+          style={{
+            height: '100%',
+            maxHeight: '50vh',
+            background: '#fff',
+            color: '#1A202C',
+          }}
+        >
           <DrawerCloseButton />
           <DrawerHeader>
             {selected.name}
@@ -102,6 +111,13 @@ function App() {
             >
               <Box flex={1} mr={4}>
                 {selected.description}
+                <Flex>
+                  <Box flex={1} mr={4} fontSize={1}>
+                    <Text fontSize="sm">
+                      <em>{selected.tags}</em>
+                    </Text>
+                  </Box>
+                </Flex>
               </Box>
               <Box
                 m={{ base: '0', sm: '0', md: '2', lg: '2' }}
@@ -109,48 +125,65 @@ function App() {
                   base: '100%',
                   sm: '100%',
                   md: '100%',
-                  lg: '400px',
+                  lg: '250px',
                 }}
                 flexBasis={{
                   base: '100%',
                   sm: '100%',
-                  md: '200px',
-                  lg: '400px',
+                  md: '250px',
+                  lg: '250px',
                 }}
               >
-                <Image
-                  boxSize={{
-                    base: '100%',
-                    sm: '100%',
-                    md: '100%',
-                    lg: '400px',
-                  }}
-                  width={{
-                    base: '100%',
-                    sm: '100%',
-                    md: '200px',
-                    lg: '400px',
-                  }}
-                  objectFit="cover"
-                  src={selected.imageUrl}
-                  alt={selected.name}
-                />
-              </Box>
-            </Flex>
-            <Flex>
-              <Box flex={1} mr={4}>
-                {selected.tags}
+                {selected.imageUrl ? (
+                  <Image
+                    boxSize={{
+                      base: '100%',
+                      sm: '100%',
+                      md: '100%',
+                      lg: '250px',
+                    }}
+                    width={{
+                      base: '100%',
+                      sm: '100%',
+                      md: '250px',
+                      lg: '250px',
+                    }}
+                    objectFit="cover"
+                    src={selected.imageUrl}
+                    alt={selected.name}
+                  />
+                ) : (
+                  <Image
+                    boxSize={{
+                      base: '100%',
+                      sm: '100%',
+                      md: '100%',
+                      lg: '250px',
+                    }}
+                    width={{
+                      base: '100%',
+                      sm: '100%',
+                      md: '250px',
+                      lg: '250px',
+                    }}
+                    objectFit="cover"
+                    src={'https://via.placeholder.com/250?text=SpasiSofia'}
+                    alt={selected.name}
+                  />
+                )}
               </Box>
             </Flex>
           </DrawerBody>
 
-          <DrawerFooter justifyContent={'flex-start'}>
-            <Button colorScheme="brand">
-              <Link href={selected.link} isExternal>
-                Виж проекта в сайта на Спаси София
-              </Link>
-            </Button>
-          </DrawerFooter>
+          {selected.link && (
+            <DrawerFooter justifyContent={'flex-start'}>
+              <Button colorScheme="brand" style={{ color: '#fff' }}>
+                <Link href={selected.link} isExternal>
+                  Виж повече за проекта
+                </Link>
+              </Button>
+            </DrawerFooter>
+          )}
         </DrawerContent>
       </Drawer>
       <div className="map">
