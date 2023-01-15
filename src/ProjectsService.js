@@ -8,9 +8,6 @@ const BASE_URL = 'https://spasisofia.org';
 
 const prepareProjects = (projects) => {
   return projects.map((el) => {
-    if (!el.timestamp) {
-      console.log(el.name, el.timestamp);
-    }
     return {
       id: uuidv4(),
       name: el.name,

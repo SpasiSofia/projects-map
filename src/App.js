@@ -61,8 +61,6 @@ function App() {
   const [regionName, setRegionName] = React.useState('');
   const [hoverId, setHoverId] = React.useState(null);
 
-  console.log('ss', selected.imageUrl);
-
   return (
     <div className="App">
       {showLogo && (
