@@ -13,7 +13,7 @@ const prepareProjects = (projects) => {
       name: el.name,
       description: el.description,
       imageUrl: el.imageUrl,
-      link: el.link ? BASE_URL + el.link : el.link,
+      link: el.link ? BASE_URL + el.link.replace(/\.html$/, '') : el.link,
       tags: el.tags,
       topic: el.topic,
       quarter: el.quarter,
