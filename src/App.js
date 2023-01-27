@@ -84,7 +84,7 @@ function App() {
         <DrawerContent
           style={{
             height: '100%',
-            maxHeight: '50vh',
+            maxHeight: '80vh',
             background: '#fff',
             color: '#1A202C',
           }}

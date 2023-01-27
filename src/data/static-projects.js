@@ -7,8 +7,8 @@ export const PROJECTS = [
       'Нашето предложение - справедлива и гъвкава билетна система за София. Предлагаме пакет от решения, който ще позволи всички софиянци да се възползват от потенциала на новата електронна система, в която инвестирахме 100 млн. лв. Предвидили сме решения и подобрения за всички категории пътници – както за онези, които пътуват всеки ден, така и за тези, които пътуват по-рядко. По този начин целим да дадем старт на серия подобрения, които да направят градския транспорт на София удобен, привлекателен и конкурентен.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/11/%D0%A2%D0%B8%D0%BA%D0%B5%D1%82-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F-8-1024x576.png',
-    oldLink: 'https://spasisofia.org/bg/nova-biletna-sistema.html',
-    link: '/projects/predlagame-nova-spravedliva-i-moderna-biletna-sistema-za-sofia.html',
+    oldLink: 'https://spasisofia.org/bg/nova-biletna-sistema',
+    link: '/projects/predlagame-nova-spravedliva-i-moderna-biletna-sistema-za-sofia',
     topic: 'Транспорт и инфраструктура',
     tags: 'автобус, билетна система, градски транспорт, метро, трамвай, тролейбус',
     gps: '42.70763679107009, 23.323458544148906',
@@ -24,9 +24,8 @@ export const PROJECTS = [
       'Екипът на Спаси София разработи идеен проект за нови спирки по линията на Трамвай №5. Предлагаме най-натоварената линия в София, която ежедневно се ползва от над 50 000 пътници, да разполага с безопасни и удобни за пътниците спирки. Нашата концепция включва широки перони с дълги навеси, удобни и функционални пейки, равна настилка – все елементите на спирка, гарантиращи комфорт. ',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/06/SS-Tram-Stop-View-01-Frontal-1024x576.jpg',
-    oldLink:
-      'https://spasisofia.org/bg/tramvayni-spirki-po-tsar-boris-iii.html',
-    link: '/projects/predlagame-udobni-i-moderni-spirki-po-tramvaynoto-trase-na-bul-tsar-boris-iii.html',
+    oldLink: 'https://spasisofia.org/bg/tramvayni-spirki-po-tsar-boris-iii',
+    link: '/projects/predlagame-udobni-i-moderni-spirki-po-tramvaynoto-trase-na-bul-tsar-boris-iii',
     topic: 'Транспорт и инфраструктура',
     tags: 'бул. Цар Борис III, спирки, ремонт, удобни, модерни, трамвай, комфорт',
     gps: '42.68133130069222, 23.28976235947849',
@@ -42,8 +41,8 @@ export const PROJECTS = [
       'Зона с ограничение на скоростта за движение до 30 км/ч или Зона 30 е утвърден в световната практика инструмент за управление и успокояване на трафика. За да проработи зоната и в нашия град, от Спаси София предлагаме 5 задължителни компоненти за прилагане. Ключово е ограниченото градско пространство да бъде справедливо разделено за ползване между различните участници в движението и значително да подобри удобството и безопасността на пешеходците, които са най-уязвими. Важно е и кварталите, попадащи в зоната, да получат и естетическа промяна – обмислена и хармонична визия, нови тротоари, повече дървета, пейки и повдигнати и обезопасени кръстовища.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/06/%D0%97%D0%BE%D0%BD%D0%B030-3.jpg',
-    oldLink: 'https://spasisofia.org/bg/zona30.html',
-    link: '/projects/kakvo-e-zona-30-i-kak-da-proraboti-v-sofia.html',
+    oldLink: 'https://spasisofia.org/bg/zona30',
+    link: '/projects/kakvo-e-zona-30-i-kak-da-proraboti-v-sofia',
     topic: 'Транспорт и инфраструктура',
     tags: 'зона 30, паркиране, зона, безопасност на движението, успокояване на трафика',
     gps: '42.686475191306826, 23.314005700048593',
@@ -60,8 +59,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/04/administrativno-obsluzhvane-gluhi-sofiyantsi.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%be%d0%b1%d1%81%d0%bb%d1%83%d0%b6%d0%b2%d0%b0%d0%bd%d0%b5-%d1%81-%d0%b6%d0%b5%d1%81%d1%82%d0%be%d0%b2-%d0%b5%d0%b7%d0%b8%d0%ba.html',
-    link: '/projects/doklad-obsluzhvane-na-zhestov-ezik-v-obshtinskata-administratsiya.html',
+      'https://spasisofia.org/bg/%d0%be%d0%b1%d1%81%d0%bb%d1%83%d0%b6%d0%b2%d0%b0%d0%bd%d0%b5-%d1%81-%d0%b6%d0%b5%d1%81%d1%82%d0%be%d0%b2-%d0%b5%d0%b7%d0%b8%d0%ba',
+    link: '/projects/doklad-obsluzhvane-na-zhestov-ezik-v-obshtinskata-administratsiya',
     topic: 'Проекти и реформи',
     tags: 'жестов език, общинска администрация, интегриране',
     gps: '42.6942021797256, 23.318214135986675',
@@ -77,8 +76,8 @@ export const PROJECTS = [
       'Предлагаме намаляване на броя на "служебните абонаменти", за да може София да се развива като модерна европейска столица. Наложително е да се направят редица подобрения, да се постигне баланс между интересите на живущите и приходящите автомобили, особено в центъра на града, да се намалят местата, които безконтролно се отдават в режим “служебен абонамент” и да се увеличат местата за свободно ползване в зоните за платено почасово паркиране.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/05/Site-pic-1024x713.png',
-    oldLink: 'https://spasisofia.org/bg/sluzhebni-abonamenti.html',
-    link: '/projects/doklad-namalyavane-na-broya-na-sluzhebnite-abonamenti.html',
+    oldLink: 'https://spasisofia.org/bg/sluzhebni-abonamenti',
+    link: '/projects/doklad-namalyavane-na-broya-na-sluzhebnite-abonamenti',
     topic: 'Паркиране',
     tags: 'паркиране, служебен абонамент, места, свободни места',
     gps: '42.69426924631986, 23.32765995273845',
@@ -94,8 +93,8 @@ export const PROJECTS = [
       'Метрото до ИКЕА за 200 милиона ще стимулира презастрояването, връзката с лифта е мит, няма достатъчно пътници, а една автобусна линия би била достатъчна да довозва хората до близката метростанция при Бизнес парка. Необяснимо е защо територия, за която е преценено, че няма достатъчно пътници и за редовен автобус, изведнъж има толкова голяма необходимост от метро. Глупаво е до безкрай да се инвестират почти всички налични средства само в метрото, докато градът ни продължава да е осеян с разпадащи се тротоари и улици, занемарени междублокови пространства, липсват паркинги и детски градини, а редица квартали от десетилетия се борят за канализация!',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/04/metro-do-ikea-thumb.png',
-    oldLink: 'https://spasisofia.org/bg/metro-do-ikea.html',
-    link: '/projects/metro-do-ikea-200-mln-podarak-za-molove-i-kompleksi.html',
+    oldLink: 'https://spasisofia.org/bg/metro-do-ikea',
+    link: '/projects/metro-do-ikea-200-mln-podarak-za-molove-i-kompleksi',
     topic: 'Транспорт и инфраструктура',
     tags: 'метро, икеа, магазин, лифт, мол, комплекс, подарък, градски транспорт',
     gps: '42.6231607,23.3558212',
@@ -111,8 +110,8 @@ export const PROJECTS = [
       'Планината Витоша безспорно е едно от най-големите природни богатства на София, чиято близост до града прави столицата ни уникална в европейски мащаб. Въпреки този потенциал, достъпът с обществен транспорт до планината остава дълбоко проблематичен и неадресиран. Поради това от Спаси София предлагаме подобрение на транспортното обслужване за практикуващите различни велоспортове в ПП „Витоша“. Необходимо е да се закупят и монтирант велобагажници на 6 от автобусите, обслужващи излетните автобусни линии 63 и 66, като по този начин се ограничи сериозния автомобилен трафик и се намали шумовото и прахово замърсяване на въздуха в планината и природния парк.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/03/Velobagazhnici-1024x755.png',
-    oldLink: 'https://spasisofia.org/bg/velobagazhnici-avtobusi.html',
-    link: '/projects/doklad-postavyane-na-velobagazhnitsi-za-dostap-do-vitosha.html',
+    oldLink: 'https://spasisofia.org/bg/velobagazhnici-avtobusi',
+    link: '/projects/doklad-postavyane-na-velobagazhnitsi-za-dostap-do-vitosha',
     topic: 'Транспорт и инфраструктура',
     tags: 'планина, Витоша, София, велосипед, велобагажник, градски транспорт, автобус',
     gps: '42.609814247591906, 23.23603959014926',
@@ -128,8 +127,8 @@ export const PROJECTS = [
       'Предлагаме нова линия №173, която да обслужва гъстозаселените и презастроени квартали в южна София между Овча купел и Окръжна болница. Тя ще осигури пряко свързване на най-натоварените линии на наземния транспорт (трамваи: 4, 5, 7, 10, 11; автобуси: 11, 76, 83, 88, 102, 120, 204, 604; тролейбуси: 4, 5, 7, 8, 11) с една-единствена линия на градския транспорт, с което чувствително се подобряват връзките и се улесняват прекачванията. В допълнение, създаването на изцяло нови връзки ще влияе положително върху степента на моторизация и в посока намаляване на ежедневното ползване на лични превозни средства.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/02/173-05-1024x724.png',
-    oldLink: 'https://spasisofia.org/bg/linia173.html',
-    link: '/projects/doklad-predlagame-nova-liniya-173-za-yuzhnite-kvartali.html',
+    oldLink: 'https://spasisofia.org/bg/linia173',
+    link: '/projects/doklad-predlagame-nova-liniya-173-za-yuzhnite-kvartali',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, линия, 173, южни квартали, автобус',
     gps: '42.66829336755229, 23.29886237335358',
@@ -145,8 +144,8 @@ export const PROJECTS = [
       'Екипът на Спаси София разработи наръчник за редене на павета, който да гарантира, че настилка, изградена от паваж, може да изглежда добре и функционалността ѝ да се запази за дълъг период от време. В него са включени 5 правила за добре наредени павета, така че в съвременния свят на силно урбанизирани територии да се инвестира в качествена градска среда и да не се подценява потенциалът на на пръв поглед неугледни пространства, защото подмяната на настилката и създаването на акцент може да подобри и оживи градското пространство.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/11/cobblestones_2_2-1024x724.jpg',
-    oldLink: 'https://spasisofia.org/bg/krasiv-pavazh.html',
-    link: '/projects/krasiv-pavazh-misiya-vazmozhna.html',
+    oldLink: 'https://spasisofia.org/bg/krasiv-pavazh',
+    link: '/projects/krasiv-pavazh-misiya-vazmozhna',
     topic: 'Град за хората',
     tags: 'красив, паваж, редене, мисия, възможна',
     gps: '42.69448179496962, 23.33110841243177',
@@ -162,8 +161,8 @@ export const PROJECTS = [
       'Прочетете предложените проекти от Спаси София за включване в Бюджет 2021. Това са мерки за изграждане, ремонт и поддръжка на уличната мрежа, инвестиции в кварталите, както и изработването на проекти за стратегически обекти за развитието на града ни. ',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/01/budget-640x640-1.gif',
-    oldLink: 'https://spasisofia.org/bg/stanovishte-budget-2021.html',
-    link: '/projects/stanovishte-byudzhet-2021.html',
+    oldLink: 'https://spasisofia.org/bg/stanovishte-budget-2021',
+    link: '/projects/stanovishte-byudzhet-2021',
     topic: 'Проекти и реформи',
     tags: 'становище, бюджет 2021, София',
     gps: '42.696929037112554, 23.331686953730483',
@@ -179,8 +178,8 @@ export const PROJECTS = [
       'Общинският съветник на Спаси София Борис Бонев внесе доклад, с който се предлага преустройство в детски заведения на пет сгради в районите Красно село, Средец, Надежда, Възраждане и Нови Искър, които в миналото са се ползвали за детски градини. В контекста на тежкия недостиг на места в детските заведения в София и на фона на сериозната икономическа и здравна криза, Столичната община следва да предприеме както дългосрочни, така и краткосрочни мерки за намаляване на недостига. Въпреки че основният фокус на администрацията на Общината следва да бъде в дългосрочните мерки, един комплексен подход ще позволи намаляване на негативните ефекти от недостига, който сериозно затруднява нормалния живот и успешното развитие на родителите и децата на София.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/01/5-sgradi-detski-gradini-1024x1024.png',
-    oldLink: 'https://spasisofia.org/bg/5-sgradi-za-detski-gradini.html',
-    link: '/projects/predlagame-5-novi-detski-gradini-v-sgradi-koito-predi-sa-bili-detski-zavedeniya.html',
+    oldLink: 'https://spasisofia.org/bg/5-sgradi-za-detski-gradini',
+    link: '/projects/predlagame-5-novi-detski-gradini-v-sgradi-koito-predi-sa-bili-detski-zavedeniya',
     topic: 'Образование и култура',
     tags: 'детски градини, детски заведения, предложение',
     gps: '42.70290415268385, 23.308146473821733',
@@ -196,8 +195,8 @@ export const PROJECTS = [
       'Предложението ни за съкращаване на сроковете за премахване на изоставените автомобили от улиците беше прието и вече официално е в сила. Успяхме да постигнем над 4 пъти по-кратки срокове. Така, минималният възможен срок за премахване на старите коли от общинските и държавните площи вече е 6 месеца, вместо досегашните 27 месеца.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/01/%D0%98%D0%A3%D0%9C%D0%9F%D0%A1-%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8-2.png',
-    oldLink: 'https://spasisofia.org/bg/izostaveni-koli-promeni.html',
-    link: '/projects/predlozhenieto-ni-za-pobarzo-premahvane-na-starite-koli-e-prieto.html',
+    oldLink: 'https://spasisofia.org/bg/izostaveni-koli-promeni',
+    link: '/projects/predlozhenieto-ni-za-pobarzo-premahvane-na-starite-koli-e-prieto',
     topic: 'Паркиране',
     tags: 'стари коли, изоставени автомобили, репратриране, стикиране',
     gps: '42.70276393386805, 23.307045034042897',
@@ -212,8 +211,8 @@ export const PROJECTS = [
     description:
       'Годишен отчет на организацията за 2020г. който представя дейностите на Спаси София както в Столичния общински съвет, така и като гражданска организация. В него са включени над 100 ключови проекта, по които организацията работи през годината в осем основни направления: Общински съвет, градска среда, транспорт, екология, култура, образование и спорт, коректив и прозрачно управление и Спаси София, където представяме експертните ни становища и други дейности, свързани с гражданската ни активност.',
     imageUrl: '',
-    oldLink: 'https://spasisofia.org/bg/godishen-otchet-2020.html',
-    link: '/projects/godishen-otchet-na-spasi-sofia-za-2020-g.html',
+    oldLink: 'https://spasisofia.org/bg/godishen-otchet-2020',
+    link: '/projects/godishen-otchet-na-spasi-sofia-za-2020-g',
     topic: 'Проекти и реформи',
     tags: 'Спаси София, годишен, отчет, 2020 година',
     gps: '42.696631890315274, 23.32186739420513',
@@ -229,8 +228,8 @@ export const PROJECTS = [
       'В много квартали паркоместата биват заети и от нефункциониращи или изоставени автомобили, което допълнително усложнява и без това тежките проблеми с паркирането. Осъзнавайки този проблем и очевидното му решение, през последните години гражданите масово сигнализират общините за изоставени по улиците превозни средства в търсене на съдействие. Затоа от Спаси София внесохме мотивирано предложение до МВР, МОСВ и МТИТС за значително ускоряване на процедурата по премахване на изоставени автомобили.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/10/%D0%98%D0%A3%D0%9C%D0%9F%D0%A1-3.1-1229x1536.png',
-    oldLink: 'https://spasisofia.org/bg/izostaveni-koli.html',
-    link: '/projects/mnogo-pobarzo-premahvane-na-izostavenite-avtomobili.html',
+    oldLink: 'https://spasisofia.org/bg/izostaveni-koli',
+    link: '/projects/mnogo-pobarzo-premahvane-na-izostavenite-avtomobili',
     topic: 'Паркиране',
     tags: 'стари коли, изоставени автомобили, репратриране, стикиране',
     gps: '42.70147334022585, 23.331691754215015',
@@ -246,8 +245,8 @@ export const PROJECTS = [
       'След три години борба на Спаси София за поставяне на спирков навес на една от най-натоварените спирки в целия град, хилядите, които всеки ден се прeкачват при метростанция Г. М. Димитров вече могат да се скрият от дъжда или да седнат на сянка. На спирката вече има голям навес и разширен тротоар, в удобство на всички столичани. Вярваме, че дори такива наглед дребни промени са ключови за превръщането на София в уреден и приятен за живот град, което винаги е била нашата основна цел.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/02/naves-spirka.png',
-    oldLink: 'https://spasisofia.org/bg/doklad-naves-gmdimitrov.html',
-    link: '/projects/doklad-izgrazhdane-na-naves-na-spirkata-pri-metrostantsiya-gm-dimitrov.html',
+    oldLink: 'https://spasisofia.org/bg/doklad-naves-gmdimitrov',
+    link: '/projects/doklad-izgrazhdane-na-naves-na-spirkata-pri-metrostantsiya-gm-dimitrov',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, спирки, навес, ГМ Димитров, Студентски град, метро',
     gps: '42.662716552616686, 23.358010427941974',
@@ -263,8 +262,8 @@ export const PROJECTS = [
       'Искаме всеки квартал на София да има красив и уреден парк. Затова разработихме идеен проект за парк "Люлин градина" в най-голямото междублоково пространство на Люлин. През 2020 г. представихме проекта пред местните, а след това го дарихме безвъзмездно на Общината. Оттогава досега се борим за неговата реализация. Ето как той ще подобри живота на люлинчани:\r\n- Голяма и уредена зелена площ с богато озеленяване, алейна мрежа, пейки за сядане и места за отдих и общуване.\r\n- Две детски игрища за малки и по-големи деца и комбинирано спортно игрище за различни спортове.\r\n- Осветление, видео наблюдение, модерен дизайн и прекрасна ландшафна архитектура.\r\nЛюлин градина е безпрецедентен проект, разработен изцяло доброволно и безплатно от граждани за граждани. Истински вярваме, че запуснатите междублокови пространства могат да бъдат превърнати в красиви и приятни градини, които да са център на обществения живот в кварталите. Люлин градина е само първата от многото градски трансформации, които искаме и ще направим в София!',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/10/Copy-of-Vis-05-Aerial-Night-Edit-1-1024x576.jpg',
-    oldLink: 'https://spasisofia.org/bg/lulin-gradina.html',
-    link: '/projects/preobrazyavane-lyulin-gradina-vizhte-proekta.html',
+    oldLink: 'https://spasisofia.org/bg/lulin-gradina',
+    link: '/projects/preobrazyavane-lyulin-gradina-vizhte-proekta',
     topic: 'Град за хората',
     tags: 'София, Люлин, градина, парк, преобразяване, проект',
     gps: '42.710996, 23.248702',
@@ -280,8 +279,8 @@ export const PROJECTS = [
       'През 2020 г. Борис Бонев внесе доклад в Общинския съвет, адресиращ тежкия недостиг на места в детските заведения в София. В него предлагаме преустрояването на сгради, използвани от други институции, в детски градини и използването за това на вече съществуващи сгради, но заети от общината и изпълняващи досега други функции, както и приоритетно строителство на детски градини в най-засегнатите райони. Други мерки, за които се застъпваме в доклада е строг контрол на текущите ремонти, така че да се изпълняват в срок и с високо качество и планиране на бъдещи детски заведения спрямо капаците на новостроящите се сгради. Изграждането на информационна система за реалния брой на децата и нужните за тях места ще помогне на планирането в бъдеще. Докладът предлага методология, която би подсигурила последователното разрешаване на тежкия недостиг на места в детските заведения. За жалост засега хроничният недостиг на около 10 000 места в детските градини не намалява и даже се увеличава. ',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/09/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8-%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D0%B8-%D0%9F%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%B8-1117x1536.png',
-    oldLink: 'https://spasisofia.org/bg/doklad-nedostig-detski-gradini.html',
-    link: '/projects/doklad-otnosno-nedostiga-na-mesta-v-yaslite-i-detskite-gradini-v-stolichnata-obshtina.html',
+    oldLink: 'https://spasisofia.org/bg/doklad-nedostig-detski-gradini',
+    link: '/projects/doklad-otnosno-nedostiga-na-mesta-v-yaslite-i-detskite-gradini-v-stolichnata-obshtina',
     topic: 'Образование и култура',
     tags: 'доклад, община, детски градини, Столична община, недостиг, места',
     gps: '42.702694536947504, 23.308086562406093',
@@ -296,8 +295,8 @@ export const PROJECTS = [
     description:
       'Площад Света Неделя трябва да остане изцяло пешеходен и с трамваи, но без достъп за коли, с ремонтирани настилки и подходящо експонирана аргеология. Битката ни вече се точи с години, като сме внесли редица сигнали, становища и доклад относно състоянието му. Емблематичният площад днес е превърнат в безразборен, опасен и грозен паркинг. Вместо да бъдат изпълнени всички давани през годините препоръки от различни специалисти там да бъде истинска пешеходна зона, днес пешеходците са принудени да лавират между спрели и маневриращи автомобили.',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2020/09/1.png',
-    oldLink: 'https://spasisofia.org/bg/stanovishte-sveta-nedelya.html',
-    link: '/projects/stanovishte-ideyno-reshenie-za-obnovyavane-na-ploshtad-sv-nedelya.html',
+    oldLink: 'https://spasisofia.org/bg/stanovishte-sveta-nedelya',
+    link: '/projects/stanovishte-ideyno-reshenie-za-obnovyavane-na-ploshtad-sv-nedelya',
     topic: 'Град за хората',
     tags: 'становище, площад, Света Неделя, обновяване, решение',
     gps: '42.69671, 23.32141',
@@ -313,8 +312,8 @@ export const PROJECTS = [
       'Спаси София се пребори да се наложи единен стандарт за визуалната информация в метрото. Всички табели, схеми и карти, които улесняват пътуването в метрото, са изработени спрямо Стандарта за информация от нашия екип. Най-важните промени включват:\nВъвеждането на линия М4 (жълта). Доскорошната дълга линия М2 условно се раздели на две, а целта е улесняването на прекачванията и намаляване на паразитните пътувания. Директната връзка без прекачване между Люлин, Обеля и Надежда остава до построяването на междинната станция Модерно предградие, когато линията ще се раздели и физически.\nВсички станции бяха оборудвани с карти на цялостната мрежа на градския транспорт в София.\nС цел по-удобни и лесни прекачвания, станциите имат и подробни карти на районите, като са нанесени всички спирки, както и линиите на наземния транспорт, които ги обслужват. Всеки изход на всяка станция отново е означен с номер и име за по-лесна ориентация.\nВходовете са оборудвани с челни табели, съдържащи името на станцията, номера на изхода и метролинията, обслужваща станцията, както и карта на цялата метро мрежа и подробна карта на района.\nВ новите влакове пък ще ви посрещнат схемите на цялата метро мрежа, а над вратите на линия М3 и схемата на метрото.\nНовият визуален стандарт е базиран на най-добрите, успешни и модерни световни системи, но получи и своя собствена, софийска идентичност. Табелите са контрастни, светли, лесно четими и двуезични. Те са израз на стремежа ни софийското метро да има единна, модерна и изчистена визия, която значително да улесни ориентацията на жителите и гостите на София.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2023/01/Novite-tabeli.jpg',
-    oldLink: 'https://spasisofia.org/bg/novite-tabeli.html',
-    link: '/projects/galeriya-novite-tabeli-v-metroto.html',
+    oldLink: 'https://spasisofia.org/bg/novite-tabeli',
+    link: '/projects/galeriya-novite-tabeli-v-metroto',
     topic: 'Транспорт и инфраструктура',
     tags: 'метро, табела, градски транспорт, дизайн',
     gps: '42.69785256025554, 23.321071105184707',
@@ -330,8 +329,8 @@ export const PROJECTS = [
       'След наш доклад множество служебни паркоместа на институциите бяха премахнати и така спечелихме стотици нови паркоместа за софиянци. Преборихме се за повече баланс между интересите на живущите, приходящите и институциите, защото това би означавало справедливост при разпределението на публичното пространство. Битката не е приключила - все още има институции, които са окупирали улици и площади. Искаме да сложим край на привилегиите на институциите, които са превърнали някои от най-емблематичните пространства на София в безкрайни паркинги, напълно незаконно! Борим се за по-красив и приятен град - част от паркингите по тротоарите ще бъдат премахнати или реорганизирани, защото не отговарят на нормативните изисквания. Тротоарите отново ще бъдат върнати на пешеходците.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2023/01/reforma-parkirane-slujebni-abonamenti.jpg',
-    oldLink: 'https://spasisofia.org/bg/reforma-parkirane.html',
-    link: '/projects/vreme-e-za-reforma-na-parkiraneto-v-sofia-5-vazhni-podobreniya-koito-predlagame.html',
+    oldLink: 'https://spasisofia.org/bg/reforma-parkirane',
+    link: '/projects/vreme-e-za-reforma-na-parkiraneto-v-sofia-5-vazhni-podobreniya-koito-predlagame',
     topic: 'Паркиране',
     tags: 'реформа, подобрение, служебен абонамент, паркиране',
     gps: '42.69420239530772, 23.327076166505798',
@@ -347,8 +346,8 @@ export const PROJECTS = [
       'В София има място за всички. Затова по 18 метра широкото пътно платно по бул. „Патриарх Евтимий“, между Попа и Петте кьошета, настояваме да бъдат изградени нова велоалея, БУС лента и безопасни пешеходни пресичания. За първи път в София ще се направят и т. нар. виенски спирки, които подобряват комфорта на пътниците и намаляват конфликтите с велосипедите. По бул. „Витоша“ предвиждаме освобождаване на тротоара покрай парка на НДК чрез сваляне на велоалеята по пътното платно. Така конфликтите между пешеходци и велосипеди по тесният и натоварен тротоар ще станат минало. Паркирането пък от успоредно ще стане косо, с което броят на местата се увеличава с над 40%. Ул. „Проф. Фритьоф Нансен“ става двупосочен с цел оптимизиране на тролейбусна линия 7 и равномерно разпределяне на трафика в района, при запазване на съществуващите места за паркиране.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/05/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%85%D0%B0-FB-Cover-v1-1024x576.png',
-    oldLink: 'https://spasisofia.org/bg/patriarha-promyana.html',
-    link: '/projects/patriarha-se-promenya-parviyat-evropeyski-bulevard-v-sofia.html',
+    oldLink: 'https://spasisofia.org/bg/patriarha-promyana',
+    link: '/projects/patriarha-se-promenya-parviyat-evropeyski-bulevard-v-sofia',
     topic: 'Град за хората',
     tags: 'патриарх евтимий, булевард, София, велоалея',
     gps: '42.68815, 23.32842',
@@ -363,8 +362,8 @@ export const PROJECTS = [
     description:
       'След две професионални преброявания на всички участници в движението – пешеходци, автомобили и велосипеди, на няколко ключови точки от улицата. Данните са красноречиви и еднозначни в полза на пешеходците. Градският живот през последните години значително се е променил в посока повече пешеходци и по-малко автомобили, които влизат в тази централна част на София. Това не е учудващо, имайки предвид, че по ул. Цар Шишман съществуват и продължават да се отварят нови заведения, ресторанти, барове и магазини, които не само привличат повече пешеходен трафик, но и обогатяват културния живот и туристическия продукт на столицата. Улицата трябва да бъде пешеходна и едва ли ще намерим по-подходяща за целта улица в София. За да стане това местата за паркиране трябва да бъдат значително редуцирани, като обаче със сигурност се помисли и за възможностите за паркиране на живущите - например чрез осигуряване на места, резервирани само тях в близост. След ремонта, който тече и в момента, улицата става на едно ниво, като е жизнено важно да бъдат добавени дървета, осигуряващи сянка и свежест.',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2020/05/sh1-1.jpg',
-    oldLink: 'https://spasisofia.org/bg/shishman-peshehodna.html',
-    link: '/projects/zashto-shishman-tryabva-da-e-peshehoden.html',
+    oldLink: 'https://spasisofia.org/bg/shishman-peshehodna',
+    link: '/projects/zashto-shishman-tryabva-da-e-peshehoden',
     topic: 'Град за хората',
     tags: 'София, Шишман, Средец, Център, пешеходен',
     gps: '42.69239876197127, 23.33088620634161',
@@ -380,8 +379,8 @@ export const PROJECTS = [
       'Както в античността, така и днес зоната на площад Света Неделя се намира в сърцето на нашия град. Вместо да бъде привлекателна за хората точка, днес площадът почти изцяло е изгубил своята урбанистична роля на градски център. Пространството е превърнато в денонощен паркинг и без прекъсване е заето от десетки безразборно паркирани автомобили. Поради постоянното движение на множество многотонни превозни средства, настилките са изпочупени, площадното пространство е преградено от неприветливи антипаркинг стълбове (често паднали и счупени), а градската среда е задръстена от хаотично паркирани автомобили. След като дълги години е бил трайно занемарен, днес площадът е отблъскващ, вместо да бъде притегателен за гражданите. Затова Борис Бонев внесе доклад, с който предложи площадът още през 2020 г. да стане изцяло пешеходен.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/03/predlojenie-1024x576.jpg',
-    oldLink: 'https://spasisofia.org/bg/sveta-nedelya.html',
-    link: '/projects/doklad-ploshtad-sv-nedelya-da-bade-iztsyalo-peshehoden.html',
+    oldLink: 'https://spasisofia.org/bg/sveta-nedelya',
+    link: '/projects/doklad-ploshtad-sv-nedelya-da-bade-iztsyalo-peshehoden',
     topic: 'Град за хората',
     tags: 'площад, Света Неделя, Център, пешеходен',
     gps: '42.69671, 23.32141',
@@ -397,8 +396,8 @@ export const PROJECTS = [
       'Спаси София покани студенти по архитектура, ландшафтна архитектура, урбанизъм и дизайн, както и млади, вече практикуващи специалисти в тези области, да се присъединят към двудневен ърбатон за разработка на функционални идеи за намеси в пространството пред сградата на НАГ - в идеалния център на София, но превърнато в неугледен паркинг. Представените проекти целят активиране на историята на мястото, чрез концепция за съвременна информационна система за зоната, която да обхване всички исторически епохи и пластове, както и ново градско обзавеждане и ново озеленяване. Журито, част от което беше гл. арх. на София селектира най-добрите и приложими проекти, които очакваме да бъдат реално изпълнени на терен.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2023/01/da-se-nagradim-s-ploshtad-scaled.jpg',
-    oldLink: 'https://spasisofia.org/bg/urbathon2020.html',
-    link: '/projects/arbaton-2020.html',
+    oldLink: 'https://spasisofia.org/bg/urbathon2020',
+    link: '/projects/arbaton-2020',
     topic: 'Проекти и реформи',
     tags: 'работилница, подобрения, градска среда, София, НАГ, площад',
     gps: '42.69948057023529, 23.324706373073557',
@@ -414,8 +413,8 @@ export const PROJECTS = [
       'Изцяло под наш натиск беше удължен автобус 73 и така се създадоха множество нови връзки - Овча купел и Манастирски ливади бяха свързани с метростанция Витоша, болница Токуда и Цариградско шосе. Линията е толкова успешна, че в месеците след промяната се налагаше намаляване на интервала неколкократно. Това беше промяна, за която се борихме години, въпреки очевидната необходимост от нея.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2023/01/avtobus-73.png',
-    oldLink: 'https://spasisofia.org/bg/doklad-linia-73.html',
-    link: '/projects/s-doklad-v-sos-predlagame-udalzhavane-na-liniya-73.html',
+    oldLink: 'https://spasisofia.org/bg/doklad-linia-73',
+    link: '/projects/s-doklad-v-sos-predlagame-udalzhavane-na-liniya-73',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, автобус, нова линия',
     gps: '42.659169, 23.316262',
@@ -431,8 +430,8 @@ export const PROJECTS = [
       'Основните цели, които си поставихме в началото на изминалия мандат за промените в Правилника на общинския съвет са:\nВъвеждане на ясни и недвусмислени правила за работа на СОС, създаващи предпоставки за законосъобразност и прозрачност на дейността. \nПодобряване на взаимодействието на гражданите със СОС\nПовишаване на публичността\nВъвеждане на дигиталните технологии в документооборота и вътрешните и външни комуникации на СОС. ',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2019/12/pravilnik.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bd%d0%be%d0%b2-%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba.html',
-    link: '/projects/kakvo-predlagame-za-noviya-pravilnik-na-sos.html',
+      'https://spasisofia.org/bg/%d0%bd%d0%be%d0%b2-%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba',
+    link: '/projects/kakvo-predlagame-za-noviya-pravilnik-na-sos',
     topic: 'Проекти и реформи',
     tags: 'правила, дигитализация, публичност, участие',
     gps: '42.6969061832289, 23.33163827916272',
@@ -449,8 +448,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/10/28-seminariyata.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d0%be%d1%82%d0%bf%d1%83%d1%88%d0%b8%d0%bc-%d1%82%d1%80%d0%b0%d1%84%d0%b8%d0%ba%d0%b0-%d0%be%d0%ba.html',
-    link: '/projects/predlozhenie-kak-da-otpushim-trafika-okolo-seminariyata.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d0%be%d1%82%d0%bf%d1%83%d1%88%d0%b8%d0%bc-%d1%82%d1%80%d0%b0%d1%84%d0%b8%d0%ba%d0%b0-%d0%be%d0%ba',
+    link: '/projects/predlozhenie-kak-da-otpushim-trafika-okolo-seminariyata',
     topic: 'Транспорт и инфраструктура',
     tags: 'BUS ленти, Борисова градина, градски транспорт, трамвай безумие, трамвайно трасе',
     gps: '42.675634234530776, 23.334130047879956',
@@ -467,8 +466,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/07/nova-liniya-194-768x1036.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%b0%d0%b3%d0%b0%d0%bc%d0%b5-%d0%bd%d0%be%d0%b2%d0%b0-%d0%bb%d0%b8%d0%bd%d0%b8%d1%8f-194.html',
-    link: '/projects/predlagame-nova-liniya-194-levski-g-slatina-stud-grad.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%b0%d0%b3%d0%b0%d0%bc%d0%b5-%d0%bd%d0%be%d0%b2%d0%b0-%d0%bb%d0%b8%d0%bd%d0%b8%d1%8f-194',
+    link: '/projects/predlagame-nova-liniya-194-levski-g-slatina-stud-grad',
     topic: 'Транспорт и инфраструктура',
     tags: 'автобус, градски транспорт, Студентски град, студенти, Левски Г, 194, нова линия',
     gps: '42.65201, 23.34724',
@@ -485,8 +484,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/03/plan-podobrenie-gradski-transport.png',
     oldLink:
-      'https://spasisofia.org/bg/%d1%83%d1%81%d0%bb%d0%be%d0%b2%d0%b8%d1%8f%d1%82%d0%b0-%d0%bd%d0%b0-%d1%82%d1%80%d1%83%d0%b4-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8%d1%8f-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82.html',
-    link: '/projects/plan-za-podobryavane-na-usloviyata-na-trud-i-ozdravyavane-na-gradskiya-transport.html',
+      'https://spasisofia.org/bg/%d1%83%d1%81%d0%bb%d0%be%d0%b2%d0%b8%d1%8f%d1%82%d0%b0-%d0%bd%d0%b0-%d1%82%d1%80%d1%83%d0%b4-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8%d1%8f-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82',
+    link: '/projects/plan-za-podobryavane-na-usloviyata-na-trud-i-ozdravyavane-na-gradskiya-transport',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, автобус, трамвай, оздравяване, условия, подобряване',
     gps: '42.681607943811365, 23.277551857806355',
@@ -503,8 +502,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/01/da-bade-banya-poster-1024x666.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%89%d0%be-%d1%82%d1%80%d1%8f%d0%b1%d0%b2%d0%b0-%d0%b4%d0%b0-%d0%b1%d1%8a%d0%b4%d0%b5-%d0%b1%d0%b0%d0%bd%d1%8f.html',
-    link: '/projects/zashto-tsentralna-mineralna-banya-tryabva-da-ostane-banya.html',
+      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%89%d0%be-%d1%82%d1%80%d1%8f%d0%b1%d0%b2%d0%b0-%d0%b4%d0%b0-%d0%b1%d1%8a%d0%b4%d0%b5-%d0%b1%d0%b0%d0%bd%d1%8f',
+    link: '/projects/zashto-tsentralna-mineralna-banya-tryabva-da-ostane-banya',
     topic: 'Град за хората',
     tags: 'Централна минералня баня, баня, София, център, сграда',
     gps: '42.69914, 23.32369',
@@ -521,8 +520,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/01/razpredelenie-na-prihodite-ot-sinya-i-zelena-zona.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d0%be%d1%82-%d1%81%d0%b8%d0%bd%d1%8f-%d0%b8-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b7%d0%be%d0%bd%d0%b0.html',
-    link: '/projects/kak-da-investirame-parite-ot-sinya-i-zelena-zona.html',
+      'https://spasisofia.org/bg/%d0%bf%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d0%be%d1%82-%d1%81%d0%b8%d0%bd%d1%8f-%d0%b8-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b7%d0%be%d0%bd%d0%b0',
+    link: '/projects/kak-da-investirame-parite-ot-sinya-i-zelena-zona',
     topic: 'Паркиране',
     tags: 'зона, паркиране, синя, зелена, синя зона, зелена зона, коли',
     gps: '42.707604461261326, 23.323513750365176',
@@ -539,7 +538,7 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/12/liniya-172-full-line-1024x824.png',
     oldLink:
-      'https://spasisofia.org/bg/%D0%BD%D0%BE%D0%B2%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-172-%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B1%D1%83%D1%81%D0%B8.html',
+      'https://spasisofia.org/bg/%D0%BD%D0%BE%D0%B2%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-172-%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B1%D1%83%D1%81%D0%B8',
     link: '#N/A',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, автобус, нова линия',
@@ -557,8 +556,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2023/01/tramvaj-ogranichenia-konstantin-velichkov.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%ba-%d0%b2%d0%b5%d0%bb%d0%b8%d1%87%d0%ba%d0%be%d0%b2-%d0%b8%d0%b3%d0%bd%d0%be%d1%80%d0%b8%d1%80%d0%b0.html',
-    link: '/projects/predlozheniyata-ni-za-bul-k-velichkov-koito-krusev-ignorira.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%ba-%d0%b2%d0%b5%d0%bb%d0%b8%d1%87%d0%ba%d0%be%d0%b2-%d0%b8%d0%b3%d0%bd%d0%be%d1%80%d0%b8%d1%80%d0%b0',
+    link: '/projects/predlozheniyata-ni-za-bul-k-velichkov-koito-krusev-ignorira',
     topic: 'Транспорт и инфраструктура',
     tags: 'София, предложения, бул. К. Величков, обособени коридори, ограничители',
     gps: '42.7000426,23.1823601',
@@ -575,8 +574,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2023/01/nova-bus-lenta-vasil-levski.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bd%d0%b0%d1%81%d1%82%d0%be%d1%8f%d0%b2%d0%b0%d0%bc%d0%b5-%d0%b7%d0%b0-bus-%d0%bb%d0%b5%d0%bd%d1%82%d0%b0-%d0%bd%d0%b0-%d0%b2%d0%b0%d1%81%d0%b8%d0%bb-%d0%bb%d0%b5%d0%b2%d1%81%d0%ba%d0%b8.html',
-    link: '/projects/nastoyavame-za-bus-lenta-na-bul-vasil-levski.html',
+      'https://spasisofia.org/bg/%d0%bd%d0%b0%d1%81%d1%82%d0%be%d1%8f%d0%b2%d0%b0%d0%bc%d0%b5-%d0%b7%d0%b0-bus-%d0%bb%d0%b5%d0%bd%d1%82%d0%b0-%d0%bd%d0%b0-%d0%b2%d0%b0%d1%81%d0%b8%d0%bb-%d0%bb%d0%b5%d0%b2%d1%81%d0%ba%d0%b8',
+    link: '/projects/nastoyavame-za-bus-lenta-na-bul-vasil-levski',
     topic: 'Транспорт и инфраструктура',
     tags: 'автобус, лента, БУС лента, бул. Васил Левски, градски транспорт',
     gps: '42.689611089159754, 23.33062054123282',
@@ -593,8 +592,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/02/27605233_10210458512490237_1782942196_o-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/31475-%d0%bf%d0%be%d0%b4%d0%bf%d0%b8%d1%81%d0%b0-%d0%b7%d0%b0-%d0%bd%d0%be%d1%89%d0%b5%d0%bd-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82.html',
-    link: '/projects/31-475-podpisa-za-noshten-gradski-transport.html',
+      'https://spasisofia.org/bg/31475-%d0%bf%d0%be%d0%b4%d0%bf%d0%b8%d1%81%d0%b0-%d0%b7%d0%b0-%d0%bd%d0%be%d1%89%d0%b5%d0%bd-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82',
+    link: '/projects/31-475-podpisa-za-noshten-gradski-transport',
     topic: 'Транспорт и инфраструктура',
     tags: 'транспорт, градски транспорт, нощен, София, линии, автобус, 31475, подпис',
     gps: '42.69689636908846, 23.331695584125107',
@@ -611,8 +610,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/01/27016245_10210335114565366_490382784_o-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b4%d0%be%d1%81%d1%82%d1%8a%d0%bf%d0%bd%d0%be%d1%81%d1%82%d1%82%d0%b0-%d0%bd%d0%b0-%d0%b2%d0%b8%d1%82%d0%be%d1%88%d0%b0-%d0%b1%d0%b5%d0%b7-%d0%b2%d0%b8%d1%82%d0%be%d1%88%d0%b0-%d1%81%d0%ba%d0%b8.html',
-    link: '/projects/kak-da-podobrim-dostapnostta-na-vitosha-bez-vitosha-ski.html',
+      'https://spasisofia.org/bg/%d0%b4%d0%be%d1%81%d1%82%d1%8a%d0%bf%d0%bd%d0%be%d1%81%d1%82%d1%82%d0%b0-%d0%bd%d0%b0-%d0%b2%d0%b8%d1%82%d0%be%d1%88%d0%b0-%d0%b1%d0%b5%d0%b7-%d0%b2%d0%b8%d1%82%d0%be%d1%88%d0%b0-%d1%81%d0%ba%d0%b8',
+    link: '/projects/kak-da-podobrim-dostapnostta-na-vitosha-bez-vitosha-ski',
     topic: 'Транспорт и инфраструктура',
     tags: 'планина, Витоша, София, лифт, Витоша ски, достъпност',
     gps: '42.61666, 23.34848',
@@ -629,8 +628,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/01/26613944_10214418096547169_1942137839_o-768x1024.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0-%d1%81%d1%8a%d1%81-%d1%81%d0%be%d1%84%d0%b8%d0%b9%d1%81%d0%ba%d0%b8%d1%82%d0%b5-%d1%82%d1%80%d0%be%d1%82%d0%be%d0%b0%d1%80%d0%b8.html',
-    link: '/projects/kak-da-reshim-problema-sas-sofiyskite-trotoari.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0-%d1%81%d1%8a%d1%81-%d1%81%d0%be%d1%84%d0%b8%d0%b9%d1%81%d0%ba%d0%b8%d1%82%d0%b5-%d1%82%d1%80%d0%be%d1%82%d0%be%d0%b0%d1%80%d0%b8',
+    link: '/projects/kak-da-reshim-problema-sas-sofiyskite-trotoari',
     topic: 'Град за хората',
     tags: 'София, тротоари, инфраструктура, достъпност, проблем',
     gps: '42.69382701817072, 23.326473010660656',
@@ -647,8 +646,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/11/patriarh-evtimiy-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%89%d0%be-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-%d0%bf%d0%be-%d0%bf%d0%b0%d1%82%d1%80%d0%b8%d0%b0%d1%80%d1%85-%d0%b5%d0%b2%d1%82%d0%b8%d0%bc%d0%b8%d0%b9.html',
-    link: '/projects/zashto-tramvay-po-bul-patriarh-evtimiy-e-naydobroto-reshenie.html',
+      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%89%d0%be-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-%d0%bf%d0%be-%d0%bf%d0%b0%d1%82%d1%80%d0%b8%d0%b0%d1%80%d1%85-%d0%b5%d0%b2%d1%82%d0%b8%d0%bc%d0%b8%d0%b9',
+    link: '/projects/zashto-tramvay-po-bul-patriarh-evtimiy-e-naydobroto-reshenie',
     topic: 'Транспорт и инфраструктура',
     tags: 'линия, бул. Патриарх Евтимий, трамвай, решение, транспорт, градски транспорт',
     gps: '42.68815, 23.32842',
@@ -665,8 +664,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/10/spodeli-kambanite.png',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d0%bf%d0%be%d0%b4%d0%b5%d0%bb%d0%b8%d0%ba%d0%b0%d0%bc%d0%b1%d0%b0%d0%bd%d0%b8%d1%82%d0%b5.html',
-    link: '/projects/spodelikambanite-edin-proekt-na-spasi-sofia.html',
+      'https://spasisofia.org/bg/%d1%81%d0%bf%d0%be%d0%b4%d0%b5%d0%bb%d0%b8%d0%ba%d0%b0%d0%bc%d0%b1%d0%b0%d0%bd%d0%b8%d1%82%d0%b5',
+    link: '/projects/spodelikambanite-edin-proekt-na-spasi-sofia',
     topic: 'Град за хората',
     tags: 'Младост, местност, Камбаните, проект',
     gps: '42.61844, 23.37917',
@@ -683,8 +682,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/05/sadim-obshtinata-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d1%8a%d0%b4%d0%b8%d0%bc-%d0%be%d0%b1%d1%89%d0%b8%d0%bd%d0%b0%d1%82%d0%b0-%d0%b7%d0%b0-%d0%bc%d1%80%d1%8a%d1%81%d0%bd%d0%b8%d1%8f-%d0%b2%d1%8a%d0%b7%d0%b4%d1%83%d1%85.html',
-    link: '/projects/sadim-obshtinata-za-mrasniya-vazduh.html',
+      'https://spasisofia.org/bg/%d1%81%d1%8a%d0%b4%d0%b8%d0%bc-%d0%be%d0%b1%d1%89%d0%b8%d0%bd%d0%b0%d1%82%d0%b0-%d0%b7%d0%b0-%d0%bc%d1%80%d1%8a%d1%81%d0%bd%d0%b8%d1%8f-%d0%b2%d1%8a%d0%b7%d0%b4%d1%83%d1%85',
+    link: '/projects/sadim-obshtinata-za-mrasniya-vazduh',
     topic: 'Проекти и реформи',
     tags: 'въздух, мръсен, София, община, Столична община, съд',
     gps: '42.6971667079285, 23.331894401355658',
@@ -700,8 +699,8 @@ export const PROJECTS = [
       'Липсата на качествена и нормална градска среда, беше сред основните причини за създаването на Спаси София. Затова за нас бе важно да изразим позиция относно ремонта на централния и емблематичен булевард Княз Ал. Дондуков в центъра на столицата. Подготвихме пакет от конкретни предложения, включващ:\r\n- спиркови острови за удобно и безопасно ползване на трамвайния транспорт\r\n- спирки с лесен достъп с повдигане на платното пред спирките до нивото на тротоара\r\n- бетонни ограничители на трамвайните релси за по-автономно използване на релсовия път, повишаващо скоростта и сигурността на трамвайния поток\r\n- корекция с уличния профил с цел повишаването на сигурността на велосипедипедисти, пешеходци, повишаване на скоростта на трамвайния поток и дестимулиране на скоростта на автомобилите\r\n- оширяване на тротоарите и подземни кофи за боклук с цел подобряване на видимостта и градската среда, особено за пешеходци\r\n',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2017/05/1.jpg',
     oldLink:
-      'https://spasisofia.org/bg/5-%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b7%d0%b0-%d0%bf%d0%be-%d0%b4%d0%be%d0%b1%d1%8a%d1%80-%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82-%d0%bd%d0%b0-%d0%b1%d1%83%d0%bb.html',
-    link: '/projects/5-predlozheniya-za-podobar-remont-na-bul-dondukov.html',
+      'https://spasisofia.org/bg/5-%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b7%d0%b0-%d0%bf%d0%be-%d0%b4%d0%be%d0%b1%d1%8a%d1%80-%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82-%d0%bd%d0%b0-%d0%b1%d1%83%d0%bb',
+    link: '/projects/5-predlozheniya-za-podobar-remont-na-bul-dondukov',
     topic: 'Град за хората',
     tags: 'ремонт, булевард, дондуков, транспорт',
     gps: '42.69885522030618, 23.335054793606098',
@@ -718,8 +717,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/04/molya-otstranete-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bd%d0%b0%d1%80%d1%8a%d1%87%d0%bd%d0%b8%d0%ba-%d0%bd%d0%b0-%d0%b0%d0%ba%d1%82%d0%b8%d0%b2%d0%bd%d0%b8%d1%8f-%d0%b3%d1%80%d0%b0%d0%b6%d0%b4%d0%b0%d0%bd%d0%b8%d0%bd.html',
-    link: '/projects/narachnik-na-aktivniya-grazhdanin.html',
+      'https://spasisofia.org/bg/%d0%bd%d0%b0%d1%80%d1%8a%d1%87%d0%bd%d0%b8%d0%ba-%d0%bd%d0%b0-%d0%b0%d0%ba%d1%82%d0%b8%d0%b2%d0%bd%d0%b8%d1%8f-%d0%b3%d1%80%d0%b0%d0%b6%d0%b4%d0%b0%d0%bd%d0%b8%d0%bd',
+    link: '/projects/narachnik-na-aktivniya-grazhdanin',
     topic: 'Град за хората',
     tags: 'наръчник, гражданин, сигнали, София, активен',
     gps: '42.689219879467856, 23.310138105252925',
@@ -736,8 +735,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/02/Screen-Shot-2017-02-11-at-3.29.59-PM-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d0%bc%d0%b5%d0%bd%d0%b8-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82-%d0%bd%d0%b5-%d1%81%d1%82%d1%80%d1%83%d0%b2%d0%b0%d1%82.html',
-    link: '/projects/promeni-v-gradskiya-transport-koito-ne-struvat-nishto.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d0%bc%d0%b5%d0%bd%d0%b8-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82-%d0%bd%d0%b5-%d1%81%d1%82%d1%80%d1%83%d0%b2%d0%b0%d1%82',
+    link: '/projects/promeni-v-gradskiya-transport-koito-ne-struvat-nishto',
     topic: 'Транспорт и инфраструктура',
     tags: 'промени, транспорт, линия, София',
     gps: '42.689219879467856, 23.310138105252925',
@@ -754,8 +753,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/11/avtobus-61.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bb%d0%b8%d0%bd%d0%b8%d1%8f-61-%d0%bd%d0%be%d0%b2%d0%b0%d1%82%d0%b0-%d0%b8%d0%b7%d0%bb%d0%b5%d1%82%d0%bd%d0%b0-%d0%bb%d0%b8%d0%bd%d0%b8%d1%8f-%d0%b4%d0%be-%d0%b2%d0%b8%d1%82%d0%be%d1%88%d0%b0.html',
-    link: '/projects/za-nova-izletna-liniya-do-vitosha-avtobus-61.html',
+      'https://spasisofia.org/bg/%d0%bb%d0%b8%d0%bd%d0%b8%d1%8f-61-%d0%bd%d0%be%d0%b2%d0%b0%d1%82%d0%b0-%d0%b8%d0%b7%d0%bb%d0%b5%d1%82%d0%bd%d0%b0-%d0%bb%d0%b8%d0%bd%d0%b8%d1%8f-%d0%b4%d0%be-%d0%b2%d0%b8%d1%82%d0%be%d1%88%d0%b0',
+    link: '/projects/za-nova-izletna-liniya-do-vitosha-avtobus-61',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, линия, 61, излетна линия, автобус, Витоша, планина',
     gps: '42.60997802927078, 23.235877244874974',
@@ -772,8 +771,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/08/park-makedoniya-obsht-izgled-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d0%b0%d1%80%d0%ba-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%8f-%d1%88%d0%b0%d0%bd%d1%81-%d0%b7%d0%b0-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f.html',
-    link: '/projects/park-makedoniya-poiskay-shans-za-zelena-sofia.html',
+      'https://spasisofia.org/bg/%d0%bf%d0%b0%d1%80%d0%ba-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%8f-%d1%88%d0%b0%d0%bd%d1%81-%d0%b7%d0%b0-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f',
+    link: '/projects/park-makedoniya-poiskay-shans-za-zelena-sofia',
     topic: 'Зеленина и паркове',
     tags: 'парк, Македония, център, трамвай, Зелена София, релси',
     gps: '42.693362584295016, 23.31264732875245',
@@ -790,8 +789,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/09/serdika-detail-3D-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%89%d0%b5-%d0%b8%d0%bc%d0%b0-%d0%bb%d0%b8-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%bd%d0%be%d1%89%d0%b5%d0%bd-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82.html',
-    link: '/projects/shte-ima-li-sofia-noshten-transport.html',
+      'https://spasisofia.org/bg/%d1%89%d0%b5-%d0%b8%d0%bc%d0%b0-%d0%bb%d0%b8-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%bd%d0%be%d1%89%d0%b5%d0%bd-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82',
+    link: '/projects/shte-ima-li-sofia-noshten-transport',
     topic: 'Транспорт и инфраструктура',
     tags: 'транспорт, градски транспорт, нощен, София, линии, автобус',
     gps: '42.69617158885414, 23.32656458661948',
@@ -808,8 +807,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/07/zum-uberholen-tabu_213601_960x644-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b1%d1%83%d1%81-%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d1%82%d0%b5-%d1%81%d0%b0-%d0%b2%d0%b5%d1%87%d0%b5-%d0%b2%d1%8a%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%b8.html',
-    link: '/projects/bus-lentite-sa-veche-vazmozhni.html',
+      'https://spasisofia.org/bg/%d0%b1%d1%83%d1%81-%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d1%82%d0%b5-%d1%81%d0%b0-%d0%b2%d0%b5%d1%87%d0%b5-%d0%b2%d1%8a%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%b8',
+    link: '/projects/bus-lentite-sa-veche-vazmozhni',
     topic: 'Транспорт и инфраструктура',
     tags: 'автобус, линия, градски транспорт, БУС',
     gps: '42.69194888618938, 23.338773999508057',
@@ -826,8 +825,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/07/IMAG1773-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b7%d0%b0-%d0%bd%d0%be%d0%b2%d0%b8%d1%82%d0%b5-%d1%81%d1%85%d0%b5%d0%bc%d0%b8-%d0%b2-%d0%bc%d0%b5%d1%82%d1%80%d0%be%d1%82%d0%be.html',
-    link: '/projects/za-novite-shemi-v-metroto-galeriya.html',
+      'https://spasisofia.org/bg/%d0%b7%d0%b0-%d0%bd%d0%be%d0%b2%d0%b8%d1%82%d0%b5-%d1%81%d1%85%d0%b5%d0%bc%d0%b8-%d0%b2-%d0%bc%d0%b5%d1%82%d1%80%d0%be%d1%82%d0%be',
+    link: '/projects/za-novite-shemi-v-metroto-galeriya',
     topic: 'Транспорт и инфраструктура',
     tags: 'карта, схема, метро, дизайн',
     gps: '42.692419323382914, 23.335214608743524',
@@ -844,8 +843,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/05/NightLines-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bd%d0%be%d1%89%d0%b5%d0%bd-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82-%d1%88%d0%b5%d1%81%d1%82-%d0%bb%d0%b8%d0%bd%d0%b8%d0%b8-%d1%81%d0%be%d1%84%d0%b8%d1%8f.html',
-    link: '/projects/noshten-transport-s-shest-linii-shte-krastosva-sofia.html',
+      'https://spasisofia.org/bg/%d0%bd%d0%be%d1%89%d0%b5%d0%bd-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82-%d1%88%d0%b5%d1%81%d1%82-%d0%bb%d0%b8%d0%bd%d0%b8%d0%b8-%d1%81%d0%be%d1%84%d0%b8%d1%8f',
+    link: '/projects/noshten-transport-s-shest-linii-shte-krastosva-sofia',
     topic: 'Транспорт и инфраструктура',
     tags: 'транспорт, градски транспорт, нощен, София, линии, автобус',
     gps: '42.696297189100065, 23.32636685284442',
@@ -861,9 +860,8 @@ export const PROJECTS = [
       'В Деня на народните будители на пл. Славейков раздадохме близо 1000 книги на столичани, които бяха дарени от доброволци от нашия екип. Дългата опашка от стотици млади и по-възрастни наши съграждани бе доказателство, че софиянци са будни, въпреки усилията за обезличаване на столицата и нейния дух.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/11/14-1152x1536.jpg',
-    oldLink:
-      'https://spasisofia.org/bg/den-na-narodnite-buditeli-slaveikov.html',
-    link: '/news/v-denya-na-narodnite-buditeli-varnahme-knigite-na-pl-slaveykov.html',
+    oldLink: 'https://spasisofia.org/bg/den-na-narodnite-buditeli-slaveikov',
+    link: '/news/v-denya-na-narodnite-buditeli-varnahme-knigite-na-pl-slaveykov',
     topic: 'Образование и култура',
     tags: 'София, Столица на културата, народни будители, пл. Славейков',
     gps: '42.69193708875594, 23.324306826228053',
@@ -880,8 +878,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/10/%D0%9A%D0%BE%D0%BF%D0%B8%D0%B5-%D0%BD%D0%B0-%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82-1.png',
     oldLink:
-      'https://spasisofia.org/bg/protest-sreshtu-upravlenieto-na-fandakov.html',
-    link: '/news/stotitsi-se-sabraha-na-protesta-sreshtu-upravlenieto-na-kmeta-fandakova.html',
+      'https://spasisofia.org/bg/protest-sreshtu-upravlenieto-na-fandakov',
+    link: '/news/stotitsi-se-sabraha-na-protesta-sreshtu-upravlenieto-na-kmeta-fandakova',
     topic: 'Акции',
     tags: 'Протест, Оставка, Московска 33',
     gps: '42.696826, 23.331688',
@@ -897,8 +895,8 @@ export const PROJECTS = [
       'Първи дадохме публичност на унищожението на жълтите павета. Криви фуги, накълцани, счупени и непочистени павета и камари пясък – така ще изглежда най-централният площад на София след ремонта за 17 млн. лв. Най-лошото е, че малкото останали жълти павета се режат, за да могат строителите да запълнят некадърните фуги и така ремонтът на историческата настилка всъщност я  унищожава.',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2022/09/002.png',
     oldLink:
-      'https://spasisofia.org/bg/jalti-paveta-sled-remont-struvasht-17-000-000.html',
-    link: '/news/zhaltite-paveta-sled-remont-struvasht-17-000-000-lv.html',
+      'https://spasisofia.org/bg/jalti-paveta-sled-remont-struvasht-17-000-000',
+    link: '/news/zhaltite-paveta-sled-remont-struvasht-17-000-000-lv',
     topic: 'Транспорт и инфраструктура',
     tags: 'Жълтите павета, ремонт на ремонта, Наръчник на павьора',
     gps: '42.69391952085683, 23.33241083697971',
@@ -914,8 +912,8 @@ export const PROJECTS = [
       'Екипът ни от доброволци разработи предложение за превръщане на Малките 5 кьошета в емблематично кръстовище в центъра на София. Предлагаме автомобилите и пешеходците да споделят безопасно повдигнато кръстовище, където пешеходното движение е с приоритет. ',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/07/%D0%A4%D0%B8%D0%B3.9-1024x621.png',
-    oldLink: 'https://spasisofia.org/bg/malkite5.html',
-    link: '/projects/5-stapki-za-preobrazyavane-na-malkite-5-kyosheta.html',
+    oldLink: 'https://spasisofia.org/bg/malkite5',
+    link: '/projects/5-stapki-za-preobrazyavane-na-malkite-5-kyosheta',
     topic: 'Град за хората',
     tags: 'Маките 5 кьошета, София, Град за хората, градска среда, модерно пространство',
     gps: '42.68975322480894, 23.32535058151133',
@@ -931,8 +929,8 @@ export const PROJECTS = [
       'Внесохме доклад, който прави възможно градското земеделие, чрез промяна в Наредбата за изграждане, поддържане и опазване на зелената система на Столична община. Градското земеделие е активно и в момента, но е силно възпрепятстването от липсата на достъп до общински имоти. Според стратегията, за да бъде практикувано успешно, градското земеделие трябва да бъде интегрирано в нормативната база  с ясни технически стандарти и критерии за контрол, което да въведе активна политика за насърчаване на неговото развитие в диалог с граждански организации, групи и активни граждани.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/05/%D0%93%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%BE-%D0%B7%D0%B5%D0%BC%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8%D0%B5-1-1024x576.jpg',
-    oldLink: 'https://spasisofia.org/bg/gradsko-zemedelie.html',
-    link: '/projects/doklad-merki-za-nasarchavane-na-gradskoto-zemedelie-v-sofia.html',
+    oldLink: 'https://spasisofia.org/bg/gradsko-zemedelie',
+    link: '/projects/doklad-merki-za-nasarchavane-na-gradskoto-zemedelie-v-sofia',
     topic: 'Зеленина и паркове',
     tags: 'Градско земеделие, София, зелен град, здраво общество',
     gps: '42.690037737920704, 23.341763440594782',
@@ -949,8 +947,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/05/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80.-9-1024x576.jpg',
     oldLink:
-      'https://spasisofia.org/bg/predlagame-nov-montazhen-parking-mladost.html',
-    link: '/projects/predlagame-nov-etazhen-parking-v-mladost.html',
+      'https://spasisofia.org/bg/predlagame-nov-montazhen-parking-mladost',
+    link: '/projects/predlagame-nov-etazhen-parking-v-mladost',
     topic: 'Транспорт и инфраструктура',
     tags: 'Паркиране, етажен паркинг, градска среда, тротоари',
     gps: '42.63051073903373, 23.378484733415085',
@@ -965,8 +963,8 @@ export const PROJECTS = [
     description:
       'Предложихме удължаването на автобусна линия №107 през квартал и метростанция "Горна Баня" до кв. "Суходол", за да се осигури удобна връзка с метрото. Освен това ползите са следните:\r\nнамали се времето за пътуване от кв. Суходол до метрото двойно, като се създаде нова връзка на квартала с метростанция Горна Баня и третата линия на метрото;\r\nдаде стимул за развитие на изолирани и периферни квартали като Карпузица, Суходол и Горна Баня;\r\nсъздадоха се връзки между съседните квартали Карпузица, Горна Баня и Суходол, намиращи се съвсем близо един до друг от западната страна на СОП;\r\nподобри се транспортното обслужване и качеството на живот като цяло в засегнатите квартали;\r\nдадоха се повече директни транспортни връзки (без прекачване), вкл. и с други линии на наземния транспорт;\r\nнамали се ежедневната употреба и зависимост от личните автомобили;\r\nподобри се екологичната обстановка и околната среда в града;\r\nувеличи се привлекателността на градския транспорт за пътниците',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2022/03/107map.png',
-    oldLink: 'https://spasisofia.org/bg/avtobus107.html',
-    link: '/projects/doklad-8211-predlagame-udalzhavane-na-avtobus-107-do-suhodol-za-vrazka-s-metroto.html',
+    oldLink: 'https://spasisofia.org/bg/avtobus107',
+    link: '/projects/doklad-8211-predlagame-udalzhavane-na-avtobus-107-do-suhodol-za-vrazka-s-metroto',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, автобус, линия 107',
     gps: '42.69605618615898, 23.227302428322627',
@@ -983,8 +981,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/01/003_%D0%A4%D0%B8%D0%B3.3_%D0%A3%D0%BB%D0%B8%D1%87%D0%BD%D0%B0-%D0%BB%D0%B0%D0%BC%D0%BF%D0%B0-%D0%B2-%D0%B4%D0%B2%D0%B0-%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0-600x495.png',
     oldLink:
-      'https://spasisofia.org/bg/kak-se-iztovchvat-milioni-ulichno-osvetlenie.html',
-    link: '/news/kak-se-iztochvat-desetki-milioni-ot-osvetlenieto-na-sofia.html',
+      'https://spasisofia.org/bg/kak-se-iztovchvat-milioni-ulichno-osvetlenie',
+    link: '/news/kak-se-iztochvat-desetki-milioni-ot-osvetlenieto-na-sofia',
     topic: 'Проекти и реформи',
     tags: 'осветление, София, източване на милиони',
     gps: '42.697141154687635, 23.324531613224437',
@@ -1000,9 +998,8 @@ export const PROJECTS = [
       'Автентичната сграда на театър „София“ ще бъде превърната в поредната бутафория като резултат от множеството проблеми с планирания ремонт. Красивата каменна фасада ще бъде свалена и заменена с окачена, която няма нищо общо с оригиналната, а знаковият интериор ще бъде изкъртен и подменен с гипсокартон и плоскости от пресовани дървесни частици (ПДЧ).',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/01/FB_IMG_1642529439774-1024x823.jpg',
-    oldLink:
-      'https://spasisofia.org/bg/prekratiavane-porachka-teatar-sofia.html',
-    link: '/news/da-spasim-teatar-sofia-8211-kakvo-kazvat-ekspertite.html',
+    oldLink: 'https://spasisofia.org/bg/prekratiavane-porachka-teatar-sofia',
+    link: '/news/da-spasim-teatar-sofia-8211-kakvo-kazvat-ekspertite',
     topic: 'Образование и култура',
     tags: 'Театър София, ремонт, архитектура, култура',
     gps: '42.69730513728034, 23.344979947355814',
@@ -1018,8 +1015,8 @@ export const PROJECTS = [
       'Организирахме протест в защита на емблематичните софийски Хали. Екипът на “Спаси София” вярва, че Халите имат огромен потенциал да бъдат успешен търговски комплекс за малки и средни местни производители и предприемачи, който също така да съхранява традиционния дух на Стара София. Те могат да са основен елемент на един нов и уютен облик на централната градска част и да се превърнат в културен атракцион.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/01/%D0%A4%D0%B8%D0%B3.-4-1024x678.jpg',
-    oldLink: 'https://spasisofia.org/bg/tsentralni-hali-kulturno.html',
-    link: '/news/halite--kulturnoto-i-istorichesko-sakrovishte-na-sofia.html',
+    oldLink: 'https://spasisofia.org/bg/tsentralni-hali-kulturno',
+    link: '/news/halite--kulturnoto-i-istorichesko-sakrovishte-na-sofia',
     topic: 'Образование и култура',
     tags: 'Халите, култура, София',
     gps: '42.69994438849139, 23.32217784229344',
@@ -1034,8 +1031,8 @@ export const PROJECTS = [
     description:
       'Проектът за отварянето на ул. “Съборна” за движение на пешеходци и превръщането ѝ в красива централна улица имаше всички предпоставки да се превърне в повратна точка в дългогодишната битка на хиляди софиянци и Спаси София за повече нормалност и прилагане на съвременните градоустройствени решения и в нашия град. След като първоначално се преборихме улицата да стане пешеходна, колите бяха върнати триумфално, сякаш да покажат кой властва в нашия град.',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2020/05/korica2.jpg',
-    oldLink: 'https://spasisofia.org/bg/saborna-peshehodna.html',
-    link: '/news/naysetne-ul-saborna-stava-peshehodna.html',
+    oldLink: 'https://spasisofia.org/bg/saborna-peshehodna',
+    link: '/news/naysetne-ul-saborna-stava-peshehodna',
     topic: 'Град за хората',
     tags: 'ул. Съборна, град за хората, градска среда, пешеходна улица',
     gps: '42.696540458070224, 23.322398171188482',
@@ -1052,8 +1049,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/02/12027391_1695210520763622_8817299604060474711_o-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d0%ba%d1%83%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0%d1%82%d0%b0-%d0%bd%d0%b5%d0%b7%d0%b0%d0%ba%d0%be%d0%bd%d0%bd%d0%be-%d1%81%d1%8a%d0%b1%d0%b0%d1%80%d1%8f%d0%bd%d0%b5.html',
-    link: '/news/informirahme-prokuraturata-za-nezakonnoto-sabaryane-na-kino-vazrazhdane.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d0%ba%d1%83%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0%d1%82%d0%b0-%d0%bd%d0%b5%d0%b7%d0%b0%d0%ba%d0%be%d0%bd%d0%bd%d0%be-%d1%81%d1%8a%d0%b1%d0%b0%d1%80%d1%8f%d0%bd%d0%b5',
+    link: '/news/informirahme-prokuraturata-za-nezakonnoto-sabaryane-na-kino-vazrazhdane',
     topic: 'Образование и култура',
     tags: 'култура, кино, Възраждане, събаряне ',
     gps: '42.69836304661335, 23.31531867560258',
@@ -1070,8 +1067,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/02/spasi-shestitsata-cover.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d1%88%d0%b5%d1%81%d1%82%d0%b8%d1%86%d0%b0%d1%82%d0%b0-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d1%81%d1%82%d0%b0-%d0%b2-%d1%81%d1%8a%d0%b1%d0%be%d1%82%d0%b0.html',
-    link: '/news/spasi-shestitsata-ela-na-protesta-v-sabota.html',
+      'https://spasisofia.org/bg/%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d1%88%d0%b5%d1%81%d1%82%d0%b8%d1%86%d0%b0%d1%82%d0%b0-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d1%81%d1%82%d0%b0-%d0%b2-%d1%81%d1%8a%d0%b1%d0%be%d1%82%d0%b0',
+    link: '/news/spasi-shestitsata-ela-na-protesta-v-sabota',
     topic: 'Транспорт и инфраструктура',
     tags: 'трамвай, градски транспорт, протест',
     gps: '42.675780504845164, 23.31536128376924',
@@ -1088,8 +1085,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/07/Untitled-11-1024x422.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bb%d0%b5%d1%82%d0%b8%d1%89%d0%b5-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d1%86%d0%b2%d0%b5%d1%82%d0%bd%d0%b8-%d0%bf%d1%8a%d1%82%d0%b5%d0%ba%d0%b8.html',
-    link: '/news/letishte-sofia-s-vodeshti-tsvetni-pateki-po-dizayn-na-spasi-sofiya.html',
+      'https://spasisofia.org/bg/%d0%bb%d0%b5%d1%82%d0%b8%d1%89%d0%b5-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d1%86%d0%b2%d0%b5%d1%82%d0%bd%d0%b8-%d0%bf%d1%8a%d1%82%d0%b5%d0%ba%d0%b8',
+    link: '/news/letishte-sofia-s-vodeshti-tsvetni-pateki-po-dizayn-na-spasi-sofiya',
     topic: 'Транспорт и инфраструктура',
     tags: 'Летище София, градски транспорт',
     gps: '42.688633638232986, 23.414663653114566',
@@ -1105,8 +1102,8 @@ export const PROJECTS = [
       'Погромът по Графа ще ни се стори като генерална репетиция и детска игра спрямо това, което Столичната община възнамерява да направи около храм-паметника Св. Александър Невски, на площад Народно събрание и по улиците Оборище и Париж. Основният проблем в представения проект, е че той не решава никакви текущи проблеми в зоната, а просто преповтаря съществуващото положение. Това е абсолютно неприемливо, когато става въпрос за дългоочакван проект, който ще погълне огромен финансов ресурс и ще затрудни преминаването в района за дълъг период от време. Дали причината за това е липса на визия в ръководството на Столичната община веднъж завинаги да реши проблемите и качествено да подобри градската среда или капацитета на избрания проектант, не е от съществено значение. Това, което е важно е, че София ще пропусне възможността да получи качествен, комфортен, красив и представителен център за десетилетия напред.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/06/korica-1-1024x714.jpg',
-    oldLink: 'https://spasisofia.org/bg/remont-nevski.html',
-    link: '/news/predvideniyat-remont-na-pl-sv-al-nevski-nyama-da-reshi-nito-edin-problem.html',
+    oldLink: 'https://spasisofia.org/bg/remont-nevski',
+    link: '/news/predvideniyat-remont-na-pl-sv-al-nevski-nyama-da-reshi-nito-edin-problem',
     topic: 'Град за хората',
     tags: 'пл. Александър Невски, ремонт, проблем',
     gps: '42.69597467149807, 23.33187062081015',
@@ -1122,8 +1119,8 @@ export const PROJECTS = [
       'След щателен анализ на всички дадености, както и нуждите на транспортните потоци в района, предлагаме промяна на организация на движението, чрез изграждане на (полу)кръгово движение на мястото на сегашното 6 клонно кръстовище. Решението включва пробиване на втори изход от квартала към бул. Симеоновско шосе и въвеждане на еднопосочно движение в част от улиците и новооформилото се кръстовище. ',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/04/OneWay-1024x720.jpg',
-    oldLink: 'https://spasisofia.org/bg/simeonovsko-shose.html',
-    link: '/news/predlozhenie-kak-da-se-podobri-trafikat-po-simeonovsko-shose-i-v-kv-vitosha.html',
+    oldLink: 'https://spasisofia.org/bg/simeonovsko-shose',
+    link: '/news/predlozhenie-kak-da-se-podobri-trafikat-po-simeonovsko-shose-i-v-kv-vitosha',
     topic: 'Транспорт и инфраструктура',
     tags: 'Симеоновско шосе, кръгово кръстовище, организация на движението',
     gps: '42.64567243360729, 23.33387845640377',
@@ -1140,8 +1137,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/11/74325209_929448924080616_4410116438652616704_n-1024x532.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bb%d0%be%d0%b7%d0%b5%d0%bd%d0%b5%d1%86-%d0%bf%d0%bb%d0%b0%d1%89%d0%b0%d0%bc%d0%b5-%d0%bf%d0%b5%d1%87%d0%b5%d0%bb%d1%8f%d1%82-%d0%b4%d0%b8%d0%bd%d0%b5%d0%b2%d0%b8.html',
-    link: '/news/v-lozenets-plashtame-za-da-pechelyat-bratya-dinevi.html',
+      'https://spasisofia.org/bg/%d0%bb%d0%be%d0%b7%d0%b5%d0%bd%d0%b5%d1%86-%d0%bf%d0%bb%d0%b0%d1%89%d0%b0%d0%bc%d0%b5-%d0%bf%d0%b5%d1%87%d0%b5%d0%bb%d1%8f%d1%82-%d0%b4%d0%b8%d0%bd%d0%b5%d0%b2%d0%b8',
+    link: '/news/v-lozenets-plashtame-za-da-pechelyat-bratya-dinevi',
     topic: 'Зеленина и паркове',
     tags: 'пл. Велчова завера, ремонт, зелена площ',
     gps: '42.675515227641604, 23.333915242126867',
@@ -1158,8 +1155,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/08/severen-park-koruptsiya-1024x536.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b2-%d1%87%d0%b8%d0%b9-%d0%b4%d0%b6%d0%be%d0%b1-%d0%be%d1%82%d0%b8%d0%b2%d0%b0%d1%82-%d0%bf%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f%d0%bd%d1%86%d0%b8-%d0%bf%d1%80.html',
-    link: '/news/v-chiy-dzhob-otivat-parite-na-sofiantsi-pri-remonta-na-severen-park.html',
+      'https://spasisofia.org/bg/%d0%b2-%d1%87%d0%b8%d0%b9-%d0%b4%d0%b6%d0%be%d0%b1-%d0%be%d1%82%d0%b8%d0%b2%d0%b0%d1%82-%d0%bf%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f%d0%bd%d1%86%d0%b8-%d0%bf%d1%80',
+    link: '/news/v-chiy-dzhob-otivat-parite-na-sofiantsi-pri-remonta-na-severen-park',
     topic: 'Зеленина и паркове',
     tags: 'Северен парк, ремонт',
     gps: '42.740498876144216, 23.30372620386985',
@@ -1175,9 +1172,8 @@ export const PROJECTS = [
       'Трамвайното трасе по булевардите Цар Борис III и Македония доскоро беше най-разбитото и натоварено в столицата – факт, който не трогваше особено управляващите Столичната общината дълги години. Междувременно, над 50 000 пътници ежедневно се лъкатушат в бавни и разбити трамваи, вдигащи прах и шум. Ремонтът вече е факт и сме горди с това, че нашата идея за линеен парк по бул. Македония беше възприета. За жалост това е единствената добра новина. Трамвайното трасе и прилежащата инфраструктура бяха ремонтирани нискокачествено и посредствено. Ние бяхме там и следяхме всяка крачка и се опитахме да предотвратим грешките, но за жалост не ни послушаха.',
     imageUrl:
       'SS-Tram-Stop-View-01-Frontal-scaled.jpg (2560×1440) (spasisofia.org)',
-    oldLink:
-      'https://spasisofia.org/bg/tramvayni-spirki-po-tsar-boris-iii.html',
-    link: '/news/tramvaynite-traseta-na-sofia-sa-kato-tezi-v-sibir-galeriya.html',
+    oldLink: 'https://spasisofia.org/bg/tramvayni-spirki-po-tsar-boris-iii',
+    link: '/news/tramvaynite-traseta-na-sofia-sa-kato-tezi-v-sibir-galeriya',
     topic: 'Транспорт и инфраструктура',
     tags: 'Трамвай, София, трамвайно трасе, пл. Македония',
     gps: '42.693841186714984, 23.313571336728824',
@@ -1193,8 +1189,8 @@ export const PROJECTS = [
       'Нашата организация първа заговори за това колко важно е, ако метрото достига ж.к. Овча купел, да преминава през неговата вътрешност, а не както се предвиждаше в началото – на естакада покрай бул. Президент Линкълн. Изцяло като успех на Спаси София отчитаме факта, че третата линия на метрото се изпълни подземно и с метростанции на подходящо отстояние една от друга в Овча купел.',
     imageUrl: 'remonti-ovcha-kupel-1024x562.png (1024×562) (spasisofia.org)',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d0%bf%d0%b0%d1%81%d0%b5%d0%bd%d0%b8%d0%b5%d1%82%d0%be-%d0%bd%d0%b0-%d0%be%d0%b2%d1%87%d0%b0-%d0%ba%d1%83%d0%bf%d0%b5%d0%bb-%d0%bd%d0%b5-%d0%b5-%d0%b2-%d0%bc%d0%b5%d1%82%d1%80%d0%be%d1%82%d0%be.html',
-    link: '/news/spasenieto-na-ovcha-kupel-ne-e-v-metroto.html',
+      'https://spasisofia.org/bg/%d1%81%d0%bf%d0%b0%d1%81%d0%b5%d0%bd%d0%b8%d0%b5%d1%82%d0%be-%d0%bd%d0%b0-%d0%be%d0%b2%d1%87%d0%b0-%d0%ba%d1%83%d0%bf%d0%b5%d0%bb-%d0%bd%d0%b5-%d0%b5-%d0%b2-%d0%bc%d0%b5%d1%82%d1%80%d0%be%d1%82%d0%be',
+    link: '/news/spasenieto-na-ovcha-kupel-ne-e-v-metroto',
     topic: 'Транспорт и инфраструктура',
     tags: 'Овча купел, метро, булевард, Западна тангента, Президент Линкълн, бус ленти',
     gps: '42.683931319802014, 23.256173156710243',
@@ -1211,8 +1207,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/05/bukvar_Page_01-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b1%d1%83%d0%ba%d0%b2%d0%b0%d1%80-%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d0%b9%d1%81%d0%ba%d0%b8%d1%82%d0%b5-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b8.html',
-    link: '/news/bukvar-na-sofiyskite-problemi.html',
+      'https://spasisofia.org/bg/%d0%b1%d1%83%d0%ba%d0%b2%d0%b0%d1%80-%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d0%b9%d1%81%d0%ba%d0%b8%d1%82%d0%b5-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b8',
+    link: '/news/bukvar-na-sofiyskite-problemi',
     topic: 'Град за хората',
     tags: '24-ти май, буквар, проблеми',
     gps: '42.69492457110688, 23.335362742513908',
@@ -1229,8 +1225,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/04/dvoynata-kashta.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d1%83%d0%bb%d1%82%d1%83%d1%80%d0%b0-%d0%bf%d0%be%d0%b4-%d0%be%d0%b1%d1%81%d0%b0%d0%b4%d0%b0.html',
-    link: '/news/kultura-pod-obsada.html',
+      'https://spasisofia.org/bg/%d0%ba%d1%83%d0%bb%d1%82%d1%83%d1%80%d0%b0-%d0%bf%d0%be%d0%b4-%d0%be%d0%b1%d1%81%d0%b0%d0%b4%d0%b0',
+    link: '/news/kultura-pod-obsada',
     topic: 'Образование и култура',
     tags: 'паметници, култура, двойната къща, Царските конюшни, Захарна фабрика',
     gps: '42.68676841106449, 23.324201254734774',
@@ -1247,8 +1243,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/01/obshtinata-nyama-da-ni-spasi-ot-zamarsvyavaneto-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%be%d0%b1%d1%89%d0%b8%d0%bd%d0%b0%d1%82%d0%b0-%d0%bd%d1%8f%d0%bc%d0%b0-%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d0%be%d1%82-%d0%b7%d0%b0%d0%bc%d1%8a%d1%80%d1%81%d1%8f%d0%b2%d0%b0%d0%bd%d0%b5%d1%82%d0%be.html',
-    link: '/news/zashto-programata-na-obshtinata-nyama-da-ni-spasi-ot-zamarsyavaneto.html',
+      'https://spasisofia.org/bg/%d0%be%d0%b1%d1%89%d0%b8%d0%bd%d0%b0%d1%82%d0%b0-%d0%bd%d1%8f%d0%bc%d0%b0-%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d0%be%d1%82-%d0%b7%d0%b0%d0%bc%d1%8a%d1%80%d1%81%d1%8f%d0%b2%d0%b0%d0%bd%d0%b5%d1%82%d0%be',
+    link: '/news/zashto-programata-na-obshtinata-nyama-da-ni-spasi-ot-zamarsyavaneto',
     topic: 'Град за хората',
     tags: 'екология, мръсен въздух, замърсяване на въздуха',
     gps: '42.70124616609036, 23.27619953954246',
@@ -1265,8 +1261,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/01/krastovishte-cherni-vrah-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2-%d0%ba%d1%80%d1%8a%d1%81%d1%82%d0%be%d0%b2%d0%b8%d1%89%d0%b5-%d0%bd%d0%b0-%d0%b4%d0%b2%d0%b5-%d0%bd%d0%b8%d0%b2%d0%b0-%d0%b2-%d0%bb%d0%be%d0%b7%d0%b5%d0%bd%d0%b5.html',
-    link: '/news/spasi-sofia-e-protiv-krastovishte-na-dve-niva-v-lozenets.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2-%d0%ba%d1%80%d1%8a%d1%81%d1%82%d0%be%d0%b2%d0%b8%d1%89%d0%b5-%d0%bd%d0%b0-%d0%b4%d0%b2%d0%b5-%d0%bd%d0%b8%d0%b2%d0%b0-%d0%b2-%d0%bb%d0%be%d0%b7%d0%b5%d0%bd%d0%b5',
+    link: '/news/spasi-sofia-e-protiv-krastovishte-na-dve-niva-v-lozenets',
     topic: 'Транспорт и инфраструктура',
     tags: 'кръстовище, Джеймс Баучер, Черни връх',
     gps: '42.672278, 23.321339',
@@ -1283,8 +1279,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/10/manastirski_livadi_protest-600x367.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bc%d0%b0%d0%bd%d0%b0%d1%81%d1%82%d0%b8%d1%80%d1%81%d0%ba%d0%b8-%d0%bb%d0%b8%d0%b2%d0%b0%d0%b4%d0%b8-%d0%b5%d0%bb%d0%b8%d1%82%d0%bd%d0%be%d1%82%d0%be-%d0%b3%d0%b5%d1%82%d0%be.html',
-    link: '/news/manastirski-livadi-elitnoto-geto-na-sofia.html',
+      'https://spasisofia.org/bg/%d0%bc%d0%b0%d0%bd%d0%b0%d1%81%d1%82%d0%b8%d1%80%d1%81%d0%ba%d0%b8-%d0%bb%d0%b8%d0%b2%d0%b0%d0%b4%d0%b8-%d0%b5%d0%bb%d0%b8%d1%82%d0%bd%d0%be%d1%82%d0%be-%d0%b3%d0%b5%d1%82%d0%be',
+    link: '/news/manastirski-livadi-elitnoto-geto-na-sofia',
     topic: 'Транспорт и инфраструктура',
     tags: 'презастрояване, Манастирски ливади, Каблешков, транспорт, инфраструктура',
     gps: '42.66122242184276, 23.29293935239876',
@@ -1301,8 +1297,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/08/triugulnik-mladost-1-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d0%be%d0%bf%d0%b5%d0%bd%d1%85%d0%b0%d0%b3%d0%b5%d0%bd-%d0%b5-%d0%b2%d1%8a%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be%d1%81%d1%82-%d0%bd%d0%b5-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc.html',
-    link: '/news/bul-kopenhagen-e-vazmozhnost-ne-problem.html',
+      'https://spasisofia.org/bg/%d0%ba%d0%be%d0%bf%d0%b5%d0%bd%d1%85%d0%b0%d0%b3%d0%b5%d0%bd-%d0%b5-%d0%b2%d1%8a%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be%d1%81%d1%82-%d0%bd%d0%b5-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc',
+    link: '/news/bul-kopenhagen-e-vazmozhnost-ne-problem',
     topic: 'Транспорт и инфраструктура',
     tags: 'бул. Копенхаген, Дружба, Младост, строеж, булевард',
     gps: '42.64651426561184, 23.403007825818715',
@@ -1319,8 +1315,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/06/8-iskaniya-na-spasi-sofia.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d0%b2%d0%b0%d0%bb%d1%8a%d1%82-%d0%b4%d0%be%d0%bd%d0%b4%d1%83%d0%ba%d0%be%d0%b2.html',
-    link: '/news/provalat-dondukov.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d0%b2%d0%b0%d0%bb%d1%8a%d1%82-%d0%b4%d0%be%d0%bd%d0%b4%d1%83%d0%ba%d0%be%d0%b2',
+    link: '/news/provalat-dondukov',
     topic: 'Транспорт и инфраструктура',
     tags: 'Дондуков, булевард, некачествен, ремонт',
     gps: '42.698191, 23.329465',
@@ -1337,8 +1333,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/04/vmesto-za-muzey-davat-tramvayno-depo-na-chastnik.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bc%d1%83%d0%b7%d0%b5%d0%b9-%d0%bd%d0%b0%d0%b9-%d1%81%d1%82%d0%b0%d1%80%d0%be-%d0%b4%d0%b5%d0%bf%d0%be-%d1%87%d0%b0%d1%81%d1%82%d0%bd%d0%b8%d0%ba.html',
-    link: '/news/vmesto-za-muzey-tramvayno-depo-se-dava-na-chastnik.html',
+      'https://spasisofia.org/bg/%d0%bc%d1%83%d0%b7%d0%b5%d0%b9-%d0%bd%d0%b0%d0%b9-%d1%81%d1%82%d0%b0%d1%80%d0%be-%d0%b4%d0%b5%d0%bf%d0%be-%d1%87%d0%b0%d1%81%d1%82%d0%bd%d0%b8%d0%ba',
+    link: '/news/vmesto-za-muzey-tramvayno-depo-se-dava-na-chastnik',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, музей, трамвайно депо Клокотница',
     gps: '42.70803861008022, 23.323603237027775',
@@ -1355,8 +1351,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/01/kriterii-avtobus-01-1024x689.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%be%d1%82%d0%bd%d0%be%d0%b2%d0%be-%d0%b4%d0%b8%d0%b7%d0%b5%d0%bb%d0%be%d0%b2%d0%b8-%d0%b0%d0%b2%d1%82%d0%be%d0%b1%d1%83%d1%81%d0%b8-%d0%b7%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%ba%d0%b8%d1%82.html',
-    link: '/news/otnovo-dizelovi-avtobusi-za-sofia-kitayski-ili-turski.html',
+      'https://spasisofia.org/bg/%d0%be%d1%82%d0%bd%d0%be%d0%b2%d0%be-%d0%b4%d0%b8%d0%b7%d0%b5%d0%bb%d0%be%d0%b2%d0%b8-%d0%b0%d0%b2%d1%82%d0%be%d0%b1%d1%83%d1%81%d0%b8-%d0%b7%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%ba%d0%b8%d1%82',
+    link: '/news/otnovo-dizelovi-avtobusi-za-sofia-kitayski-ili-turski',
     topic: 'Транспорт и инфраструктура',
     tags: 'автобуси, градски транспорт, търг',
     gps: '42.64669710257028, 23.41669517097515',
@@ -1373,8 +1369,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/10/14643023_1177257648977992_849931763_n-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b2%d0%b8%d1%82%d0%be%d1%88%d0%b0-%d0%bf%d0%b0%d1%80%d0%ba-%d0%b0-%d0%bd%d0%b5-%d0%bf%d0%b0%d1%80%d0%ba%d0%b8%d0%bd%d0%b3.html',
-    link: '/news/vitosha-park-a-ne-parking.html',
+      'https://spasisofia.org/bg/%d0%b2%d0%b8%d1%82%d0%be%d1%88%d0%b0-%d0%bf%d0%b0%d1%80%d0%ba-%d0%b0-%d0%bd%d0%b5-%d0%bf%d0%b0%d1%80%d0%ba%d0%b8%d0%bd%d0%b3',
+    link: '/news/vitosha-park-a-ne-parking',
     topic: 'Град за хората',
     tags: 'автобуси, Витоша, зелен град, парк, природа',
     gps: '42.583767144073484, 23.292260896375762',
@@ -1391,8 +1387,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/06/20130205_143549-1024x576.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%80%d0%b0%d0%b7%d1%80%d1%83%d1%85%d0%b0-%d0%bc%d0%bb%d0%b0%d0%b4%d0%be%d1%81%d1%82-%d0%b8-%d0%ba%d0%b0%d0%ba%d0%b2%d0%be-%d0%b5-%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d0%b5%d1%82%d0%be.html',
-    link: '/news/razruha-v-mladost-i-kakvo-e-reshenieto.html',
+      'https://spasisofia.org/bg/%d1%80%d0%b0%d0%b7%d1%80%d1%83%d1%85%d0%b0-%d0%bc%d0%bb%d0%b0%d0%b4%d0%be%d1%81%d1%82-%d0%b8-%d0%ba%d0%b0%d0%ba%d0%b2%d0%be-%d0%b5-%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d0%b5%d1%82%d0%be',
+    link: '/news/razruha-v-mladost-i-kakvo-e-reshenieto',
     topic: 'Град за хората',
     tags: 'жилищен комплекс, квартали, Младост, София, Столична община',
     gps: '42.64080067771231, 23.38078040987843',
@@ -1409,8 +1405,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/10/12107115_10206483582146163_9193292796745277924_n-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b0%d0%bd%d1%82%d0%b8%d1%87%d0%ba%d0%b0-%d1%81%d0%b5%d1%80%d0%b4%d0%b8%d0%ba%d0%b0-%d0%b4%d0%be-%d0%ba%d0%bb%d1%8e%d1%87.html',
-    link: '/news/antichka-serdika-do-klyuch.html',
+      'https://spasisofia.org/bg/%d0%b0%d0%bd%d1%82%d0%b8%d1%87%d0%ba%d0%b0-%d1%81%d0%b5%d1%80%d0%b4%d0%b8%d0%ba%d0%b0-%d0%b4%d0%be-%d0%ba%d0%bb%d1%8e%d1%87',
+    link: '/news/antichka-serdika-do-klyuch',
     topic: 'Образование и култура',
     tags: 'археология, градска среда, площад, реставрация, сердика',
     gps: '42.69828197116345, 23.322232284097954',
@@ -1427,8 +1423,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/05/logos1-600x254.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b7%d0%b0%d0%b5%d0%b4%d0%bd%d0%be-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b2%d0%b5%d1%87%d0%b5-%d0%b1%d1%83%d1%81-%d0%bb%d0%b5%d0%bd%d1%82%d0%b8.html',
-    link: '/news/zaedno-za-poveche-bus-lenti.html',
+      'https://spasisofia.org/bg/%d0%b7%d0%b0%d0%b5%d0%b4%d0%bd%d0%be-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b2%d0%b5%d1%87%d0%b5-%d0%b1%d1%83%d1%81-%d0%bb%d0%b5%d0%bd%d1%82%d0%b8',
+    link: '/news/zaedno-za-poveche-bus-lenti',
     topic: 'Транспорт и инфраструктура',
     tags: 'BUS ленти, МРРБ',
     gps: '42.673704960372945, 23.29547337720598',
@@ -1445,8 +1441,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/03/IMAG0978-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d0%be%d0%b4%d0%bb%d0%b5%d0%b7%d1%8a%d1%82-%d0%bd%d0%b0-%d0%bd%d0%b4%d0%ba-%d1%83%d0%b6%d0%b0%d1%81%d0%b8%d1%82%d0%b5.html',
-    link: '/news/podlezat-na-ndk-uzhasite.html',
+      'https://spasisofia.org/bg/%d0%bf%d0%be%d0%b4%d0%bb%d0%b5%d0%b7%d1%8a%d1%82-%d0%bd%d0%b0-%d0%bd%d0%b4%d0%ba-%d1%83%d0%b6%d0%b0%d1%81%d0%b8%d1%82%d0%b5',
+    link: '/news/podlezat-na-ndk-uzhasite',
     topic: 'Транспорт и инфраструктура',
     tags: 'метростанция, НДК, подлез',
     gps: '42.68577526797904, 23.318595334515926',
@@ -1463,8 +1459,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/03/IMAG0948-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-%d0%b1%d0%b5%d0%b7%d1%83%d0%bc%d0%b8%d0%b5-%d0%b5-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%8f.html',
-    link: '/news/tramvay-bezumie-e-na-bul-balgariya.html',
+      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-%d0%b1%d0%b5%d0%b7%d1%83%d0%bc%d0%b8%d0%b5-%d0%b5-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%8f',
+    link: '/news/tramvay-bezumie-e-na-bul-balgariya',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, СК- 13, Столична община',
     gps: '42.67707900675567, 23.297724028788544',
@@ -1480,8 +1476,8 @@ export const PROJECTS = [
       'През 2020 г. Борис Бонев внесе доклад в Общинския съвет, адресиращ тежкия недостиг на места в детските заведения в София. В него предлагаме преустрояването на сгради, използвани от други институции, в детски градини и използването за това на вече съществуващи сгради, но заети от общината и изпълняващи досега други функции, както и приоритетно строителство на детски градини в най-засегнатите райони. Други мерки, за които се застъпваме в доклада е строг контрол на текущите ремонти, така че да се изпълняват в срок и с високо качество и планиране на бъдещи детски заведения спрямо капаците на новостроящите се сгради. Изграждането на информационна система за реалния брой на децата и нужните за тях места ще помогне на планирането в бъдеще. Докладът предлага методология, която би подсигурила последователното разрешаване на тежкия недостиг на места в детските заведения. За жалост засега хроничният недостиг на около 10 000 места в детските градини не намалява и даже се увеличава. ',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/09/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8-%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D0%B8-%D0%9F%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%B8-1117x1536.png',
-    oldLink: 'https://spasisofia.org/bg/doklad-nedostig-detski-gradini.html',
-    link: '/projects/doklad-otnosno-nedostiga-na-mesta-v-yaslite-i-detskite-gradini-v-stolichnata-obshtina.html',
+    oldLink: 'https://spasisofia.org/bg/doklad-nedostig-detski-gradini',
+    link: '/projects/doklad-otnosno-nedostiga-na-mesta-v-yaslite-i-detskite-gradini-v-stolichnata-obshtina',
     topic: 'Образование и култура',
     tags: 'доклад, община, детски градини, Столична община, недостиг, места',
     gps: '42.67161322323828, 23.35413861349234',
@@ -1497,8 +1493,8 @@ export const PROJECTS = [
       'През 2020 г. Борис Бонев внесе доклад в Общинския съвет, адресиращ тежкия недостиг на места в детските заведения в София. В него предлагаме преустрояването на сгради, използвани от други институции, в детски градини и използването за това на вече съществуващи сгради, но заети от общината и изпълняващи досега други функции, както и приоритетно строителство на детски градини в най-засегнатите райони. Други мерки, за които се застъпваме в доклада е строг контрол на текущите ремонти, така че да се изпълняват в срок и с високо качество и планиране на бъдещи детски заведения спрямо капаците на новостроящите се сгради. Изграждането на информационна система за реалния брой на децата и нужните за тях места ще помогне на планирането в бъдеще. Докладът предлага методология, която би подсигурила последователното разрешаване на тежкия недостиг на места в детските заведения. За жалост засега хроничният недостиг на около 10 000 места в детските градини не намалява и даже се увеличава. ',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/09/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8-%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D0%B8-%D0%9F%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%B8-1117x1536.png',
-    oldLink: 'https://spasisofia.org/bg/doklad-nedostig-detski-gradini.html',
-    link: '/projects/doklad-otnosno-nedostiga-na-mesta-v-yaslite-i-detskite-gradini-v-stolichnata-obshtina.html',
+    oldLink: 'https://spasisofia.org/bg/doklad-nedostig-detski-gradini',
+    link: '/projects/doklad-otnosno-nedostiga-na-mesta-v-yaslite-i-detskite-gradini-v-stolichnata-obshtina',
     topic: 'Образование и култура',
     tags: 'доклад, община, детски градини, Столична община, недостиг, места',
     gps: '42.71822637302696, 23.249287655546805',
@@ -1514,8 +1510,8 @@ export const PROJECTS = [
       'През 2020 г. Борис Бонев внесе доклад в Общинския съвет, адресиращ тежкия недостиг на места в детските заведения в София. В него предлагаме преустрояването на сгради, използвани от други институции, в детски градини и използването за това на вече съществуващи сгради, но заети от общината и изпълняващи досега други функции, както и приоритетно строителство на детски градини в най-засегнатите райони. Други мерки, за които се застъпваме в доклада е строг контрол на текущите ремонти, така че да се изпълняват в срок и с високо качество и планиране на бъдещи детски заведения спрямо капаците на новостроящите се сгради. Изграждането на информационна система за реалния брой на децата и нужните за тях места ще помогне на планирането в бъдеще. Докладът предлага методология, която би подсигурила последователното разрешаване на тежкия недостиг на места в детските заведения. За жалост засега хроничният недостиг на около 10 000 места в детските градини не намалява и даже се увеличава. ',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/09/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8-%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D0%B8-%D0%9F%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%B8-1117x1536.png',
-    oldLink: 'https://spasisofia.org/bg/doklad-nedostig-detski-gradini.html',
-    link: '/projects/doklad-otnosno-nedostiga-na-mesta-v-yaslite-i-detskite-gradini-v-stolichnata-obshtina.html',
+    oldLink: 'https://spasisofia.org/bg/doklad-nedostig-detski-gradini',
+    link: '/projects/doklad-otnosno-nedostiga-na-mesta-v-yaslite-i-detskite-gradini-v-stolichnata-obshtina',
     topic: 'Образование и култура',
     tags: 'доклад, община, детски градини, Столична община, недостиг, места',
     gps: '42.65424885144451, 23.374413502968586',
@@ -1531,8 +1527,8 @@ export const PROJECTS = [
       'Общинският съветник на Спаси София Борис Бонев внесе доклад, с който се предлага преустройство в детски заведения на пет сгради в районите Красно село, Средец, Надежда, Възраждане и Нови Искър, които в миналото са се ползвали за детски градини. В контекста на тежкия недостиг на места в детските заведения в София и на фона на сериозната икономическа и здравна криза, Столичната община следва да предприеме както дългосрочни, така и краткосрочни мерки за намаляване на недостига. Въпреки че основният фокус на администрацията на Общината следва да бъде в дългосрочните мерки, един комплексен подход ще позволи намаляване на негативните ефекти от недостига, който сериозно затруднява нормалния живот и успешното развитие на родителите и децата на София.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/01/5-sgradi-detski-gradini-1024x1024.png',
-    oldLink: 'https://spasisofia.org/bg/5-sgradi-za-detski-gradini.html',
-    link: '/projects/predlagame-5-novi-detski-gradini-v-sgradi-koito-predi-sa-bili-detski-zavedeniya.html',
+    oldLink: 'https://spasisofia.org/bg/5-sgradi-za-detski-gradini',
+    link: '/projects/predlagame-5-novi-detski-gradini-v-sgradi-koito-predi-sa-bili-detski-zavedeniya',
     topic: 'Образование и култура',
     tags: 'детски градини, детски заведения, предложение',
     gps: '42.68413600019624, 23.3223978809005',
@@ -1548,8 +1544,8 @@ export const PROJECTS = [
       'Общинският съветник на Спаси София Борис Бонев внесе доклад, с който се предлага преустройство в детски заведения на пет сгради в районите Красно село, Средец, Надежда, Възраждане и Нови Искър, които в миналото са се ползвали за детски градини. В контекста на тежкия недостиг на места в детските заведения в София и на фона на сериозната икономическа и здравна криза, Столичната община следва да предприеме както дългосрочни, така и краткосрочни мерки за намаляване на недостига. Въпреки че основният фокус на администрацията на Общината следва да бъде в дългосрочните мерки, един комплексен подход ще позволи намаляване на негативните ефекти от недостига, който сериозно затруднява нормалния живот и успешното развитие на родителите и децата на София.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/01/5-sgradi-detski-gradini-1024x1024.png',
-    oldLink: 'https://spasisofia.org/bg/5-sgradi-za-detski-gradini.html',
-    link: '/projects/predlagame-5-novi-detski-gradini-v-sgradi-koito-predi-sa-bili-detski-zavedeniya.html',
+    oldLink: 'https://spasisofia.org/bg/5-sgradi-za-detski-gradini',
+    link: '/projects/predlagame-5-novi-detski-gradini-v-sgradi-koito-predi-sa-bili-detski-zavedeniya',
     topic: 'Образование и култура',
     tags: 'детски градини, детски заведения, предложение',
     gps: '42.801021335312875, 23.422574864023975',
@@ -1565,8 +1561,8 @@ export const PROJECTS = [
       'Общинският съветник на Спаси София Борис Бонев внесе доклад, с който се предлага преустройство в детски заведения на пет сгради в районите Красно село, Средец, Надежда, Възраждане и Нови Искър, които в миналото са се ползвали за детски градини. В контекста на тежкия недостиг на места в детските заведения в София и на фона на сериозната икономическа и здравна криза, Столичната община следва да предприеме както дългосрочни, така и краткосрочни мерки за намаляване на недостига. Въпреки че основният фокус на администрацията на Общината следва да бъде в дългосрочните мерки, един комплексен подход ще позволи намаляване на негативните ефекти от недостига, който сериозно затруднява нормалния живот и успешното развитие на родителите и децата на София.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/01/5-sgradi-detski-gradini-1024x1024.png',
-    oldLink: 'https://spasisofia.org/bg/5-sgradi-za-detski-gradini.html',
-    link: '/projects/predlagame-5-novi-detski-gradini-v-sgradi-koito-predi-sa-bili-detski-zavedeniya.html',
+    oldLink: 'https://spasisofia.org/bg/5-sgradi-za-detski-gradini',
+    link: '/projects/predlagame-5-novi-detski-gradini-v-sgradi-koito-predi-sa-bili-detski-zavedeniya',
     topic: 'Образование и култура',
     tags: 'детски градини, детски заведения, предложение',
     gps: '42.73281753413956, 23.308100624785016',
@@ -1582,8 +1578,8 @@ export const PROJECTS = [
       'Ние сме активен подръжник на трамвая по бул. “Тодор Каблешков”, който е заложен в общия устройствен план (ОУП) на София като връзка между съществуващите направления по бул. “Цар Борис III и бул. Шипченски проход.Той ще свързва южните и част от източните квартали на града посредством автономно трасе, осигуряващо скорост и удобство за голям брой пътници, които в момента са принудени да минават през центъра на града. Разтоварването на централната градска част от транзитния трафик би довело до намаляване на вредните емисии в района, създавайки условия за повече пешеходно и велосипедно придвижване.',
     imageUrl: '02_Каблешков-трамвайно-трасе.png (2560×2224) (spasisofia.org)',
     oldLink:
-      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya.html',
-    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya.html',
+      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya',
+    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya',
     topic: 'Транспорт и инфраструктура',
     tags: '',
     gps: '42.66237823008556, 23.29350419057159',
@@ -1599,8 +1595,8 @@ export const PROJECTS = [
       'Трамвайното трасе по бул. “Княгиня Мария Луиза” в участъка от ул. “Козлодуй” до надлез “Надежда” е едно от най-амортизираните в София и същевременно и едно от най-натоварените – средно на всеки 2.5 минути оттам преминава трамвай. Необходим е цялостен ремонт на 1.5 км. единичен коловоз, което ще доведе до драстично съкращаване на разписанията и повишаване на средната скорост на трамваи с номера 1, 3, 6, 7 и 12. В момента трасето е в аварийно състояние и скоростта е ограничена до 10 км/ч, което не само прави тези линии непривлекателни за гражданите, но и води до бързото амортизиране на подвижния състав, движещ се по тях. Съществуващата асфалтова настилка, както и тротоарите, са с множество неравности и пропадания, а ежегодните частични ремонти не носят резултат, тъй като основата и износващите пластове са силно компрометирани. Цялостният ремонт на тази отсечка предвижда нов трамваен път, монтаж на шумо-, електро- и виброизолационни елементи, нова дренажна система, подновяване на контактната мрежа, както и ремонт на останалата част от уличното платно, за което е нужен ресурс в размер на 6 млн. лв.',
     imageUrl: '03_Мария-Луиза.png (2560×2224) (spasisofia.org)',
     oldLink:
-      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya.html',
-    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya.html',
+      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya',
+    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya',
     topic: 'Транспорт и инфраструктура',
     tags: '',
     gps: '42.70977499288084, 23.322469443655365',
@@ -1616,8 +1612,8 @@ export const PROJECTS = [
       'Необходимо е общината да инвестира приоритетно в ремонта на трамвайната мрежа в периферните квартали, подобрявайки тяхната свързаност чрез екологичен, бърз и удобен транспорт. По този начин повече хора ще се откажат от автомобилите си, в полза на по-чист въздух и по-малко време, изгубено в задръствания.\nВ този контекст е абсолютно наложително този обект да бъде включен в капиталовата програма, като за него се заделят 2,5 млн. лв.',
     imageUrl: '01_Трамваи.png (979×545) (spasisofia.org)',
     oldLink:
-      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya.html',
-    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya.html',
+      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya',
+    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya',
     topic: 'Транспорт и инфраструктура',
     tags: '',
     gps: '42.71128998808684, 23.242070150663984',
@@ -1634,8 +1630,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/03/04_%D0%9F%D0%B0%D1%80%D0%BA%D0%B8%D0%BD%D0%B3-%D0%A1%D0%BB%D0%B8%D0%B2%D0%BD%D0%B8%D1%86%D0%B0.jpg',
     oldLink:
-      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya.html',
-    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya.html',
+      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya',
+    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya',
     topic: 'Транспорт и инфраструктура',
     tags: '',
     gps: '42.726294119961146, 23.261757564730587',
@@ -1651,8 +1647,8 @@ export const PROJECTS = [
       'Улица „Велчо Атанасов“ е основна пътна артерия на квартал Слатина и движението по нея е изключително натоварено. По нея минава линия 72 на градския транспорт, която е същевременно и единствена автобусна линия свързваща квартала с другите части на града. Тротоарите са разбити и движението по тях е затруднено от паркирали автомобили. Изграждането на нови тротоари бяха заложени още през 2019 г., които така и не бяха изпълнени спрямо плана, а проектът за ремонта на улицата беше замразен през 2020 г. Поради това не намираме никакво оправдание за отлагане на този спешен ремонт.\r\n\r\nРесурс за цялостния ремонт на улицата с дължина 750 метра, включващ и задължителен ремонт на автобусни спирки и тротоари, както и ново улично осветление, трябва да бъде предвидени в капиталовата програма в размер на 2 млн. лв. ',
     imageUrl: '',
     oldLink:
-      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya.html',
-    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya.html',
+      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya',
+    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya',
     topic: 'Транспорт и инфраструктура',
     tags: '',
     gps: '42.693763703689314, 23.359986921147794',
@@ -1668,8 +1664,8 @@ export const PROJECTS = [
       'Ул. „Солунска“ е една от най-оживените и натоварени централни софийски улици, която е в трагичното състояние в участъка между бул. „Христо Ботев“ и бул. „Витоша“. Проблемна е както пътната настилка, така и осветлението и тротоарите, които са непроходими. Проект за цялостен ремонт на участъка, който се явява продължение на вече ремонтираната част до ул. „Граф Игнатиев“ има още от 2018 г., и оттогава спорадично влиза и излиза от капиталовата програма на Общината. Тази улица е част и от Зона 30 в центъра, и проектът за ремонт на ул. „Солунска“ включва и изграждането на инфраструктура, която успокоява движението. С цел завършване на тази ключова и представителна централна улица и решаване на проблемите на живущите и бизнеса по нея, настояваме за цялостен ремонт да бъдат отделени 1,1 млн. лв.',
     imageUrl: '',
     oldLink:
-      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya.html',
-    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya.html',
+      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya',
+    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya',
     topic: 'Транспорт и инфраструктура',
     tags: '',
     gps: '42.69310919791062, 23.317833324152407',
@@ -1685,8 +1681,8 @@ export const PROJECTS = [
       'Изграждането на (полу)кръгово кръстовище в кв. Витоша ВЕЦ-Симеоново е дългоотлаган проект, който значително ще улесни влизането и излизането от квартала, който страда от липса на инфраструктура и добри връзки с прилежащите квартали и територии. За обекта вече има идеен проект, а техническият такъв е възложен от страна на гл. арх. и затова е съвсем реалистично той да може да бъде изпълнен в най-кратък срок.',
     imageUrl: '',
     oldLink:
-      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya.html',
-    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya.html',
+      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya',
+    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya',
     topic: 'Транспорт и инфраструктура',
     tags: '',
     gps: '42.6455186433631, 23.333653405139767',
@@ -1702,8 +1698,8 @@ export const PROJECTS = [
       'През 2022 г. предложихме ремонтът на 22 ДКЦ да бъде включев в капиталовата програма на общината и да бъде извършен цялостен вътрешен и външен ремонт. Въпреки недоброто му финансово състояние, е изключително важно да продължи да предлага медицинските си услуги на живеещите в квартала. Необходимо е и въвеждане на енергийно-ефективни мерки за намаляване на експлоатационните разходи.',
     imageUrl: '',
     oldLink:
-      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya.html',
-    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya.html',
+      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya',
+    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya',
     topic: 'Образование и култура',
     tags: '',
     gps: '42.67803706963302, 23.36021417852256',
@@ -1719,8 +1715,8 @@ export const PROJECTS = [
       'През 2022 г. предложихме ремонтът на 16 ДКЦ да бъде включев в капиталовата програма на общината и да бъде извършен цялостен вътрешен и външен ремонт. Въпреки недоброто му финансово състояние, е изключително важно да продължи да предлага медицинските си услуги на живеещите в района на Кремиковци. Необходимо е и въвеждане на енергийно-ефективни мерки за намаляване на експлоатационните разходи.',
     imageUrl: '',
     oldLink:
-      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya.html',
-    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya.html',
+      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya',
+    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya',
     topic: 'Образование и култура',
     tags: '',
     gps: '42.73825806215106, 23.50766818461819',
@@ -1736,8 +1732,8 @@ export const PROJECTS = [
       'Настояваме за ремонт на 30 ДКЦ в Обеля и предложихме той да бъде включен в капиталовата програма на общината през 2022 г. След критичното финансово състояние заради огромни дългове през 2016 г., лошо управление и отсъствие на контрол от Общината, до днешна дата 30  ДКЦ все още не е в добро финансово състояние, а сградният фонд има спешна нужда от вътрешен и външен ремонт.  Медицинският център, който се намира в периферията на Софийска община, е от особена важност, тъй като обслужва живущите в зоните Обеля-1, Обеля-2, кв. Обеля, Връбница-1 и с. Волуяк.',
     imageUrl: '',
     oldLink:
-      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya.html',
-    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya.html',
+      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya',
+    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya',
     topic: 'Образование и култура',
     tags: '',
     gps: '42.74384352957822, 23.27638063515101',
@@ -1753,8 +1749,8 @@ export const PROJECTS = [
       'Настоявахме да бъде извършен ремонт на 35 СЕУ, което е най-голямото училище в квартал Лозенец и в което се обучават над 1200 ученици. От години бива игнорирана спешната нужда от вътрешен и външен ремонт на сградата, за която родителите на обучаващи се са алармирали многократно. Недопустимо е материалната база на едно от най-елитните училища в София, а и в страната, да бъде в такова състояние, което може да доведе и до опасни инциденти.\r\nАбсолютно наложително е да бъде заложен ресурс в размерите на 1,7 млн.лв. за спешен ремонт на фасадата на сградата, както и подмяната на отоплителната и електрическата инсталация.',
     imageUrl: '',
     oldLink:
-      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya.html',
-    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya.html',
+      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya',
+    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya',
     topic: 'Образование и култура',
     tags: '',
     gps: '42.682213395603895, 23.32881355743233',
@@ -1770,8 +1766,8 @@ export const PROJECTS = [
       'От изключителна важност е приоритетът за детските градини да не остане само едно добро пожелание, а да бъде ясно отразено в бюджетната рамка. Настояваме да бъде осъществено изграждането на детската градина в ж.к. “Обеля 1”, като тя вече е заложена в „Програма за строителство на детски градини 2021-2023″ и има индикативна стойност 1,5 млн. лв. Крайните квартали често са ощетени и на родителите се налага да се борят за твърде малък брой места. Такъв е случаят и в ж.к. „Обеля 1“, който не разполага със собствена детска градина, въпреки че от много време е предвиден терен и средства за нейния строеж. Срокът за отчуждаване на терена за детската градина изтече и не е ясно нейното бъдеще. Към момента единственото действащо заведение с подобна функция е филиал на голяма градина (ДГ №5), представляващ 2 стаи на партера на блок, който за детска площадка използва общинската зад блока и не може да поеме голям брой деца. В момента, на родителите в Обеля 1 се налага да кандидатстват в градини в съседни квартали – Обеля 2, Връбница, Модерно Предградие и други, като това им коства дълго и неудобно пътуване всеки ден, за да заведат децата си на градина. \r\n\r\n',
     imageUrl: '',
     oldLink:
-      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya.html',
-    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya.html',
+      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya',
+    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya',
     topic: 'Образование и култура',
     tags: '',
     gps: '42.73713503267514, 23.2690889872594',
@@ -1787,8 +1783,8 @@ export const PROJECTS = [
       'Предлагаме да бъде изградена тартанова писта за бягане в Южния парк – щадяща инфраструктура за професионални спортисти и любители на бягането. Асфалтовите настилки могат да имат негативен ефект за спортуващите, изразяващ се в болки в ставите, коленете и стъпалата. Тартанови писти са изградени в редица европейски градове, като чрез тях се промотират активното движение и спорт. Предлагаме това трасе да бъде обособено в Южен парк, тъй като той предоставя едни от най-добрите условия за практикуване на бягане.Инвестицията за изграждането на писта с дължина 4,5 км възлиза на 0,4 млн. лв.',
     imageUrl: '06_Тартанова-писта.jpg (1600×806) (spasisofia.org)',
     oldLink:
-      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya.html',
-    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya.html',
+      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya',
+    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya',
     topic: 'Спортни и детски площадки',
     tags: '',
     gps: '42.672377482624846, 23.30597186547372',
@@ -1804,8 +1800,8 @@ export const PROJECTS = [
       'Въпреки своите размери и голям брой любители на колоезденето и велосипедните спортове, София остава един от градовете с недостатъчна инфраструктура за практикуване на тези видове спорт. През 2021 г. беше направен неуспешен опит за изграждане на велосипеден парк на територията на кв. Орландовци. Считам, обаче, че не може да се разчита на подръчни средства за подобен проект.\r\nВ допълнение София страда от остър дефицит на съоръжения, които да стимулират спортните занимания на открито и да предоставят възможност за водене на по-здравословен начин на живот. \r\n\r\nВ тази връзка предлагаме на територията на кв. Орландовци да бъде изграден велосипеден парк. Прогнозната му стойност е 0,2 млн. лв. ',
     imageUrl: '',
     oldLink:
-      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya.html',
-    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya.html',
+      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya',
+    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya',
     topic: 'Спортни и детски площадки',
     tags: '',
     gps: '42.72063503655812, 23.340990786439022',
@@ -1837,8 +1833,8 @@ export const PROJECTS = [
       'Точно както нарастващите общности трябва да модернизират и разширят изградената си инфраструктура от пътища, канали и комунални услуги, те също трябва да развиват и своята зелена инфраструктура. Тя има ролята да запазва естествените ценности и функции на екосистемата, да поддържа чист въздух и вода и да предоставя широк спектър от ползи за жителите на града.\r\nПарк Гео Милев е основна дестинация на жителите на район Слатина, като е и един от парковете, който може да се похвали със задоволителна свързаност с транспортната градска мрежа. Бидейки разделен на две части от ул. Атанас Узунов, източната половина на парка остава по-необлагородена, където главно преобладават неподдържани тревни площи и се наблюдава недостиг на съоръжения, които да задоволят нуждите на всички живущи в квартала. На база на гореспоменатите аргументи, предложихме в капиталовата програма за 2022г. да бъде включено изграждането на две спортни площадки в парк „Гео Милев“ в размер на 0,3 млн.лв.',
     imageUrl: '07_Площадки-Гео-Милев.png (1554×1213) (spasisofia.org)',
     oldLink:
-      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya.html',
-    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya.html',
+      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya',
+    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya',
     topic: 'Спортни и детски площадки',
     tags: '',
     gps: '42.68784276940911, 23.359666246572342',

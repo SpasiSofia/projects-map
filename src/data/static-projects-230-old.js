@@ -7,8 +7,8 @@ export const PROJECTS = [
       'Нашето предложение - справедлива и гъвкава билетна система за София',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/11/%D0%A2%D0%B8%D0%BA%D0%B5%D1%82-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F-8-1024x576.png',
-    oldLink: 'https://spasisofia.org/bg/nova-biletna-sistema.html',
-    link: '/projects/predlagame-nova-spravedliva-i-moderna-biletna-sistema-za-sofia.html',
+    oldLink: 'https://spasisofia.org/bg/nova-biletna-sistema',
+    link: '/projects/predlagame-nova-spravedliva-i-moderna-biletna-sistema-za-sofia',
     topic: 'Транспорт и инфраструктура',
     tags: 'автобус, билетна система, градски транспорт, метро, трамвай, тролейбус',
     gps: '42.7075223,23.3213839',
@@ -24,9 +24,8 @@ export const PROJECTS = [
       'Ремонтът на трамвая по бул. Цар Борис III тече, но без да включва удобни трамвайни спирки. Нашият екип реши да предложим такива.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/06/SS-Tram-Stop-View-01-Frontal-1024x576.jpg',
-    oldLink:
-      'https://spasisofia.org/bg/tramvayni-spirki-po-tsar-boris-iii.html',
-    link: '/projects/predlagame-udobni-i-moderni-spirki-po-tramvaynoto-trase-na-bul-tsar-boris-iii.html',
+    oldLink: 'https://spasisofia.org/bg/tramvayni-spirki-po-tsar-boris-iii',
+    link: '/projects/predlagame-udobni-i-moderni-spirki-po-tramvaynoto-trase-na-bul-tsar-boris-iii',
     topic: 'Транспорт и инфраструктура',
     tags: 'бул. Цар Борис III, спирки, ремонт, удобни, модерни, трамвай',
     gps: '42.6811069,23.2746735',
@@ -42,8 +41,8 @@ export const PROJECTS = [
       'Зона с ограничение на скоростта за движение до 30 км/ч или Зона 30 е утвърден в световната практика инструмент за управление и успокояване на трафика.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/06/%D0%97%D0%BE%D0%BD%D0%B030-3.jpg',
-    oldLink: 'https://spasisofia.org/bg/zona30.html',
-    link: '/projects/kakvo-e-zona-30-i-kak-da-proraboti-v-sofia.html',
+    oldLink: 'https://spasisofia.org/bg/zona30',
+    link: '/projects/kakvo-e-zona-30-i-kak-da-proraboti-v-sofia',
     topic: 'Транспорт и инфраструктура',
     tags: 'зона 30, паркиране, зона',
     gps: '42.6960812, 23.3269738',
@@ -60,8 +59,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/04/administrativno-obsluzhvane-gluhi-sofiyantsi.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%be%d0%b1%d1%81%d0%bb%d1%83%d0%b6%d0%b2%d0%b0%d0%bd%d0%b5-%d1%81-%d0%b6%d0%b5%d1%81%d1%82%d0%be%d0%b2-%d0%b5%d0%b7%d0%b8%d0%ba.html',
-    link: '/projects/doklad-obsluzhvane-na-zhestov-ezik-v-obshtinskata-administratsiya.html',
+      'https://spasisofia.org/bg/%d0%be%d0%b1%d1%81%d0%bb%d1%83%d0%b6%d0%b2%d0%b0%d0%bd%d0%b5-%d1%81-%d0%b6%d0%b5%d1%81%d1%82%d0%be%d0%b2-%d0%b5%d0%b7%d0%b8%d0%ba',
+    link: '/projects/doklad-obsluzhvane-na-zhestov-ezik-v-obshtinskata-administratsiya',
     topic: 'Проекти и реформи',
     tags: 'жестов език, общинска администрация, интегриране',
     gps: '42.6889741,23.3098242',
@@ -77,8 +76,8 @@ export const PROJECTS = [
       'Предлагаме намаляване на броя на служебните абонаменти, за да се осигурят повече паркоместа за живущите и приходящите към центъра на София.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/05/Site-pic-1024x713.png',
-    oldLink: 'https://spasisofia.org/bg/sluzhebni-abonamenti.html',
-    link: '/projects/doklad-namalyavane-na-broya-na-sluzhebnite-abonamenti.html',
+    oldLink: 'https://spasisofia.org/bg/sluzhebni-abonamenti',
+    link: '/projects/doklad-namalyavane-na-broya-na-sluzhebnite-abonamenti',
     topic: 'Паркиране',
     tags: 'паркиране, служебен абонамент, места, намаляне',
     gps: '42.6889741,23.3098242',
@@ -94,8 +93,8 @@ export const PROJECTS = [
       'Метрото до ИКЕА за 200 милиона ще стимулира презастрояването, връзката с лифта е мит, няма достатъчно пътници, а една автобусна линия би била достатъчна да довозва хората до близката метростанция при Бизнес парка',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/04/metro-do-ikea-thumb.png',
-    oldLink: 'https://spasisofia.org/bg/metro-do-ikea.html',
-    link: '/projects/metro-do-ikea-200-mln-podarak-za-molove-i-kompleksi.html',
+    oldLink: 'https://spasisofia.org/bg/metro-do-ikea',
+    link: '/projects/metro-do-ikea-200-mln-podarak-za-molove-i-kompleksi',
     topic: 'Транспорт и инфраструктура',
     tags: 'метро, икеа, магазин, лифт, мол, комплекс, подарък',
     gps: '42.6231607,23.3558212',
@@ -111,8 +110,8 @@ export const PROJECTS = [
       'Предлагаме монтирането на велобагажници на автобусите до Витоша, за да осигурим удобен транспорт за всички колоездачи до планината.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/03/Velobagazhnici-1024x755.png',
-    oldLink: 'https://spasisofia.org/bg/velobagazhnici-avtobusi.html',
-    link: '/projects/doklad-postavyane-na-velobagazhnitsi-za-dostap-do-vitosha.html',
+    oldLink: 'https://spasisofia.org/bg/velobagazhnici-avtobusi',
+    link: '/projects/doklad-postavyane-na-velobagazhnitsi-za-dostap-do-vitosha',
     topic: 'Транспорт и инфраструктура',
     tags: 'планина, Витоша, София, велосипед, велобагажник, транспорт, градски, автобус',
     gps: '42.636738,23.243853',
@@ -128,8 +127,8 @@ export const PROJECTS = [
       'Предлагаме нова линия №173, която да обслужва гъстозаселените и презастроени квартали в южна София между Овча купел и Окръжна болница.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/02/173-05-1024x724.png',
-    oldLink: 'https://spasisofia.org/bg/linia173.html',
-    link: '/projects/doklad-predlagame-nova-liniya-173-za-yuzhnite-kvartali.html',
+    oldLink: 'https://spasisofia.org/bg/linia173',
+    link: '/projects/doklad-predlagame-nova-liniya-173-za-yuzhnite-kvartali',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, линия, 173, южни квартали, автобус',
     gps: '42.6778469,23.2622161',
@@ -145,8 +144,8 @@ export const PROJECTS = [
       'Подготвихме наръчник за редене на павета, защото тази красива и трайна настилка има бъдеще в София.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/11/cobblestones_2_2-1024x724.jpg',
-    oldLink: 'https://spasisofia.org/bg/krasiv-pavazh.html',
-    link: '/projects/krasiv-pavazh-misiya-vazmozhna.html',
+    oldLink: 'https://spasisofia.org/bg/krasiv-pavazh',
+    link: '/projects/krasiv-pavazh-misiya-vazmozhna',
     topic: 'Град за хората',
     tags: 'красив, паваж, редене, мисия, възможна',
     gps: '42.6889741,23.3098242',
@@ -161,8 +160,8 @@ export const PROJECTS = [
     description:
       'Прочетете нашите предложения за Бюджет 2021 и ги подкрепете като изпратите и вашето становище до Столичната община. София има нужда от вас!',
     imageUrl: '',
-    oldLink: 'https://spasisofia.org/bg/stanovishte-budget-2021.html',
-    link: '/projects/stanovishte-byudzhet-2021.html',
+    oldLink: 'https://spasisofia.org/bg/stanovishte-budget-2021',
+    link: '/projects/stanovishte-byudzhet-2021',
     topic: 'Проекти и реформи',
     tags: 'становище, бюджет 2021, София',
     gps: '42.6889741,23.3098242',
@@ -178,8 +177,8 @@ export const PROJECTS = [
       'Общинският съветник на Спаси София Борис Бонев внесе доклад, с който се предлага преустройство в детски заведения на пет сгради в районите Красно село, Средец, Надежда, Възраждане и Нови Искър, които в миналото са се ползвали за детски градини.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/01/5-sgradi-detski-gradini-1024x1024.png',
-    oldLink: 'https://spasisofia.org/bg/5-sgradi-za-detski-gradini.html',
-    link: '/projects/predlagame-5-novi-detski-gradini-v-sgradi-koito-predi-sa-bili-detski-zavedeniya.html',
+    oldLink: 'https://spasisofia.org/bg/5-sgradi-za-detski-gradini',
+    link: '/projects/predlagame-5-novi-detski-gradini-v-sgradi-koito-predi-sa-bili-detski-zavedeniya',
     topic: 'Образование и култура',
     tags: 'детски градини, детски заведения, предложение',
     gps: '42.6889741,23.3098242',
@@ -195,8 +194,8 @@ export const PROJECTS = [
       'Предложението ни за съкращаване на сроковете за премахване на изоставените автомобили от улиците беше прието и вече официално е в сила.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/01/%D0%98%D0%A3%D0%9C%D0%9F%D0%A1-%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8-2.png',
-    oldLink: 'https://spasisofia.org/bg/izostaveni-koli-promeni.html',
-    link: '/projects/predlozhenieto-ni-za-pobarzo-premahvane-na-starite-koli-e-prieto.html',
+    oldLink: 'https://spasisofia.org/bg/izostaveni-koli-promeni',
+    link: '/projects/predlozhenieto-ni-za-pobarzo-premahvane-na-starite-koli-e-prieto',
     topic: 'Паркиране',
     tags: 'стари коли, изоставени автомобили, репратриране, стикиране',
     gps: '42.6889741,23.3098242',
@@ -210,8 +209,8 @@ export const PROJECTS = [
     name: 'Годишен отчет на Спаси София за 2020 г.',
     description: 'Годишен отчет на организацията за 2020г.',
     imageUrl: '',
-    oldLink: 'https://spasisofia.org/bg/godishen-otchet-2020.html',
-    link: '/projects/godishen-otchet-na-spasi-sofia-za-2020-g.html',
+    oldLink: 'https://spasisofia.org/bg/godishen-otchet-2020',
+    link: '/projects/godishen-otchet-na-spasi-sofia-za-2020-g',
     topic: 'Проекти и реформи',
     tags: 'Спаси София, годишен, отчет, 2020 година',
     gps: '42.6889741,23.3098242',
@@ -227,8 +226,8 @@ export const PROJECTS = [
       'Внесохме мотивирано предложение до МВР, МОСВ и МТИТС за значително ускоряване на процедурата по премахване на изоставени автомобили (ИУМПС)',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/10/%D0%98%D0%A3%D0%9C%D0%9F%D0%A1-3.1-1229x1536.png',
-    oldLink: 'https://spasisofia.org/bg/izostaveni-koli.html',
-    link: '/projects/mnogo-pobarzo-premahvane-na-izostavenite-avtomobili.html',
+    oldLink: 'https://spasisofia.org/bg/izostaveni-koli',
+    link: '/projects/mnogo-pobarzo-premahvane-na-izostavenite-avtomobili',
     topic: 'Паркиране',
     tags: 'стари коли, изоставени автомобили, репратриране, стикиране',
     gps: '42.6889741,23.3098242',
@@ -244,8 +243,8 @@ export const PROJECTS = [
       'Вече 2 г. от Спаси София изпращаме мотивирани становища и правим всевъзможни срещи, за да се постави навес на автобусната спирката на метростанция Г. М. Димитров, ползвана от хиляди пътници всеки ден, но Общината не си мръдна пръста да реши този елементарен проблем.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/02/naves-ms-gm-dimitrov.png',
-    oldLink: 'https://spasisofia.org/bg/doklad-naves-gmdimitrov.html',
-    link: '/projects/doklad-izgrazhdane-na-naves-na-spirkata-pri-metrostantsiya-gm-dimitrov.html',
+    oldLink: 'https://spasisofia.org/bg/doklad-naves-gmdimitrov',
+    link: '/projects/doklad-izgrazhdane-na-naves-na-spirkata-pri-metrostantsiya-gm-dimitrov',
     topic: 'Транспорт и инфраструктура',
     tags: 'метро, линия, метростанция, Г.М. Димитров. навес, транспорт, спирка',
     gps: '42.6464005,23.3168241',
@@ -261,8 +260,8 @@ export const PROJECTS = [
       'Представяме ви Люлин Градина - проект за тотална промяна на знаковото междублоково пространство в Люлин 6. Всеки квартал заслужава повече!',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/10/Copy-of-Vis-05-Aerial-Night-Edit-1-1024x576.jpg',
-    oldLink: 'https://spasisofia.org/bg/lulin-gradina.html',
-    link: '/projects/preobrazyavane-lyulin-gradina-vizhte-proekta.html',
+    oldLink: 'https://spasisofia.org/bg/lulin-gradina',
+    link: '/projects/preobrazyavane-lyulin-gradina-vizhte-proekta',
     topic: 'Град за хората',
     tags: 'София, Люлин, градина, парк, преобразяване, проект',
     gps: '42.710996, 23.248702',
@@ -278,8 +277,8 @@ export const PROJECTS = [
       'Внесохме доклад в Общинския съвет, адресиращ тежкия недостиг на места в детските заведения в София.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/09/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8-%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D0%B8-%D0%9F%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%B8-1117x1536.png',
-    oldLink: 'https://spasisofia.org/bg/doklad-nedostig-detski-gradini.html',
-    link: '/projects/doklad-otnosno-nedostiga-na-mesta-v-yaslite-i-detskite-gradini-v-stolichnata-obshtina.html',
+    oldLink: 'https://spasisofia.org/bg/doklad-nedostig-detski-gradini',
+    link: '/projects/doklad-otnosno-nedostiga-na-mesta-v-yaslite-i-detskite-gradini-v-stolichnata-obshtina',
     topic: 'Образование и култура',
     tags: 'доклад, община, детски градини, Столична община, недостиг, места',
     gps: '42.6889741,23.3098242',
@@ -294,8 +293,8 @@ export const PROJECTS = [
     description:
       'Становище на Спаси София относно очакваната реконструкция на площад Св. Неделя, включително с предложение за ново трамвайно трасе.',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2020/09/1.png',
-    oldLink: 'https://spasisofia.org/bg/stanovishte-sveta-nedelya.html',
-    link: '/projects/stanovishte-ideyno-reshenie-za-obnovyavane-na-ploshtad-sv-nedelya.html',
+    oldLink: 'https://spasisofia.org/bg/stanovishte-sveta-nedelya',
+    link: '/projects/stanovishte-ideyno-reshenie-za-obnovyavane-na-ploshtad-sv-nedelya',
     topic: 'Град за хората',
     tags: 'становище, площад, Света Неделя, обновяване, решение',
     gps: '42.69671, 23.32141',
@@ -311,8 +310,8 @@ export const PROJECTS = [
       'Представяме новите табели в метрото, с които е оборудвана цялата нова трета метролиния.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/08/20200824_142856-1024x498.jpg',
-    oldLink: 'https://spasisofia.org/bg/novite-tabeli.html',
-    link: '/projects/galeriya-novite-tabeli-v-metroto.html',
+    oldLink: 'https://spasisofia.org/bg/novite-tabeli',
+    link: '/projects/galeriya-novite-tabeli-v-metroto',
     topic: 'Транспорт и инфраструктура',
     tags: 'метро, табела, градски транспорт, дизайн',
     gps: '42.6889741,23.3098242',
@@ -328,8 +327,8 @@ export const PROJECTS = [
       'Тази година предстои ново разширение на Зелената зона в София',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/06/%D0%9F%D0%B0%D1%80%D0%BA%D0%B8%D1%80%D0%B0%D0%BD%D0%B5-%D0%9F%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%B8-1229x1536.png',
-    oldLink: 'https://spasisofia.org/bg/reforma-parkirane.html',
-    link: '/projects/vreme-e-za-reforma-na-parkiraneto-v-sofia-5-vazhni-podobreniya-koito-predlagame.html',
+    oldLink: 'https://spasisofia.org/bg/reforma-parkirane',
+    link: '/projects/vreme-e-za-reforma-na-parkiraneto-v-sofia-5-vazhni-podobreniya-koito-predlagame',
     topic: 'Паркиране',
     tags: 'реформа, подобрение, служебен абонамент, паркиране',
     gps: '42.6889741,23.3098242',
@@ -345,8 +344,8 @@ export const PROJECTS = [
       'София е на път да получи своя първи преобразен европейски булевард. Бул. „Патриарх Евтимий“ ще се промени, а с това и района около него.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/05/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%85%D0%B0-FB-Cover-v1-1024x576.png',
-    oldLink: 'https://spasisofia.org/bg/patriarha-promyana.html',
-    link: '/projects/patriarha-se-promenya-parviyat-evropeyski-bulevard-v-sofia.html',
+    oldLink: 'https://spasisofia.org/bg/patriarha-promyana',
+    link: '/projects/patriarha-se-promenya-parviyat-evropeyski-bulevard-v-sofia',
     topic: 'Град за хората',
     tags: 'патриарх евтимий, булевард, София, велоалея',
     gps: '42.68815, 23.32842',
@@ -361,8 +360,8 @@ export const PROJECTS = [
     description:
       'Ремонтът на една от най-емблематичните и обичани улици в централна София – ул. Цар Шишман, се отлага за трета поредна година.',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2020/05/sh1-1.jpg',
-    oldLink: 'https://spasisofia.org/bg/shishman-peshehodna.html',
-    link: '/projects/zashto-shishman-tryabva-da-e-peshehoden.html',
+    oldLink: 'https://spasisofia.org/bg/shishman-peshehodna',
+    link: '/projects/zashto-shishman-tryabva-da-e-peshehoden',
     topic: 'Град за хората',
     tags: 'София, Шишман, Средец, Център, пешеходен',
     gps: '42.69107, 23.32947',
@@ -378,8 +377,8 @@ export const PROJECTS = [
       'Доклад с предложение площад Св Неделя да бъде изцяло пешеходен, вместо хаотичен и опасен паркинг, както е в момента.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/03/predlojenie-1024x576.jpg',
-    oldLink: 'https://spasisofia.org/bg/sveta-nedelya.html',
-    link: '/projects/doklad-ploshtad-sv-nedelya-da-bade-iztsyalo-peshehoden.html',
+    oldLink: 'https://spasisofia.org/bg/sveta-nedelya',
+    link: '/projects/doklad-ploshtad-sv-nedelya-da-bade-iztsyalo-peshehoden',
     topic: 'Град за хората',
     tags: 'площад, Света Неделя, Център, пешеходен',
     gps: '42.69671, 23.32141',
@@ -395,8 +394,8 @@ export const PROJECTS = [
       'Двудневната състезателна работилница – Ърбатон за студенти, млади архитекти, дизайнери, артисти и урбанисти има за цел да генерира конкретни предложения за малки градски намеси, които стимулират нови функции или възстановяват такива, които са били характерни за мястото.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/02/urbathon_event-banner-1024x536.jpg',
-    oldLink: 'https://spasisofia.org/bg/urbathon2020.html',
-    link: '/projects/arbaton-2020.html',
+    oldLink: 'https://spasisofia.org/bg/urbathon2020',
+    link: '/projects/arbaton-2020',
     topic: 'Проекти и реформи',
     tags: 'работилница, подобрения, градска среда, София, НАГ, площад',
     gps: '42.6889741,23.3098242',
@@ -412,8 +411,8 @@ export const PROJECTS = [
       'Основен наш фокус е подобряването на градския транспорт, защото сме убедени, че само бърз, удобен и редовен транспорт може да реши много от предизвикателствата, които срещаме ежедневно. Предлагаме удължаване на линия 73',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/01/%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82-73-1536x976.png',
-    oldLink: 'https://spasisofia.org/bg/doklad-linia-73.html',
-    link: '/projects/s-doklad-v-sos-predlagame-udalzhavane-na-liniya-73.html',
+    oldLink: 'https://spasisofia.org/bg/doklad-linia-73',
+    link: '/projects/s-doklad-v-sos-predlagame-udalzhavane-na-liniya-73',
     topic: 'Транспорт и инфраструктура',
     tags: 'автобус, градски транспорт, Овча купел',
     gps: '42.6603972,23.3628505',
@@ -428,8 +427,8 @@ export const PROJECTS = [
     description: 'Спаси София, Столичен общински съвет',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2019/12/pravilnik.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bd%d0%be%d0%b2-%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba.html',
-    link: '/projects/kakvo-predlagame-za-noviya-pravilnik-na-sos.html',
+      'https://spasisofia.org/bg/%d0%bd%d0%be%d0%b2-%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba',
+    link: '/projects/kakvo-predlagame-za-noviya-pravilnik-na-sos',
     topic: 'Проекти и реформи',
     tags: 'правила, дигитализация, публичност, участие',
     gps: '42.6727709,23.3314693',
@@ -446,8 +445,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/10/28-seminariyata.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d0%be%d1%82%d0%bf%d1%83%d1%88%d0%b8%d0%bc-%d1%82%d1%80%d0%b0%d1%84%d0%b8%d0%ba%d0%b0-%d0%be%d0%ba.html',
-    link: '/projects/predlozhenie-kak-da-otpushim-trafika-okolo-seminariyata.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d0%be%d1%82%d0%bf%d1%83%d1%88%d0%b8%d0%bc-%d1%82%d1%80%d0%b0%d1%84%d0%b8%d0%ba%d0%b0-%d0%be%d0%ba',
+    link: '/projects/predlozhenie-kak-da-otpushim-trafika-okolo-seminariyata',
     topic: 'Транспорт и инфраструктура',
     tags: 'BUS ленти, Борисова градина, градски транспорт, трамвай безумие, трамвайно трасе',
     gps: '42.6727709,23.3314693',
@@ -463,8 +462,8 @@ export const PROJECTS = [
       'Предложение за нова линия 194 между Студентски град и ж.к. Левски Г',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2019/07/194.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%b0%d0%b3%d0%b0%d0%bc%d0%b5-%d0%bd%d0%be%d0%b2%d0%b0-%d0%bb%d0%b8%d0%bd%d0%b8%d1%8f-194.html',
-    link: '/projects/predlagame-nova-liniya-194-levski-g-slatina-stud-grad.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%b0%d0%b3%d0%b0%d0%bc%d0%b5-%d0%bd%d0%be%d0%b2%d0%b0-%d0%bb%d0%b8%d0%bd%d0%b8%d1%8f-194',
+    link: '/projects/predlagame-nova-liniya-194-levski-g-slatina-stud-grad',
     topic: 'Транспорт и инфраструктура',
     tags: 'автобус, градски транспорт, Студентски град, студенти, Левски Г, 194, нова линия',
     gps: '42.65201, 23.34724',
@@ -480,8 +479,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/07/nov-signal-do-prokuraturata-za-grafa.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bd%d0%be%d0%b2-%d1%81%d0%b8%d0%b3%d0%bd%d0%b0%d0%bb-%d0%b4%d0%be-%d0%bf%d1%80%d0%be%d0%ba%d1%83%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0%d1%82%d0%b0-%d0%b7%d0%b0-%d0%b3%d1%80%d0%b0%d1%84%d0%b0.html',
-    link: '/projects/nov-signal-do-prokuraturata-oblagodetelstva-li-obshtinata-izpalnitelya-na-grafa.html',
+      'https://spasisofia.org/bg/%d0%bd%d0%be%d0%b2-%d1%81%d0%b8%d0%b3%d0%bd%d0%b0%d0%bb-%d0%b4%d0%be-%d0%bf%d1%80%d0%be%d0%ba%d1%83%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0%d1%82%d0%b0-%d0%b7%d0%b0-%d0%b3%d1%80%d0%b0%d1%84%d0%b0',
+    link: '/projects/nov-signal-do-prokuraturata-oblagodetelstva-li-obshtinata-izpalnitelya-na-grafa',
     topic: 'Проекти и реформи',
     tags: 'сигнал, прокаратура, ремонт, графа, столична община',
     gps: '42.6935832,23.32295',
@@ -498,8 +497,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/03/plan-podobrenie-gradski-transport.png',
     oldLink:
-      'https://spasisofia.org/bg/%d1%83%d1%81%d0%bb%d0%be%d0%b2%d0%b8%d1%8f%d1%82%d0%b0-%d0%bd%d0%b0-%d1%82%d1%80%d1%83%d0%b4-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8%d1%8f-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82.html',
-    link: '/projects/plan-za-podobryavane-na-usloviyata-na-trud-i-ozdravyavane-na-gradskiya-transport.html',
+      'https://spasisofia.org/bg/%d1%83%d1%81%d0%bb%d0%be%d0%b2%d0%b8%d1%8f%d1%82%d0%b0-%d0%bd%d0%b0-%d1%82%d1%80%d1%83%d0%b4-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8%d1%8f-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82',
+    link: '/projects/plan-za-podobryavane-na-usloviyata-na-trud-i-ozdravyavane-na-gradskiya-transport',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, автобус, трамвай, оздравяване, условия, подобряване',
     gps: '42.6889741,23.3098242',
@@ -516,8 +515,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/01/da-bade-banya-poster-1024x666.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%89%d0%be-%d1%82%d1%80%d1%8f%d0%b1%d0%b2%d0%b0-%d0%b4%d0%b0-%d0%b1%d1%8a%d0%b4%d0%b5-%d0%b1%d0%b0%d0%bd%d1%8f.html',
-    link: '/projects/zashto-tsentralna-mineralna-banya-tryabva-da-ostane-banya.html',
+      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%89%d0%be-%d1%82%d1%80%d1%8f%d0%b1%d0%b2%d0%b0-%d0%b4%d0%b0-%d0%b1%d1%8a%d0%b4%d0%b5-%d0%b1%d0%b0%d0%bd%d1%8f',
+    link: '/projects/zashto-tsentralna-mineralna-banya-tryabva-da-ostane-banya',
     topic: 'Град за хората',
     tags: 'Централна минералня баня, баня, София, център, сграда',
     gps: '42.69914, 23.32369',
@@ -534,8 +533,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/01/razpredelenie-na-prihodite-ot-sinya-i-zelena-zona.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d0%be%d1%82-%d1%81%d0%b8%d0%bd%d1%8f-%d0%b8-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b7%d0%be%d0%bd%d0%b0.html',
-    link: '/projects/kak-da-investirame-parite-ot-sinya-i-zelena-zona.html',
+      'https://spasisofia.org/bg/%d0%bf%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d0%be%d1%82-%d1%81%d0%b8%d0%bd%d1%8f-%d0%b8-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b7%d0%be%d0%bd%d0%b0',
+    link: '/projects/kak-da-investirame-parite-ot-sinya-i-zelena-zona',
     topic: 'Паркиране',
     tags: 'зона, паркиране, синя, зелена, синя зона, зелена зона, коли',
     gps: '42.6960812, 23.3269738',
@@ -552,8 +551,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/11/zaglavna-statia-zona-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/10-%d0%bc%d0%b5%d1%80%d0%ba%d0%b8-%d0%b7%d0%b0-%d1%83%d1%81%d1%82%d0%be%d0%b9%d1%87%d0%b8%d0%b2%d0%b0-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b0-%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%bd%d0%be%d1%81%d1%82.html',
-    link: '/projects/10-merki-za-ustoychiva-gradska-mobilnost-v-sofia.html',
+      'https://spasisofia.org/bg/10-%d0%bc%d0%b5%d1%80%d0%ba%d0%b8-%d0%b7%d0%b0-%d1%83%d1%81%d1%82%d0%be%d0%b9%d1%87%d0%b8%d0%b2%d0%b0-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b0-%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%bd%d0%be%d1%81%d1%82',
+    link: '/projects/10-merki-za-ustoychiva-gradska-mobilnost-v-sofia',
     topic: 'Транспорт и инфраструктура',
     tags: 'София, градска мобилност, градски транспорт, устойчивост',
     gps: '42.6889741,23.3098242',
@@ -569,8 +568,8 @@ export const PROJECTS = [
       'Защо бул. Константин Величков е идеалното място за обособен коридор за градски транспорт?',
     imageUrl: '',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%ba-%d0%b2%d0%b5%d0%bb%d0%b8%d1%87%d0%ba%d0%be%d0%b2-%d0%b8%d0%b3%d0%bd%d0%be%d1%80%d0%b8%d1%80%d0%b0.html',
-    link: '/projects/predlozheniyata-ni-za-bul-k-velichkov-koito-krusev-ignorira.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%ba-%d0%b2%d0%b5%d0%bb%d0%b8%d1%87%d0%ba%d0%be%d0%b2-%d0%b8%d0%b3%d0%bd%d0%be%d1%80%d0%b8%d1%80%d0%b0',
+    link: '/projects/predlozheniyata-ni-za-bul-k-velichkov-koito-krusev-ignorira',
     topic: 'Транспорт и инфраструктура',
     tags: 'София, Крусев, предложения, бул. К. Величков, обособени коридори',
     gps: '42.7000426,23.1823601',
@@ -586,8 +585,8 @@ export const PROJECTS = [
       'Изминаха точно 3 месеца, откакто в София се движи нощен градски транспорт и вече десетки хиляди се възползваха от неговата услуга. ',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2018/07/merki-01.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d0%bf%d0%be%d0%b4%d0%be%d0%b1%d1%80%d0%b8%d0%bc-%d0%bd%d0%be%d1%89%d0%bd%d0%b8%d1%8f-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82.html',
-    link: '/projects/kak-da-podobrim-noshtniya-transport.html',
+      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d0%bf%d0%be%d0%b4%d0%be%d0%b1%d1%80%d0%b8%d0%bc-%d0%bd%d0%be%d1%89%d0%bd%d0%b8%d1%8f-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82',
+    link: '/projects/kak-da-podobrim-noshtniya-transport',
     topic: 'Транспорт и инфраструктура',
     tags: 'нощен транспорт, транспорт, условия, автобуси, спирки, линии',
     gps: '42.6889741,23.3098242',
@@ -604,8 +603,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/07/BUS-lenta-bul-vasil-levski-1024x475.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bd%d0%b0%d1%81%d1%82%d0%be%d1%8f%d0%b2%d0%b0%d0%bc%d0%b5-%d0%b7%d0%b0-bus-%d0%bb%d0%b5%d0%bd%d1%82%d0%b0-%d0%bd%d0%b0-%d0%b2%d0%b0%d1%81%d0%b8%d0%bb-%d0%bb%d0%b5%d0%b2%d1%81%d0%ba%d0%b8.html',
-    link: '/projects/nastoyavame-za-bus-lenta-na-bul-vasil-levski.html',
+      'https://spasisofia.org/bg/%d0%bd%d0%b0%d1%81%d1%82%d0%be%d1%8f%d0%b2%d0%b0%d0%bc%d0%b5-%d0%b7%d0%b0-bus-%d0%bb%d0%b5%d0%bd%d1%82%d0%b0-%d0%bd%d0%b0-%d0%b2%d0%b0%d1%81%d0%b8%d0%bb-%d0%bb%d0%b5%d0%b2%d1%81%d0%ba%d0%b8',
+    link: '/projects/nastoyavame-za-bus-lenta-na-bul-vasil-levski',
     topic: 'Транспорт и инфраструктура',
     tags: 'автобус, лента, БУС лента, бул. Васил Левски, градски транспорт',
     gps: '42.69451, 23.33469',
@@ -621,8 +620,8 @@ export const PROJECTS = [
       'Започваме кампания за освобождаване на най-знаковите и използвани софийски тротоари от автомобили.',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2018/06/parkirane.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d1%8f-%d1%81%d0%b2%d0%be%d0%b1%d0%be%d0%b4%d0%bd%d0%b8-%d1%82%d1%80%d0%be%d1%82%d0%be%d0%b0%d1%80%d0%b8-%d0%b7%d0%b0-%d0%b2%d1%81%d0%b8%d1%87%d0%ba%d0%b8.html',
-    link: '/projects/kampaniya-svobodni-trotoari-za-vsichki.html',
+      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d1%8f-%d1%81%d0%b2%d0%be%d0%b1%d0%be%d0%b4%d0%bd%d0%b8-%d1%82%d1%80%d0%be%d1%82%d0%be%d0%b0%d1%80%d0%b8-%d0%b7%d0%b0-%d0%b2%d1%81%d0%b8%d1%87%d0%ba%d0%b8',
+    link: '/projects/kampaniya-svobodni-trotoari-za-vsichki',
     topic: 'Град за хората',
     tags: 'пешеходец, тротоар, София, коли, детски колички',
     gps: '42.6889741,23.3098242',
@@ -638,8 +637,8 @@ export const PROJECTS = [
       'Днес прекачването в градския транспорт на София е е неудобно, времеемко и изисква много ходене пеша. Затова предлагаме създаването на седем нови спирки за по-удобен градски транспорт.',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2018/05/schema.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bd%d0%be%d0%b2%d0%b8-%d1%81%d0%bf%d0%b8%d1%80%d0%ba%d0%b8-%d1%83%d0%b4%d0%be%d0%b1%d0%b5%d0%bd-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82.html',
-    link: '/projects/predlagame-novi-spirki-za-poudoben-gradski-transport.html',
+      'https://spasisofia.org/bg/%d0%bd%d0%be%d0%b2%d0%b8-%d1%81%d0%bf%d0%b8%d1%80%d0%ba%d0%b8-%d1%83%d0%b4%d0%be%d0%b1%d0%b5%d0%bd-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82',
+    link: '/projects/predlagame-novi-spirki-za-poudoben-gradski-transport',
     topic: 'Транспорт и инфраструктура',
     tags: 'нови спирки, градски транспорт, удобен транспорт',
     gps: '42.6889741,23.3098242',
@@ -656,8 +655,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/05/03-serdica-3D-01-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d0%b0%d1%80%d1%82%d0%b8-%d0%b2-%d0%bc%d0%b5%d1%82%d1%80%d0%be%d1%82%d0%be-%d0%ba%d0%b0%d0%ba%d0%b2%d0%be-%d1%82%d1%80%d1%8f%d0%b1%d0%b2%d0%b0-%d0%b4%d0%b0-%d0%b7%d0%bd%d0%b0%d0%b5%d0%bc.html',
-    link: '/projects/novi-karti-v-metroto-kakvo-tryabva-da-znaem.html',
+      'https://spasisofia.org/bg/%d0%ba%d0%b0%d1%80%d1%82%d0%b8-%d0%b2-%d0%bc%d0%b5%d1%82%d1%80%d0%be%d1%82%d0%be-%d0%ba%d0%b0%d0%ba%d0%b2%d0%be-%d1%82%d1%80%d1%8f%d0%b1%d0%b2%d0%b0-%d0%b4%d0%b0-%d0%b7%d0%bd%d0%b0%d0%b5%d0%bc',
+    link: '/projects/novi-karti-v-metroto-kakvo-tryabva-da-znaem',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, карти, схеми, входове, нови',
     gps: '42.6889741,23.3098242',
@@ -674,8 +673,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/01/spasi-shestitsata-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b4%d0%b0-%d1%81%d0%bf%d1%80%d0%b5%d0%bc-%d1%83%d0%bd%d0%b8%d1%89%d0%be%d0%b6%d0%b0%d0%b2%d0%b0%d0%bd%d0%b5%d1%82%d0%be-%d0%bd%d0%b0-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b8%d1%82%d0%b5.html',
-    link: '/projects/da-sprem-unishtozhenieto-na-sofiyskite-tramvai.html',
+      'https://spasisofia.org/bg/%d0%b4%d0%b0-%d1%81%d0%bf%d1%80%d0%b5%d0%bc-%d1%83%d0%bd%d0%b8%d1%89%d0%be%d0%b6%d0%b0%d0%b2%d0%b0%d0%bd%d0%b5%d1%82%d0%be-%d0%bd%d0%b0-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b8%d1%82%d0%b5',
+    link: '/projects/da-sprem-unishtozhenieto-na-sofiyskite-tramvai',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, трамвай, унищожаване, София, линия',
     gps: '42.6889741,23.3098242',
@@ -692,8 +691,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/02/20171012_193101-1-e1518362509137-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bd%d0%be%d0%b2-%d0%b6%d0%b8%d0%b2%d0%be%d1%82-%d0%b7%d0%b0-%d0%bc%d0%be%d0%bd%d1%83%d0%bc%d0%b5%d0%bd%d1%82%d0%b0-%d0%ba%d0%b0%d0%bc%d0%b1%d0%b0%d0%bd%d0%b8%d1%82%d0%b5.html',
-    link: '/projects/nov-zhivot-za-monumenta-kambanite.html',
+      'https://spasisofia.org/bg/%d0%bd%d0%be%d0%b2-%d0%b6%d0%b8%d0%b2%d0%be%d1%82-%d0%b7%d0%b0-%d0%bc%d0%be%d0%bd%d1%83%d0%bc%d0%b5%d0%bd%d1%82%d0%b0-%d0%ba%d0%b0%d0%bc%d0%b1%d0%b0%d0%bd%d0%b8%d1%82%d0%b5',
+    link: '/projects/nov-zhivot-za-monumenta-kambanite',
     topic: 'Град за хората',
     tags: 'Младост, местност, Камбаните, нов живот',
     gps: '42.61844, 23.37917',
@@ -710,8 +709,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/02/27605233_10210458512490237_1782942196_o-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/31475-%d0%bf%d0%be%d0%b4%d0%bf%d0%b8%d1%81%d0%b0-%d0%b7%d0%b0-%d0%bd%d0%be%d1%89%d0%b5%d0%bd-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82.html',
-    link: '/projects/31-475-podpisa-za-noshten-gradski-transport.html',
+      'https://spasisofia.org/bg/31475-%d0%bf%d0%be%d0%b4%d0%bf%d0%b8%d1%81%d0%b0-%d0%b7%d0%b0-%d0%bd%d0%be%d1%89%d0%b5%d0%bd-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82',
+    link: '/projects/31-475-podpisa-za-noshten-gradski-transport',
     topic: 'Транспорт и инфраструктура',
     tags: 'транспорт, градски транспорт, нощен, София, линии, автобус, 31475, подпис',
     gps: '42.69651, 23.32608',
@@ -728,8 +727,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/01/27016245_10210335114565366_490382784_o-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b4%d0%be%d1%81%d1%82%d1%8a%d0%bf%d0%bd%d0%be%d1%81%d1%82%d1%82%d0%b0-%d0%bd%d0%b0-%d0%b2%d0%b8%d1%82%d0%be%d1%88%d0%b0-%d0%b1%d0%b5%d0%b7-%d0%b2%d0%b8%d1%82%d0%be%d1%88%d0%b0-%d1%81%d0%ba%d0%b8.html',
-    link: '/projects/kak-da-podobrim-dostapnostta-na-vitosha-bez-vitosha-ski.html',
+      'https://spasisofia.org/bg/%d0%b4%d0%be%d1%81%d1%82%d1%8a%d0%bf%d0%bd%d0%be%d1%81%d1%82%d1%82%d0%b0-%d0%bd%d0%b0-%d0%b2%d0%b8%d1%82%d0%be%d1%88%d0%b0-%d0%b1%d0%b5%d0%b7-%d0%b2%d0%b8%d1%82%d0%be%d1%88%d0%b0-%d1%81%d0%ba%d0%b8',
+    link: '/projects/kak-da-podobrim-dostapnostta-na-vitosha-bez-vitosha-ski',
     topic: 'Транспорт и инфраструктура',
     tags: 'планина, Витоша, София, лифт, Витоша ски, достъпност',
     gps: '42.61666, 23.34848',
@@ -746,8 +745,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/01/26613944_10214418096547169_1942137839_o-768x1024.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0-%d1%81%d1%8a%d1%81-%d1%81%d0%be%d1%84%d0%b8%d0%b9%d1%81%d0%ba%d0%b8%d1%82%d0%b5-%d1%82%d1%80%d0%be%d1%82%d0%be%d0%b0%d1%80%d0%b8.html',
-    link: '/projects/kak-da-reshim-problema-sas-sofiyskite-trotoari.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0-%d1%81%d1%8a%d1%81-%d1%81%d0%be%d1%84%d0%b8%d0%b9%d1%81%d0%ba%d0%b8%d1%82%d0%b5-%d1%82%d1%80%d0%be%d1%82%d0%be%d0%b0%d1%80%d0%b8',
+    link: '/projects/kak-da-reshim-problema-sas-sofiyskite-trotoari',
     topic: 'Град за хората',
     tags: 'София, тротоари, инфраструктура, достъпност, проблем',
     gps: '42.6889741,23.3098242',
@@ -764,8 +763,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/11/patriarh-evtimiy-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%89%d0%be-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-%d0%bf%d0%be-%d0%bf%d0%b0%d1%82%d1%80%d0%b8%d0%b0%d1%80%d1%85-%d0%b5%d0%b2%d1%82%d0%b8%d0%bc%d0%b8%d0%b9.html',
-    link: '/projects/zashto-tramvay-po-bul-patriarh-evtimiy-e-naydobroto-reshenie.html',
+      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%89%d0%be-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-%d0%bf%d0%be-%d0%bf%d0%b0%d1%82%d1%80%d0%b8%d0%b0%d1%80%d1%85-%d0%b5%d0%b2%d1%82%d0%b8%d0%bc%d0%b8%d0%b9',
+    link: '/projects/zashto-tramvay-po-bul-patriarh-evtimiy-e-naydobroto-reshenie',
     topic: 'Транспорт и инфраструктура',
     tags: 'линия, бул. Патриарх Евтимий, трамвай, решение, транспорт, градски транспорт',
     gps: '42.68815, 23.32842',
@@ -782,8 +781,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/10/spodeli-kambanite.png',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d0%bf%d0%be%d0%b4%d0%b5%d0%bb%d0%b8%d0%ba%d0%b0%d0%bc%d0%b1%d0%b0%d0%bd%d0%b8%d1%82%d0%b5.html',
-    link: '/projects/spodelikambanite-edin-proekt-na-spasi-sofia.html',
+      'https://spasisofia.org/bg/%d1%81%d0%bf%d0%be%d0%b4%d0%b5%d0%bb%d0%b8%d0%ba%d0%b0%d0%bc%d0%b1%d0%b0%d0%bd%d0%b8%d1%82%d0%b5',
+    link: '/projects/spodelikambanite-edin-proekt-na-spasi-sofia',
     topic: 'Град за хората',
     tags: 'Младост, местност, Камбаните, проект',
     gps: '42.61844, 23.37917',
@@ -800,8 +799,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/05/sadim-obshtinata-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d1%8a%d0%b4%d0%b8%d0%bc-%d0%be%d0%b1%d1%89%d0%b8%d0%bd%d0%b0%d1%82%d0%b0-%d0%b7%d0%b0-%d0%bc%d1%80%d1%8a%d1%81%d0%bd%d0%b8%d1%8f-%d0%b2%d1%8a%d0%b7%d0%b4%d1%83%d1%85.html',
-    link: '/projects/sadim-obshtinata-za-mrasniya-vazduh.html',
+      'https://spasisofia.org/bg/%d1%81%d1%8a%d0%b4%d0%b8%d0%bc-%d0%be%d0%b1%d1%89%d0%b8%d0%bd%d0%b0%d1%82%d0%b0-%d0%b7%d0%b0-%d0%bc%d1%80%d1%8a%d1%81%d0%bd%d0%b8%d1%8f-%d0%b2%d1%8a%d0%b7%d0%b4%d1%83%d1%85',
+    link: '/projects/sadim-obshtinata-za-mrasniya-vazduh',
     topic: 'Проекти и реформи',
     tags: 'въздух, мръсен, София, община, Столична община, съд',
     gps: '42.6889741,23.3098242',
@@ -817,8 +816,8 @@ export const PROJECTS = [
       'Липсата на качествена и нормална градска среда, насърчаваща пешеходното движение и използването на градския транспорт, беше сред основните причини за създаването на Спаси София преди повече от две години. Затова за нас е важно да изразим позиция относно за',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2017/05/1.jpg',
     oldLink:
-      'https://spasisofia.org/bg/5-%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b7%d0%b0-%d0%bf%d0%be-%d0%b4%d0%be%d0%b1%d1%8a%d1%80-%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82-%d0%bd%d0%b0-%d0%b1%d1%83%d0%bb.html',
-    link: '/projects/5-predlozheniya-za-podobar-remont-na-bul-dondukov.html',
+      'https://spasisofia.org/bg/5-%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b7%d0%b0-%d0%bf%d0%be-%d0%b4%d0%be%d0%b1%d1%8a%d1%80-%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82-%d0%bd%d0%b0-%d0%b1%d1%83%d0%bb',
+    link: '/projects/5-predlozheniya-za-podobar-remont-na-bul-dondukov',
     topic: 'Град за хората',
     tags: 'ремонт, булевард, дондуков, транспорт',
     gps: '42.69009954096696,23.31180254992983',
@@ -835,8 +834,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/04/molya-otstranete-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bd%d0%b0%d1%80%d1%8a%d1%87%d0%bd%d0%b8%d0%ba-%d0%bd%d0%b0-%d0%b0%d0%ba%d1%82%d0%b8%d0%b2%d0%bd%d0%b8%d1%8f-%d0%b3%d1%80%d0%b0%d0%b6%d0%b4%d0%b0%d0%bd%d0%b8%d0%bd.html',
-    link: '/projects/narachnik-na-aktivniya-grazhdanin.html',
+      'https://spasisofia.org/bg/%d0%bd%d0%b0%d1%80%d1%8a%d1%87%d0%bd%d0%b8%d0%ba-%d0%bd%d0%b0-%d0%b0%d0%ba%d1%82%d0%b8%d0%b2%d0%bd%d0%b8%d1%8f-%d0%b3%d1%80%d0%b0%d0%b6%d0%b4%d0%b0%d0%bd%d0%b8%d0%bd',
+    link: '/projects/narachnik-na-aktivniya-grazhdanin',
     topic: 'Град за хората',
     tags: 'наръчник, гражданин, сигнали, София, активен',
     gps: '42.6889741,23.3098242',
@@ -853,8 +852,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/02/Screen-Shot-2017-02-11-at-3.29.59-PM-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d0%bc%d0%b5%d0%bd%d0%b8-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82-%d0%bd%d0%b5-%d1%81%d1%82%d1%80%d1%83%d0%b2%d0%b0%d1%82.html',
-    link: '/projects/promeni-v-gradskiya-transport-koito-ne-struvat-nishto.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d0%bc%d0%b5%d0%bd%d0%b8-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82-%d0%bd%d0%b5-%d1%81%d1%82%d1%80%d1%83%d0%b2%d0%b0%d1%82',
+    link: '/projects/promeni-v-gradskiya-transport-koito-ne-struvat-nishto',
     topic: 'Транспорт и инфраструктура',
     tags: 'промени, транспорт, линия, София',
     gps: '42.6889741,23.3098242',
@@ -870,8 +869,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/11/avtobus-61.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bb%d0%b8%d0%bd%d0%b8%d1%8f-61-%d0%bd%d0%be%d0%b2%d0%b0%d1%82%d0%b0-%d0%b8%d0%b7%d0%bb%d0%b5%d1%82%d0%bd%d0%b0-%d0%bb%d0%b8%d0%bd%d0%b8%d1%8f-%d0%b4%d0%be-%d0%b2%d0%b8%d1%82%d0%be%d1%88%d0%b0.html',
-    link: '/projects/za-nova-izletna-liniya-do-vitosha-avtobus-61.html',
+      'https://spasisofia.org/bg/%d0%bb%d0%b8%d0%bd%d0%b8%d1%8f-61-%d0%bd%d0%be%d0%b2%d0%b0%d1%82%d0%b0-%d0%b8%d0%b7%d0%bb%d0%b5%d1%82%d0%bd%d0%b0-%d0%bb%d0%b8%d0%bd%d0%b8%d1%8f-%d0%b4%d0%be-%d0%b2%d0%b8%d1%82%d0%be%d1%88%d0%b0',
+    link: '/projects/za-nova-izletna-liniya-do-vitosha-avtobus-61',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, линия, 61, излетна линия, автобус, Витоша, планина',
     gps: '42.6889741,23.3098242',
@@ -888,8 +887,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/08/park-makedoniya-obsht-izgled-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d0%b0%d1%80%d0%ba-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%8f-%d1%88%d0%b0%d0%bd%d1%81-%d0%b7%d0%b0-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f.html',
-    link: '/projects/park-makedoniya-poiskay-shans-za-zelena-sofia.html',
+      'https://spasisofia.org/bg/%d0%bf%d0%b0%d1%80%d0%ba-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%8f-%d1%88%d0%b0%d0%bd%d1%81-%d0%b7%d0%b0-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f',
+    link: '/projects/park-makedoniya-poiskay-shans-za-zelena-sofia',
     topic: 'Зеленина и паркове',
     tags: 'парк, Македония, център, трамвай, Зелена София, релси',
     gps: '42.6811069,23.2746735',
@@ -906,8 +905,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/09/serdika-detail-3D-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%89%d0%b5-%d0%b8%d0%bc%d0%b0-%d0%bb%d0%b8-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%bd%d0%be%d1%89%d0%b5%d0%bd-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82.html',
-    link: '/projects/shte-ima-li-sofia-noshten-transport.html',
+      'https://spasisofia.org/bg/%d1%89%d0%b5-%d0%b8%d0%bc%d0%b0-%d0%bb%d0%b8-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%bd%d0%be%d1%89%d0%b5%d0%bd-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82',
+    link: '/projects/shte-ima-li-sofia-noshten-transport',
     topic: 'Транспорт и инфраструктура',
     tags: 'транспорт, градски транспорт, нощен, София, линии, автобус',
     gps: '42.6889741,23.3098242',
@@ -924,8 +923,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/07/zum-uberholen-tabu_213601_960x644-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b1%d1%83%d1%81-%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d1%82%d0%b5-%d1%81%d0%b0-%d0%b2%d0%b5%d1%87%d0%b5-%d0%b2%d1%8a%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%b8.html',
-    link: '/projects/bus-lentite-sa-veche-vazmozhni.html',
+      'https://spasisofia.org/bg/%d0%b1%d1%83%d1%81-%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d1%82%d0%b5-%d1%81%d0%b0-%d0%b2%d0%b5%d1%87%d0%b5-%d0%b2%d1%8a%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%b8',
+    link: '/projects/bus-lentite-sa-veche-vazmozhni',
     topic: 'Транспорт и инфраструктура',
     tags: 'автобус, линия, градски транспорт, БУС',
     gps: '42.6889741,23.3098242',
@@ -941,8 +940,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/07/IMAG1773-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b7%d0%b0-%d0%bd%d0%be%d0%b2%d0%b8%d1%82%d0%b5-%d1%81%d1%85%d0%b5%d0%bc%d0%b8-%d0%b2-%d0%bc%d0%b5%d1%82%d1%80%d0%be%d1%82%d0%be.html',
-    link: '/projects/za-novite-shemi-v-metroto-galeriya.html',
+      'https://spasisofia.org/bg/%d0%b7%d0%b0-%d0%bd%d0%be%d0%b2%d0%b8%d1%82%d0%b5-%d1%81%d1%85%d0%b5%d0%bc%d0%b8-%d0%b2-%d0%bc%d0%b5%d1%82%d1%80%d0%be%d1%82%d0%be',
+    link: '/projects/za-novite-shemi-v-metroto-galeriya',
     topic: 'Транспорт и инфраструктура',
     tags: 'карта, схема, метро, дизайн',
     gps: '42.6889741,23.3098242',
@@ -959,8 +958,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/05/NightLines-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bd%d0%be%d1%89%d0%b5%d0%bd-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82-%d1%88%d0%b5%d1%81%d1%82-%d0%bb%d0%b8%d0%bd%d0%b8%d0%b8-%d1%81%d0%be%d1%84%d0%b8%d1%8f.html',
-    link: '/projects/noshten-transport-s-shest-linii-shte-krastosva-sofia.html',
+      'https://spasisofia.org/bg/%d0%bd%d0%be%d1%89%d0%b5%d0%bd-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82-%d1%88%d0%b5%d1%81%d1%82-%d0%bb%d0%b8%d0%bd%d0%b8%d0%b8-%d1%81%d0%be%d1%84%d0%b8%d1%8f',
+    link: '/projects/noshten-transport-s-shest-linii-shte-krastosva-sofia',
     topic: 'Транспорт и инфраструктура',
     tags: 'транспорт, градски транспорт, нощен, София, линии, автобус',
     gps: '42.6889741,23.3098242',
@@ -977,8 +976,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/03/tramvaini-avtonomni-traseta-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d0%b5%d1%82-%d0%b8%d0%b4%d0%b5%d0%b8-%d0%b7%d0%b0-%d0%bf%d0%be-%d0%b4%d0%be%d0%b1%d1%80%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f.html',
-    link: '/projects/pet-idei-za-podobra-sofia.html',
+      'https://spasisofia.org/bg/%d0%bf%d0%b5%d1%82-%d0%b8%d0%b4%d0%b5%d0%b8-%d0%b7%d0%b0-%d0%bf%d0%be-%d0%b4%d0%be%d0%b1%d1%80%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f',
+    link: '/projects/pet-idei-za-podobra-sofia',
     topic: 'Град за хората',
     tags: 'София, идеи, пет, добра',
     gps: '42.6889741,23.3098242',
@@ -994,9 +993,8 @@ export const PROJECTS = [
       'В Деня на народните будители върнахме книгите на пл. Славейков и раздадохме близо 1000 книги на столичани, които бяха дарени от доброволци от нашия екип.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/11/14-1152x1536.jpg',
-    oldLink:
-      'https://spasisofia.org/bg/den-na-narodnite-buditeli-slaveikov.html',
-    link: '/news/v-denya-na-narodnite-buditeli-varnahme-knigite-na-pl-slaveykov.html',
+    oldLink: 'https://spasisofia.org/bg/den-na-narodnite-buditeli-slaveikov',
+    link: '/news/v-denya-na-narodnite-buditeli-varnahme-knigite-na-pl-slaveykov',
     topic: 'Образование и култура',
     tags: 'София, Столица на културата, народни будители, пл. Славейков',
     gps: '42.69193708875594, 23.324306826228053',
@@ -1013,8 +1011,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/10/%D0%9A%D0%BE%D0%BF%D0%B8%D0%B5-%D0%BD%D0%B0-%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82-1.png',
     oldLink:
-      'https://spasisofia.org/bg/protest-sreshtu-upravlenieto-na-fandakov.html',
-    link: '/news/stotitsi-se-sabraha-na-protesta-sreshtu-upravlenieto-na-kmeta-fandakova.html',
+      'https://spasisofia.org/bg/protest-sreshtu-upravlenieto-na-fandakov',
+    link: '/news/stotitsi-se-sabraha-na-protesta-sreshtu-upravlenieto-na-kmeta-fandakova',
     topic: 'Акции',
     tags: 'Протест, Оставка, Московска 33',
     gps: '42.69684625122422, 23.331686288814428',
@@ -1030,8 +1028,8 @@ export const PROJECTS = [
       'Криви фуги, накълцани, счупени и непочистени павета и камари пясък – така ще изглежда най-централният площад на София след ремонта за 17 млн. лв. Най-лошото е, че малкото останали жълти павета се режат, за да могат строителите да запълнят некадърните фуги и така ремонтът на историческата настилка всъщност я  унищожава.',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2022/09/002.png',
     oldLink:
-      'https://spasisofia.org/bg/jalti-paveta-sled-remont-struvasht-17-000-000.html',
-    link: '/news/zhaltite-paveta-sled-remont-struvasht-17-000-000-lv.html',
+      'https://spasisofia.org/bg/jalti-paveta-sled-remont-struvasht-17-000-000',
+    link: '/news/zhaltite-paveta-sled-remont-struvasht-17-000-000-lv',
     topic: 'Транспорт и инфраструктура',
     tags: 'Жълтите павета, ремонт на ремонта, Наръчник на павьора',
     gps: '42.69391952085683, 23.33241083697971',
@@ -1047,8 +1045,8 @@ export const PROJECTS = [
       'Декларация на Спаси София относно нискоемисионните зони, с който предлагаме основни препоръки и насоки, които да бъдат използвани за подготовката на аргументирана, разумна и целесъобразна наредба за нискоемисионна зона на база на ясно зададени цели, прецизен анализ и оценка на въздействие.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/09/%D0%94%D0%B5%D0%BA%D0%BB%D0%B0%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82-1-1024x741.png',
-    oldLink: 'https://spasisofia.org/bg/deklaracia-niskoemisionni-zoni.html',
-    link: '/news/deklaratsiya-na-spasi-sofia-otnosno-niskoemisionnite-zoni.html',
+    oldLink: 'https://spasisofia.org/bg/deklaracia-niskoemisionni-zoni',
+    link: '/news/deklaratsiya-na-spasi-sofia-otnosno-niskoemisionnite-zoni',
     topic: 'Проекти и реформи',
     tags: 'Нискоемисионни зони, замърсяване на въздуха, София, чист и зелен град',
     gps: '42.697555985903065, 23.322653105786515',
@@ -1064,8 +1062,8 @@ export const PROJECTS = [
       'Екипът ни от доброволци разработи предложение за превръщане на Малките 5 кьошета в емблематично кръстовище в центъра на София. Предлагаме автомобилите и пешеходците да споделят безопасно повдигнато кръстовище, където пешеходното движение е с приоритет. ',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/07/%D0%A4%D0%B8%D0%B3.9-1024x621.png',
-    oldLink: 'https://spasisofia.org/bg/malkite5.html',
-    link: '/projects/5-stapki-za-preobrazyavane-na-malkite-5-kyosheta.html',
+    oldLink: 'https://spasisofia.org/bg/malkite5',
+    link: '/projects/5-stapki-za-preobrazyavane-na-malkite-5-kyosheta',
     topic: 'Град за хората',
     tags: 'Маките 5 кьошета, София, Град за хората, градска среда, модерно пространство',
     gps: '42.68975322480894, 23.32535058151133',
@@ -1081,8 +1079,8 @@ export const PROJECTS = [
       'Градското земеделие е активно и в момента в Столична община, но е силно възпрепятстването от липсата на достъп до общински имоти. Според стратегията, за да бъде практикувано успешно, градското земеделие трябва да бъде интегрирано в нормативната база на Столична община с ясни технически стандарти и критерии за контрол, което да въведе активна политика за насърчаване на неговото развитие в диалог с граждански организации, групи и активни граждани. ',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/05/%D0%93%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%BE-%D0%B7%D0%B5%D0%BC%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8%D0%B5-1-1024x576.jpg',
-    oldLink: 'https://spasisofia.org/bg/gradsko-zemedelie.html',
-    link: '/projects/doklad-merki-za-nasarchavane-na-gradskoto-zemedelie-v-sofia.html',
+    oldLink: 'https://spasisofia.org/bg/gradsko-zemedelie',
+    link: '/projects/doklad-merki-za-nasarchavane-na-gradskoto-zemedelie-v-sofia',
     topic: 'Зеленина и паркове',
     tags: 'Градско земеделие, София, зелен град, здраво общество',
     gps: '42.68596349348675, 23.338008102595765',
@@ -1099,8 +1097,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/05/%D0%9F%D0%BE%D1%81%D1%82-%D0%A1%D0%BF%D0%B0%D1%81%D0%B8-%D0%A1%D0%BE%D1%84%D0%B8%D1%8F-1024x819.png',
     oldLink:
-      'https://spasisofia.org/bg/spasi-sofia-dokazatelstvo-organiziran-protest-gerb.html',
-    link: '/news/spasi-sofia-s-dokazatelstva-gerb-organizira-protesti-vmesto-da-poeme-otgovornost-za-provalite-na-fandakova.html',
+      'https://spasisofia.org/bg/spasi-sofia-dokazatelstvo-organiziran-protest-gerb',
+    link: '/news/spasi-sofia-s-dokazatelstva-gerb-organizira-protesti-vmesto-da-poeme-otgovornost-za-provalite-na-fandakova',
     topic: 'Транспорт и инфраструктура',
     tags: 'Спаси София, доказателства, протест, градски транспорт',
     gps: '42.7077153468639, 23.3234407165983',
@@ -1116,8 +1114,8 @@ export const PROJECTS = [
       'Декларация на Спаси София по повод протеста на служителите на транспортните дружества на територията на Столична община на 18 май, 2022 г.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/05/%D0%94%D0%B5%D0%BA%D0%BB%D0%B0%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82-1-1024x542.png',
-    oldLink: 'https://spasisofia.org/bg/deklaracia-gradski-transport.html',
-    link: '/news/deklaratsiya-na-spasi-sofia-otnosno-protesta-na-gradskiya-transport.html',
+    oldLink: 'https://spasisofia.org/bg/deklaracia-gradski-transport',
+    link: '/news/deklaratsiya-na-spasi-sofia-otnosno-protesta-na-gradskiya-transport',
     topic: 'Транспорт и инфраструктура',
     tags: 'Спаси София, протест, градски транспорт',
     gps: '42.707884596219934, 23.323020600279087',
@@ -1134,8 +1132,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/05/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80.-9-1024x576.jpg',
     oldLink:
-      'https://spasisofia.org/bg/predlagame-nov-montazhen-parking-mladost.html',
-    link: '/projects/predlagame-nov-etazhen-parking-v-mladost.html',
+      'https://spasisofia.org/bg/predlagame-nov-montazhen-parking-mladost',
+    link: '/projects/predlagame-nov-etazhen-parking-v-mladost',
     topic: 'Транспорт и инфраструктура',
     tags: 'Паркиране, етажен паркинг, градска среда, тротоари',
     gps: '42.63051073903373, 23.378484733415085',
@@ -1150,8 +1148,8 @@ export const PROJECTS = [
     description:
       'Годишен отчет за дейността на Спаси София като гражданска организация и Борис Бонев като съветник в Столичния общински съвет',
     imageUrl: '',
-    oldLink: 'https://spasisofia.org/bg/godishen-otchet-spasi-sofia-2021.html',
-    link: '/news/godishen-otchet-spasi-sofia-2021-g.html',
+    oldLink: 'https://spasisofia.org/bg/godishen-otchet-spasi-sofia-2021',
+    link: '/news/godishen-otchet-spasi-sofia-2021-g',
     topic: 'Проекти и реформи',
     tags: 'Спаси София, отчет, ',
     gps: '42.69687565361651, 23.331514176948662',
@@ -1167,8 +1165,8 @@ export const PROJECTS = [
       'Имайки предвид лошото състояние на сградния фонд и инфраструктура в София, както и ниското качество на въздуха, е време да предприемем мерки, с които да отговорим предизвикателствата и да преустроим градската икономика и среда спрямо европейските, а и глобални тенденции. ',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2022/03/00_Cover.mp4',
     oldLink:
-      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya.html',
-    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya.html',
+      'https://spasisofia.org/bg/byudjet-sofiya-2022-g-stanovishte-spasi-sofiya',
+    link: '/news/byudzhet-na-sofia-2022-g-8211-stanovishte-na-spasi-sofiya',
     topic: 'Проекти и реформи',
     tags: 'Предложения, бюджет 2022, Спаси София',
     gps: '42.697704110874945, 23.321807888611357',
@@ -1183,8 +1181,8 @@ export const PROJECTS = [
     description:
       'Удължаване на автобусна линия №107 през квартал и метростанция Горна Баня до кв. Суходол и осигуряване на удобна връзка с метрото.',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2022/03/107map.png',
-    oldLink: 'https://spasisofia.org/bg/avtobus107.html',
-    link: '/projects/doklad-8211-predlagame-udalzhavane-na-avtobus-107-do-suhodol-za-vrazka-s-metroto.html',
+    oldLink: 'https://spasisofia.org/bg/avtobus107',
+    link: '/projects/doklad-8211-predlagame-udalzhavane-na-avtobus-107-do-suhodol-za-vrazka-s-metroto',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, автовус, линия 107',
     gps: '42.68044144730021, 23.24049888184852',
@@ -1200,9 +1198,8 @@ export const PROJECTS = [
       'Същите две фирми за поддръжка на уличното осветление в София са задължени и за коледната украса. В документацията отново срещаме същите проблеми – надути цени, многократно надхвърлящи пазарните и огромни разлики между цените за една и съща услуга, в зависимост от избраната фирма и столичния район. ',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/02/001_-%D1%84%D0%B8%D0%B3.-1-%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6-%D0%BD%D0%B0-%D0%B5%D0%B4%D0%B8%D0%BD-%D1%81%D1%82%D1%8A%D0%BB%D0%B1-1-768x768.png',
-    oldLink:
-      'https://spasisofia.org/bg/v-sofia-qko-se-krade-ot-koledna-ukrasa.html',
-    link: '/news/v-sofia-se-krade-yako-i-ot-kolednata-ukrasa.html',
+    oldLink: 'https://spasisofia.org/bg/v-sofia-qko-se-krade-ot-koledna-ukrasa',
+    link: '/news/v-sofia-se-krade-yako-i-ot-kolednata-ukrasa',
     topic: 'Проекти и реформи',
     tags: 'коледна украса, надути цени, оставка',
     gps: '42.69682229968921, 23.320806738513852',
@@ -1219,8 +1216,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/01/003_%D0%A4%D0%B8%D0%B3.3_%D0%A3%D0%BB%D0%B8%D1%87%D0%BD%D0%B0-%D0%BB%D0%B0%D0%BC%D0%BF%D0%B0-%D0%B2-%D0%B4%D0%B2%D0%B0-%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0-600x495.png',
     oldLink:
-      'https://spasisofia.org/bg/kak-se-iztovchvat-milioni-ulichno-osvetlenie.html',
-    link: '/news/kak-se-iztochvat-desetki-milioni-ot-osvetlenieto-na-sofia.html',
+      'https://spasisofia.org/bg/kak-se-iztovchvat-milioni-ulichno-osvetlenie',
+    link: '/news/kak-se-iztochvat-desetki-milioni-ot-osvetlenieto-na-sofia',
     topic: 'Проекти и реформи',
     tags: 'Осветление, София, източване на милиони',
     gps: '42.697141154687635, 23.324531613224437',
@@ -1236,9 +1233,8 @@ export const PROJECTS = [
       'Проблемите с този ремонт са много и ще превърнат сградата на театър „София“ в поредната бутафория. Красивата каменна фасада ще бъде свалена и заменена с окачена, която няма нищо общо с оригиналната, а знаковият интериор ще бъде изкъртен и подменен с гипсокартон и плоскости от пресовани дървесни частици (ПДЧ). ',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/01/FB_IMG_1642529439774-1024x823.jpg',
-    oldLink:
-      'https://spasisofia.org/bg/prekratiavane-porachka-teatar-sofia.html',
-    link: '/news/da-spasim-teatar-sofia-8211-kakvo-kazvat-ekspertite.html',
+    oldLink: 'https://spasisofia.org/bg/prekratiavane-porachka-teatar-sofia',
+    link: '/news/da-spasim-teatar-sofia-8211-kakvo-kazvat-ekspertite',
     topic: 'Образование и култура',
     tags: 'Театър София, ремонт, архитектура, култура',
     gps: '42.69730513728034, 23.344979947355814',
@@ -1254,8 +1250,8 @@ export const PROJECTS = [
       'Екипът на “Спаси София” вярва, че Халите имат огромен потенциал да бъдат успешен търговски комплекс за малки и средни местни производители и предприемачи, който също така да съхранява традиционния дух на Стара София и да се превърне в културен атракцион на града.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2022/01/%D0%A4%D0%B8%D0%B3.-4-1024x678.jpg',
-    oldLink: 'https://spasisofia.org/bg/tsentralni-hali-kulturno.html',
-    link: '/news/halite--kulturnoto-i-istorichesko-sakrovishte-na-sofia.html',
+    oldLink: 'https://spasisofia.org/bg/tsentralni-hali-kulturno',
+    link: '/news/halite--kulturnoto-i-istorichesko-sakrovishte-na-sofia',
     topic: 'Образование и култура',
     tags: 'Халите, култура, София',
     gps: '42.69994438849139, 23.32217784229344',
@@ -1271,8 +1267,8 @@ export const PROJECTS = [
       'Софийските централни хали може да предоставят на посетителите си едно невероятно изживяване, което да носи автентично усещане и енергия, която не може да бъде изживяно другаде в града. За тази цел, Халите трябва да имат своето специфично предназначение и цел в София – да бъдат притегляща сила за обществото.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/12/%D0%A4%D0%B8%D0%B3.-1-1-1024x576.jpg',
-    oldLink: 'https://spasisofia.org/bg/centralni-hali-ikonomika.html',
-    link: '/news/halite-8211-kak-mozhe-da-bade.html',
+    oldLink: 'https://spasisofia.org/bg/centralni-hali-ikonomika',
+    link: '/news/halite-8211-kak-mozhe-da-bade',
     topic: 'Образование и култура',
     tags: 'Халите, култура, София',
     gps: '42.700047305034886, 23.32171903105086',
@@ -1288,8 +1284,8 @@ export const PROJECTS = [
       'Отворено писмо относно проект за преустройство на Централни софийски хали в супермаркет от Гражданска организация Спаси София и Борис Бонев – общински съветник.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/12/%D0%9A%D0%BE%D0%BF%D0%B8%D0%B5-%D0%BD%D0%B0-%D0%A1%D0%A1_%D0%A5%D0%B0%D0%BB%D0%B8%D1%82%D0%B5_%D0%9A%D0%B0%D1%83%D1%84%D0%BB%D0%B0%D0%BD%D0%B4_%D0%9F%D0%BE%D1%81%D1%82_02-1024x683.jpg',
-    oldLink: 'https://spasisofia.org/bg/otvoreno-pismo-halite.html',
-    link: '/news/otvoreno-pismo-do-fandakova-i-politicheskite-grupi-otnosno-halite.html',
+    oldLink: 'https://spasisofia.org/bg/otvoreno-pismo-halite',
+    link: '/news/otvoreno-pismo-do-fandakova-i-politicheskite-grupi-otnosno-halite',
     topic: 'Образование и култура',
     tags: 'Халите, култура, София',
     gps: '42.69984282594571, 23.32139657335025',
@@ -1304,8 +1300,8 @@ export const PROJECTS = [
     description:
       'Проектът за отварянето на ул. “Съборна” за движение на пешеходци и превръщането ѝ в красива централна улица има всички предпоставки да се превърне в повратна точка в дългогодишната битка на хиляди софиянци и Спаси София за повече нормалност и прилагане на съвременните градоустройствени решения и в нашия град.',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2020/05/korica2.jpg',
-    oldLink: 'https://spasisofia.org/bg/saborna-peshehodna.html',
-    link: '/news/naysetne-ul-saborna-stava-peshehodna.html',
+    oldLink: 'https://spasisofia.org/bg/saborna-peshehodna',
+    link: '/news/naysetne-ul-saborna-stava-peshehodna',
     topic: 'Град за хората',
     tags: 'ул. Съборна, град за хората, градска среда, пешеходна улица',
     gps: '42.696540458070224, 23.322398171188482',
@@ -1321,8 +1317,8 @@ export const PROJECTS = [
       'С това се надяваме кметът г-жа Йорданка Фандъкова и отговорните лица в Столична община и ЦГМ най-накрая да разберат, че само с 25 нови трамвая столичният градски транспорт няма нито да се реформира, нито да стане предпочитана форма за пътуване на столичани. Нужни са мащабни и качествени инвестиции в транспортната инфраструктура.',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2016/09/Bulgaria1.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d1%80%d0%b0%d0%b7%d0%b1%d0%b8%d0%b2%d0%b0-%d0%bd%d0%be%d0%b2%d0%b8%d1%82%d0%b5-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b8.html',
-    link: '/news/sofia-razbiva-novite-tramvai-za-milioni.html',
+      'https://spasisofia.org/bg/%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d1%80%d0%b0%d0%b7%d0%b1%d0%b8%d0%b2%d0%b0-%d0%bd%d0%be%d0%b2%d0%b8%d1%82%d0%b5-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b8',
+    link: '/news/sofia-razbiva-novite-tramvai-za-milioni',
     topic: 'Транспорт и инфраструктура',
     tags: 'трамвай, градски транспорт',
     gps: '42.68107616820775, 23.30786153316254',
@@ -1339,8 +1335,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/08/kakvo-mozhe-da-se-sluchi.png',
     oldLink:
-      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d1%8f%d1%82-%d1%81%d0%b5-%d0%b2%d1%80%d1%8a%d1%89%d0%b0-%d0%b2-%d0%bb%d0%be%d0%b7%d0%b5%d0%bd%d0%b5%d1%86.html',
-    link: '/news/shestitsata-e-spasena-tramvayat-se-vrashta-v-lozenets.html',
+      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d1%8f%d1%82-%d1%81%d0%b5-%d0%b2%d1%80%d1%8a%d1%89%d0%b0-%d0%b2-%d0%bb%d0%be%d0%b7%d0%b5%d0%bd%d0%b5%d1%86',
+    link: '/news/shestitsata-e-spasena-tramvayat-se-vrashta-v-lozenets',
     topic: 'Транспорт и инфраструктура',
     tags: 'трамвай, градски транспорт',
     gps: '42.675630180696025, 23.31454688809932',
@@ -1357,8 +1353,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/07/izhodi-vestibyul.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bd%d0%be%d0%b2%d0%b8%d1%82%d0%b5-%d1%82%d0%b0%d0%b1%d0%b5%d0%bb%d0%b8-%d0%bc%d0%b5%d1%82%d1%80%d0%be%d1%82%d0%be-%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d0%bf%d1%8a%d1%82%d1%83%d0%b2%d0%b0%d0%bc.html',
-    link: '/news/novite-tabeli-v-metroto-kak-da-patuvame-s-lekota-snimki.html',
+      'https://spasisofia.org/bg/%d0%bd%d0%be%d0%b2%d0%b8%d1%82%d0%b5-%d1%82%d0%b0%d0%b1%d0%b5%d0%bb%d0%b8-%d0%bc%d0%b5%d1%82%d1%80%d0%be%d1%82%d0%be-%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d0%bf%d1%8a%d1%82%d1%83%d0%b2%d0%b0%d0%bc',
+    link: '/news/novite-tabeli-v-metroto-kak-da-patuvame-s-lekota-snimki',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, метро, визуална информация, Спаси София',
     gps: '42.69786786573627, 23.32094960692532',
@@ -1375,8 +1371,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/05/spasi-bulgaria-art-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b0%d0%b2%d1%8f%d0%bc%d0%b5-%d0%b2%d0%b8-%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%8f.html',
-    link: '/news/predstavyame-vi-spasi-balgariya.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b0%d0%b2%d1%8f%d0%bc%d0%b5-%d0%b2%d0%b8-%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%8f',
+    link: '/news/predstavyame-vi-spasi-balgariya',
     topic: 'Проекти и реформи',
     tags: 'Спаси България, гражданско общество, български градове',
     gps: '42.69477596757063, 23.33299303425954',
@@ -1393,8 +1389,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/04/44mln-podaruk-za-koncesioner-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%be%d0%b1%d1%89%d0%b8%d0%bd%d0%b0%d1%82%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%80%d1%8f%d0%b2%d0%b0-44-%d0%bc%d0%bb%d0%bd-%d0%ba%d0%be%d0%bd%d1%86%d0%b5%d1%81%d0%b8%d0%be%d0%bd%d0%b5%d1%80.html',
-    link: '/news/obshtinata-podaryava-44-mln-lv-ot-danatsite-ni-na-kontsesioner.html',
+      'https://spasisofia.org/bg/%d0%be%d0%b1%d1%89%d0%b8%d0%bd%d0%b0%d1%82%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%80%d1%8f%d0%b2%d0%b0-44-%d0%bc%d0%bb%d0%bd-%d0%ba%d0%be%d0%bd%d1%86%d0%b5%d1%81%d0%b8%d0%be%d0%bd%d0%b5%d1%80',
+    link: '/news/obshtinata-podaryava-44-mln-lv-ot-danatsite-ni-na-kontsesioner',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, автобус, концесия',
     gps: '42.70734653004481, 23.32350353074646',
@@ -1411,8 +1407,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/02/12027391_1695210520763622_8817299604060474711_o-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d0%ba%d1%83%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0%d1%82%d0%b0-%d0%bd%d0%b5%d0%b7%d0%b0%d0%ba%d0%be%d0%bd%d0%bd%d0%be-%d1%81%d1%8a%d0%b1%d0%b0%d1%80%d1%8f%d0%bd%d0%b5.html',
-    link: '/news/informirahme-prokuraturata-za-nezakonnoto-sabaryane-na-kino-vazrazhdane.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d0%ba%d1%83%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0%d1%82%d0%b0-%d0%bd%d0%b5%d0%b7%d0%b0%d0%ba%d0%be%d0%bd%d0%bd%d0%be-%d1%81%d1%8a%d0%b1%d0%b0%d1%80%d1%8f%d0%bd%d0%b5',
+    link: '/news/informirahme-prokuraturata-za-nezakonnoto-sabaryane-na-kino-vazrazhdane',
     topic: 'Образование и култура',
     tags: 'култура, кино, Възраждане, събаряне ',
     gps: '42.69836304661335, 23.31531867560258',
@@ -1429,8 +1425,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/03/zastupne_foto_OK_en.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%ba%d0%be%d0%bd%d1%84%d0%b5%d1%80%d0%b5%d0%bd%d1%86%d0%b8%d1%8f-%d0%be%d0%be%d0%bd.html',
-    link: '/news/spasi-sofia-s-izlozhba-i-prezentatsiya-na-konferentsiya-na-oon.html',
+      'https://spasisofia.org/bg/%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%ba%d0%be%d0%bd%d1%84%d0%b5%d1%80%d0%b5%d0%bd%d1%86%d0%b8%d1%8f-%d0%be%d0%be%d0%bd',
+    link: '/news/spasi-sofia-s-izlozhba-i-prezentatsiya-na-konferentsiya-na-oon',
     topic: 'Образование и култура',
     tags: 'Спаси София, конференция, ООН',
     gps: '42.69742606239832, 23.32379115342127',
@@ -1447,8 +1443,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/02/spasi-shestitsata-cover.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d1%88%d0%b5%d1%81%d1%82%d0%b8%d1%86%d0%b0%d1%82%d0%b0-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d1%81%d1%82%d0%b0-%d0%b2-%d1%81%d1%8a%d0%b1%d0%be%d1%82%d0%b0.html',
-    link: '/news/spasi-shestitsata-ela-na-protesta-v-sabota.html',
+      'https://spasisofia.org/bg/%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d1%88%d0%b5%d1%81%d1%82%d0%b8%d1%86%d0%b0%d1%82%d0%b0-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d1%81%d1%82%d0%b0-%d0%b2-%d1%81%d1%8a%d0%b1%d0%be%d1%82%d0%b0',
+    link: '/news/spasi-shestitsata-ela-na-protesta-v-sabota',
     topic: 'Транспорт и инфраструктура',
     tags: 'трамвай, градски транспорт, протест',
     gps: '42.675780504845164, 23.31536128376924',
@@ -1465,8 +1461,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/01/pochasovi-bileti-90-min-evropa.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%bf%d0%be%d1%87%d0%b0%d1%81%d0%be%d0%b2-%d0%b1%d0%b8%d0%bb%d0%b5%d1%82-%d1%86%d0%b3%d0%bc-%d0%be%d1%82%d0%ba%d0%b0%d0%b7%d0%b2%d0%b0.html',
-    link: '/news/spasi-sofia-predlaga-pochasov-bilet-tsgm-otkazva.html',
+      'https://spasisofia.org/bg/%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%bf%d0%be%d1%87%d0%b0%d1%81%d0%be%d0%b2-%d0%b1%d0%b8%d0%bb%d0%b5%d1%82-%d1%86%d0%b3%d0%bc-%d0%be%d1%82%d0%ba%d0%b0%d0%b7%d0%b2%d0%b0',
+    link: '/news/spasi-sofia-predlaga-pochasov-bilet-tsgm-otkazva',
     topic: 'Транспорт и инфраструктура',
     tags: 'Градски транспорт, билет, ЦГМ',
     gps: '42.70775504931475, 23.323554306700686',
@@ -1483,8 +1479,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/07/Untitled-11-1024x422.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bb%d0%b5%d1%82%d0%b8%d1%89%d0%b5-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d1%86%d0%b2%d0%b5%d1%82%d0%bd%d0%b8-%d0%bf%d1%8a%d1%82%d0%b5%d0%ba%d0%b8.html',
-    link: '/news/letishte-sofia-s-vodeshti-tsvetni-pateki-po-dizayn-na-spasi-sofiya.html',
+      'https://spasisofia.org/bg/%d0%bb%d0%b5%d1%82%d0%b8%d1%89%d0%b5-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d1%86%d0%b2%d0%b5%d1%82%d0%bd%d0%b8-%d0%bf%d1%8a%d1%82%d0%b5%d0%ba%d0%b8',
+    link: '/news/letishte-sofia-s-vodeshti-tsvetni-pateki-po-dizayn-na-spasi-sofiya',
     topic: 'Транспорт и инфраструктура',
     tags: 'Летище София, градски транспорт',
     gps: '42.688633638232986, 23.414663653114566',
@@ -1500,8 +1496,8 @@ export const PROJECTS = [
       'Във връзка с отчайващите и нискокачествени резултати от струващия 6,9 милиона без ДДС ремонт на трамвайното трасе на бул. България изпратихме сигнал до европейските институции, с който настояваме за позицията им, както и за бързи мерки за отстраняване на лошите управленски практики, материализиращи се в подобни срамни резултати.',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2015/03/splash-EU.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b8%d1%80%d0%b0%d1%85%d0%bc%d0%b5-%d0%b5%d1%81-%d0%b7%d0%b0-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-%d0%b1%d0%b5%d0%b7%d1%83%d0%bc%d0%b8%d0%b5.html',
-    link: '/news/informirahme-es-za-tramvay-bezumie.html',
+      'https://spasisofia.org/bg/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b8%d1%80%d0%b0%d1%85%d0%bc%d0%b5-%d0%b5%d1%81-%d0%b7%d0%b0-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-%d0%b1%d0%b5%d0%b7%d1%83%d0%bc%d0%b8%d0%b5',
+    link: '/news/informirahme-es-za-tramvay-bezumie',
     topic: 'Транспорт и инфраструктура',
     tags: 'Трамвай Безумие, трамвай 7, бул. България',
     gps: '42.67944195750423, 23.30290639346813',
@@ -1518,8 +1514,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2021/07/shumovo-zamarsyavane-sofia-1024x404.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%89%d0%be-%d1%81%d0%b0%d0%bc%d0%be%d0%bb%d0%b5%d1%82%d0%b8%d1%82%d0%b5-%d1%88%d1%83%d0%bc%d1%8f%d1%82-%d0%bd%d0%b0%d0%b4-%d1%81%d0%be%d1%84%d0%b8%d1%8f.html',
-    link: '/news/zashto-samoletite-prelitat-nad-sofia-i-zashto-tova-nyama-da-se-promeni-skoro.html',
+      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%89%d0%be-%d1%81%d0%b0%d0%bc%d0%be%d0%bb%d0%b5%d1%82%d0%b8%d1%82%d0%b5-%d1%88%d1%83%d0%bc%d1%8f%d1%82-%d0%bd%d0%b0%d0%b4-%d1%81%d0%be%d1%84%d0%b8%d1%8f',
+    link: '/news/zashto-samoletite-prelitat-nad-sofia-i-zashto-tova-nyama-da-se-promeni-skoro',
     topic: 'Транспорт и инфраструктура',
     tags: 'София, самолет, шумово замърсяване',
     gps: '42.69726640689545, 23.38709325550097',
@@ -1535,8 +1531,8 @@ export const PROJECTS = [
       'Въпреки ентусиазма и желанието на участващите в Съвета организации и експерти, след почти двугодишна работа, се налага да констатираме сериозни недостатъци в работата му. Тези недостатъци оказват съществено влияние върху работата на Съвета и допринасят за липсата на реални и видими резултати за гражданите на София и пътната безопасност в града. ',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/09/%D0%9A%D0%A1%D0%9F%D0%91-Copy-1024x654.png',
-    oldLink: 'https://spasisofia.org/bg/patna-bezopanost.html',
-    link: '/news/otvoreno-pismo-do-fandakova-savetat-za-patna-bezopasnost-ne-raboti.html',
+    oldLink: 'https://spasisofia.org/bg/patna-bezopanost',
+    link: '/news/otvoreno-pismo-do-fandakova-savetat-za-patna-bezopasnost-ne-raboti',
     topic: 'Транспорт и инфраструктура',
     tags: 'Пътна безопасност, съвет, КАТ',
     gps: '42.66687656318364, 23.35776504106106',
@@ -1552,8 +1548,8 @@ export const PROJECTS = [
       'Погромът по Графа ще ни се стори като генерална репетиция и детска игра спрямо това, което Столичната община възнамерява да направи около храм-паметника Св. Александър Невски, на площад Народно събрание и по улиците Оборище и Париж.',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/06/korica-1-1024x714.jpg',
-    oldLink: 'https://spasisofia.org/bg/remont-nevski.html',
-    link: '/news/predvideniyat-remont-na-pl-sv-al-nevski-nyama-da-reshi-nito-edin-problem.html',
+    oldLink: 'https://spasisofia.org/bg/remont-nevski',
+    link: '/news/predvideniyat-remont-na-pl-sv-al-nevski-nyama-da-reshi-nito-edin-problem',
     topic: 'Град за хората',
     tags: 'пл. Александър Невски, ремонт, проблем',
     gps: '42.69597467149807, 23.33187062081015',
@@ -1569,8 +1565,8 @@ export const PROJECTS = [
       'След щателен анализ на всички дадености, както и нуждите на транспортните потоци в района, предлагаме промяна на организация на движението, чрез изграждане на (полу)кръгово движение на мястото на сегашното 6 клонно кръстовище. Решението включва пробиване на втори изход от квартала към бул. Симеоновско шосе и въвеждане на еднопосочно движение в част от улиците и новооформилото се кръстовище. ',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/04/OneWay-1024x720.jpg',
-    oldLink: 'https://spasisofia.org/bg/simeonovsko-shose.html',
-    link: '/news/predlozhenie-kak-da-se-podobri-trafikat-po-simeonovsko-shose-i-v-kv-vitosha.html',
+    oldLink: 'https://spasisofia.org/bg/simeonovsko-shose',
+    link: '/news/predlozhenie-kak-da-se-podobri-trafikat-po-simeonovsko-shose-i-v-kv-vitosha',
     topic: 'Транспорт и инфраструктура',
     tags: 'Симеоновско шосе, кръгово кръстовище, организация на движението',
     gps: '42.64567243360729, 23.33387845640377',
@@ -1586,8 +1582,8 @@ export const PROJECTS = [
       'Поръчката не само е била обявена в разгара на епидемията, но предвижда и над два пъти повече пари за дървета, цветя и треви, като критериите за избор на изпълнител са съмнителни и нелогични. Стойността на новата поръчка е 5 млн. лв. –  двойно повече спрямо предишния период, когато стойността е “само” 2,3 млн. лв. \n',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/04/MONEY-CARPET.png',
-    oldLink: 'https://spasisofia.org/bg/milioni-zelena-sistema.html',
-    link: '/news/porachki-za-milioni-25-mln-za-tsvetya-po-vreme-na-kriza.html',
+    oldLink: 'https://spasisofia.org/bg/milioni-zelena-sistema',
+    link: '/news/porachki-za-milioni-25-mln-za-tsvetya-po-vreme-na-kriza',
     topic: 'Зеленина и паркове',
     tags: 'цветя, епитемия, обществени поръчки',
     gps: '42.67289752742115, 23.30774585096104',
@@ -1603,8 +1599,8 @@ export const PROJECTS = [
       'Днес вниманието на всички ни приковава една единствена тема – здравната криза с коронавируса и как да превъзмогнем тежките икономически и социални последствия, които тя вече предизвиква. Сега е моментът да се подготвим и да насочим усилията ни към реформиране на ключови сектори, които да ни направят по-конкурентни в бъдеще. ',
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2020/03/eqb0011-blogphoto_0225_original-1024x547-1.jpg',
-    oldLink: 'https://spasisofia.org/bg/merki-kriza.html',
-    link: '/news/kak-zaedno-da-podpomognem-ikonomikata-na-sofia.html',
+    oldLink: 'https://spasisofia.org/bg/merki-kriza',
+    link: '/news/kak-zaedno-da-podpomognem-ikonomikata-na-sofia',
     topic: 'Град за хората',
     tags: 'Здравна криза, епидемия, реформи',
     gps: '42.697062732197864, 23.321256631131902',
@@ -1621,8 +1617,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/12/patriarha-1024x651.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%be-%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d1%84%d0%b0%d0%bd%d0%b4%d1%8a%d0%ba%d0%be%d0%b2%d0%b0.html',
-    link: '/news/otvoreno-pismo-do-gzha-fandakova-za-bul-p-evtimiy.html',
+      'https://spasisofia.org/bg/%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%be-%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d1%84%d0%b0%d0%bd%d0%b4%d1%8a%d0%ba%d0%be%d0%b2%d0%b0',
+    link: '/news/otvoreno-pismo-do-gzha-fandakova-za-bul-p-evtimiy',
     topic: 'Транспорт и инфраструктура',
     tags: 'бул. Патриарх Евтимий, БУС лента, велоалея',
     gps: '42.688515317033435, 23.324180888809252',
@@ -1639,8 +1635,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/11/74325209_929448924080616_4410116438652616704_n-1024x532.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bb%d0%be%d0%b7%d0%b5%d0%bd%d0%b5%d1%86-%d0%bf%d0%bb%d0%b0%d1%89%d0%b0%d0%bc%d0%b5-%d0%bf%d0%b5%d1%87%d0%b5%d0%bb%d1%8f%d1%82-%d0%b4%d0%b8%d0%bd%d0%b5%d0%b2%d0%b8.html',
-    link: '/news/v-lozenets-plashtame-za-da-pechelyat-bratya-dinevi.html',
+      'https://spasisofia.org/bg/%d0%bb%d0%be%d0%b7%d0%b5%d0%bd%d0%b5%d1%86-%d0%bf%d0%bb%d0%b0%d1%89%d0%b0%d0%bc%d0%b5-%d0%bf%d0%b5%d1%87%d0%b5%d0%bb%d1%8f%d1%82-%d0%b4%d0%b8%d0%bd%d0%b5%d0%b2%d0%b8',
+    link: '/news/v-lozenets-plashtame-za-da-pechelyat-bratya-dinevi',
     topic: 'Зеленина и паркове',
     tags: 'пл. Велчова завера, ремонт, зелена площ',
     gps: '42.675515227641604, 23.333915242126867',
@@ -1657,8 +1653,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/08/severen-park-koruptsiya-1024x536.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b2-%d1%87%d0%b8%d0%b9-%d0%b4%d0%b6%d0%be%d0%b1-%d0%be%d1%82%d0%b8%d0%b2%d0%b0%d1%82-%d0%bf%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f%d0%bd%d1%86%d0%b8-%d0%bf%d1%80.html',
-    link: '/news/v-chiy-dzhob-otivat-parite-na-sofiantsi-pri-remonta-na-severen-park.html',
+      'https://spasisofia.org/bg/%d0%b2-%d1%87%d0%b8%d0%b9-%d0%b4%d0%b6%d0%be%d0%b1-%d0%be%d1%82%d0%b8%d0%b2%d0%b0%d1%82-%d0%bf%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f%d0%bd%d1%86%d0%b8-%d0%bf%d1%80',
+    link: '/news/v-chiy-dzhob-otivat-parite-na-sofiantsi-pri-remonta-na-severen-park',
     topic: 'Зеленина и паркове',
     tags: 'Северен парк, ремонт',
     gps: '42.715026689711316, 23.282590396856243',
@@ -1675,8 +1671,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/06/IMG_5996-1024x683.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9%d0%bd%d0%b8%d1%82%d0%b5-%d1%82%d1%80%d0%b0%d1%81%d0%b5%d1%82%d0%b0-%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d1%81%d0%b0-%d0%ba%d0%b0%d1%82%d0%be-%d1%82.html',
-    link: '/news/tramvaynite-traseta-na-sofia-sa-kato-tezi-v-sibir-galeriya.html',
+      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9%d0%bd%d0%b8%d1%82%d0%b5-%d1%82%d1%80%d0%b0%d1%81%d0%b5%d1%82%d0%b0-%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d1%81%d0%b0-%d0%ba%d0%b0%d1%82%d0%be-%d1%82',
+    link: '/news/tramvaynite-traseta-na-sofia-sa-kato-tezi-v-sibir-galeriya',
     topic: 'Транспорт и инфраструктура',
     tags: 'Трамвай, София, трамвайно трасе, пл. Македония',
     gps: '42.693841186714984, 23.313571336728824',
@@ -1693,8 +1689,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/05/gotovoe-ama-ne-e-hubavo.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b3%d1%80%d0%b0%d1%84%d0%b0-%d1%85%d1%83%d0%b1%d0%b0%d0%b2%d0%be-%d0%b5-%d0%bd%d0%be-%d0%bd%d0%b5-%d0%b5-%d0%b3%d0%be%d1%82%d0%be%d0%b2%d0%be.html',
-    link: '/news/grafa-gotovo-e-no-ne-e-hubavo-shte-ima-li-sanktsii-za-izpalnitelya.html',
+      'https://spasisofia.org/bg/%d0%b3%d1%80%d0%b0%d1%84%d0%b0-%d1%85%d1%83%d0%b1%d0%b0%d0%b2%d0%be-%d0%b5-%d0%bd%d0%be-%d0%bd%d0%b5-%d0%b5-%d0%b3%d0%be%d1%82%d0%be%d0%b2%d0%be',
+    link: '/news/grafa-gotovo-e-no-ne-e-hubavo-shte-ima-li-sanktsii-za-izpalnitelya',
     topic: 'Град за хората',
     tags: 'Графа, ремонт, хубаво е',
     gps: '42.690104546726836, 23.32652585532809',
@@ -1711,8 +1707,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/02/belezhnik-joydanka-1024x705.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%89%d0%be-%d1%84%d0%b0%d0%bd%d0%b4%d1%8a%d0%ba%d0%be%d0%b2%d0%b0-%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b8-2-80-%d0%b7%d0%b0-%d0%bc%d0%b0%d0%bd%d0%b4%d0%b0%d1%82-3.html',
-    link: '/news/zashto-fandakova-poluchi-280-za-tretiya-si-mandat.html',
+      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%89%d0%be-%d1%84%d0%b0%d0%bd%d0%b4%d1%8a%d0%ba%d0%be%d0%b2%d0%b0-%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b8-2-80-%d0%b7%d0%b0-%d0%bc%d0%b0%d0%bd%d0%b4%d0%b0%d1%82-3',
+    link: '/news/zashto-fandakova-poluchi-280-za-tretiya-si-mandat',
     topic: 'Град за хората',
     tags: 'Фандъкова, анкета, слаб 2.80',
     gps: '42.69691418583248, 23.331881778912145',
@@ -1729,8 +1725,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/04/katastrofa_sf-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d1%8f%d1%82-%d0%b2%d1%80%d0%b0%d0%b3-1-%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f.html',
-    link: '/news/tramvayat-vrag-1-na-sofiyskata-selishtna-sistema.html',
+      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d1%8f%d1%82-%d0%b2%d1%80%d0%b0%d0%b3-1-%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f',
+    link: '/news/tramvayat-vrag-1-na-sofiyskata-selishtna-sistema',
     topic: 'Транспорт и инфраструктура',
     tags: 'Трамвай, враг',
     gps: '42.68981071345312, 23.280223310183676',
@@ -1747,8 +1743,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2019/01/49897916_311993356089602_7386410246568148992_n-1024x768.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b0%d1%81%d1%84%d0%b0%d0%bb%d1%82-%d0%bd%d0%b0-2-%d0%bc%d0%b5%d1%81%d0%b5%d1%86%d0%b0-%d1%80%d0%b0%d0%b7%d0%bf%d0%b0%d0%b4%d0%b0-%d0%ba-%d0%b2%d0%b5%d0%bb%d0%b8%d1%87%d0%ba%d0%be%d0%b2.html',
-    link: '/news/asfalt-na-dva-mesetsa-se-razpada-na-bul-konstantin-velichkov-galeriya.html',
+      'https://spasisofia.org/bg/%d0%b0%d1%81%d1%84%d0%b0%d0%bb%d1%82-%d0%bd%d0%b0-2-%d0%bc%d0%b5%d1%81%d0%b5%d1%86%d0%b0-%d1%80%d0%b0%d0%b7%d0%bf%d0%b0%d0%b4%d0%b0-%d0%ba-%d0%b2%d0%b5%d0%bb%d0%b8%d1%87%d0%ba%d0%be%d0%b2',
+    link: '/news/asfalt-na-dva-mesetsa-se-razpada-na-bul-konstantin-velichkov-galeriya',
     topic: 'Транспорт и инфраструктура',
     tags: 'Асфалт, ремонт на ремонта, бул. Константин Величков',
     gps: '42.69988938928708, 23.297108900321188',
@@ -1765,8 +1761,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/12/sabitiyata-na-2018.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%ba%d0%b0%d0%ba%d0%b2%d0%b0-%d0%b1%d0%b5%d1%88%d0%b5-2018-%d0%b3-%d0%b7%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f.html',
-    link: '/news/obzor-kakva-beshe-2018-g-za-sofia.html',
+      'https://spasisofia.org/bg/%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%ba%d0%b0%d0%ba%d0%b2%d0%b0-%d0%b1%d0%b5%d1%88%d0%b5-2018-%d0%b3-%d0%b7%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f',
+    link: '/news/obzor-kakva-beshe-2018-g-za-sofia',
     topic: 'Град за хората',
     tags: 'ремонт на ремонта, нощен транспорт, трамвай, метро, Граф Игнатиев, ЦГМ',
     gps: '42.6889741,23.3098242',
@@ -1783,8 +1779,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/12/krusev-izgorya-fandukova-bez-vina.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d1%80%d1%83%d1%81%d0%b5%d0%b2-%d0%b8%d0%b7%d0%b3%d0%be%d1%80%d1%8f-%d1%84%d0%b0%d0%bd%d0%b4%d1%8a%d0%ba%d0%be%d0%b2%d0%b0-%d0%b1%d0%b5%d0%b7-%d0%b2%d0%b8%d0%bd%d0%b0.html',
-    link: '/news/krusev-izgorya-fandakova-bez-nikakva-vina.html',
+      'https://spasisofia.org/bg/%d0%ba%d1%80%d1%83%d1%81%d0%b5%d0%b2-%d0%b8%d0%b7%d0%b3%d0%be%d1%80%d1%8f-%d1%84%d0%b0%d0%bd%d0%b4%d1%8a%d0%ba%d0%be%d0%b2%d0%b0-%d0%b1%d0%b5%d0%b7-%d0%b2%d0%b8%d0%bd%d0%b0',
+    link: '/news/krusev-izgorya-fandakova-bez-nikakva-vina',
     topic: 'Град за хората',
     tags: 'оставка, Евгени Крусев, Граф Игнатиев, ремонт на ремонта',
     gps: '42.6889741,23.3098242',
@@ -1801,8 +1797,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/11/cover-oceni-kmeta-2018-600x315.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%be%d1%86%d0%b5%d0%bd%d0%b8-%d0%ba%d0%bc%d0%b5%d1%82%d0%b0-%d1%81%d0%bb%d0%b5%d0%b4-3-%d0%b3%d0%be%d0%b4%d0%b8%d0%bd%d0%b8-%d0%bc%d0%b0%d0%bd%d0%b4%d0%b0%d1%82.html',
-    link: '/news/anketa-otseni-kmeta-sled-3-godini-mandat.html',
+      'https://spasisofia.org/bg/%d0%be%d1%86%d0%b5%d0%bd%d0%b8-%d0%ba%d0%bc%d0%b5%d1%82%d0%b0-%d1%81%d0%bb%d0%b5%d0%b4-3-%d0%b3%d0%be%d0%b4%d0%b8%d0%bd%d0%b8-%d0%bc%d0%b0%d0%bd%d0%b4%d0%b0%d1%82',
+    link: '/news/anketa-otseni-kmeta-sled-3-godini-mandat',
     topic: 'Град за хората',
     tags: 'Фандъкова, анкета, оценка',
     gps: '42.6889741,23.3098242',
@@ -1819,8 +1815,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/11/46501252_256261948402036_3990819663675129856_n-768x1024.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bb%d0%be%d0%ba%d0%b2%d0%b8-%d0%bf%d0%be-%d0%b3%d1%80%d0%b0%d1%84%d0%b0.html',
-    link: '/news/lokvi-po-grafa-galeriya.html',
+      'https://spasisofia.org/bg/%d0%bb%d0%be%d0%ba%d0%b2%d0%b8-%d0%bf%d0%be-%d0%b3%d1%80%d0%b0%d1%84%d0%b0',
+    link: '/news/lokvi-po-grafa-galeriya',
     topic: 'Транспорт и инфраструктура',
     tags: 'Граф Игнатиев, ремонт на ремонта, локви, Графа',
     gps: '42.690359, 23.326287',
@@ -1837,8 +1833,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/11/46525648_2213197562279662_6369015911000571904_n-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b3%d0%b0%d1%80%d0%b0%d0%b6-%d0%b2-%d1%86%d0%b5%d0%bd%d1%82%d1%8a%d1%80%d0%b0-%d0%bd%d0%b0-%d0%b1%d0%b5%d0%bb%d0%b3%d1%80%d0%b0%d0%b4.html',
-    link: '/news/kak-izglezhda-etazhen-garazh-v-tsentara-na-belgrad.html',
+      'https://spasisofia.org/bg/%d0%b3%d0%b0%d1%80%d0%b0%d0%b6-%d0%b2-%d1%86%d0%b5%d0%bd%d1%82%d1%8a%d1%80%d0%b0-%d0%bd%d0%b0-%d0%b1%d0%b5%d0%bb%d0%b3%d1%80%d0%b0%d0%b4',
+    link: '/news/kak-izglezhda-etazhen-garazh-v-tsentara-na-belgrad',
     topic: 'Паркиране',
     tags: 'паркиране, гараж, Белград, етажен паркинг',
     gps: '42.6889741,23.3098242',
@@ -1855,8 +1851,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/11/zaglavna-statia-zona-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bc%d0%b8%d0%bb%d0%b8%d0%be%d0%bd%d0%b8%d1%82%d0%b5-%d0%be%d1%82-%d1%81%d0%b8%d0%bd%d1%8f-%d0%b8-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b7%d0%be%d0%bd%d0%b0.html',
-    link: '/news/kakvo-ne-se-sluchva-s-milionite-ot-sinya-i-zelena-zona.html',
+      'https://spasisofia.org/bg/%d0%bc%d0%b8%d0%bb%d0%b8%d0%be%d0%bd%d0%b8%d1%82%d0%b5-%d0%be%d1%82-%d1%81%d0%b8%d0%bd%d1%8f-%d0%b8-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b7%d0%be%d0%bd%d0%b0',
+    link: '/news/kakvo-ne-se-sluchva-s-milionite-ot-sinya-i-zelena-zona',
     topic: 'Паркиране',
     tags: 'Паркиране, синя зона, зелена зона, милиони',
     gps: '42.6889741,23.3098242',
@@ -1873,8 +1869,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/10/graf-ignatiev-1024x683.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b3%d1%80%d0%b0%d1%84%d0%b0-%d0%be%d0%bf%d0%be%d1%80%d0%be%d1%87%d0%b5%d0%bd-%d1%82%d1%8a%d1%80%d0%b3-%d0%bd%d0%b5%d0%bf%d0%be%d0%b4%d1%85%d0%be%d0%b4%d1%8f%d1%89%d0%b8-%d0%bc%d0%b0%d1%82%d0%b5.html',
-    link: '/news/oshte-skandali-s-grafa-oporochen-targ-i-nepodhodyashti-materiali.html',
+      'https://spasisofia.org/bg/%d0%b3%d1%80%d0%b0%d1%84%d0%b0-%d0%be%d0%bf%d0%be%d1%80%d0%be%d1%87%d0%b5%d0%bd-%d1%82%d1%8a%d1%80%d0%b3-%d0%bd%d0%b5%d0%bf%d0%be%d0%b4%d1%85%d0%be%d0%b4%d1%8f%d1%89%d0%b8-%d0%bc%d0%b0%d1%82%d0%b5',
+    link: '/news/oshte-skandali-s-grafa-oporochen-targ-i-nepodhodyashti-materiali',
     topic: 'Транспорт и инфраструктура',
     tags: 'Граф Игнатиев, ремонт на ремонта, Графа, Евгени Крусев',
     gps: '42.690359, 23.326287',
@@ -1891,8 +1887,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/08/sofia-vs-warsawa.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%89%d0%be-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d1%81%d0%ba%d0%b0%d1%80%d0%b0-%d0%ba%d0%b0%d0%bd%d0%b4%d0%b8%d0%b4%d0%b0%d1%82-%d0%ba%d0%bc%d0%b5%d1%82%d0%be%d0%b2%d0%b5%d1%82%d0%b5.html',
-    link: '/news/zashto-sofia-skara-kandidatkmetovete-na-varshava.html',
+      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%89%d0%be-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d1%81%d0%ba%d0%b0%d1%80%d0%b0-%d0%ba%d0%b0%d0%bd%d0%b4%d0%b8%d0%b4%d0%b0%d1%82-%d0%ba%d0%bc%d0%b5%d1%82%d0%be%d0%b2%d0%b5%d1%82%d0%b5',
+    link: '/news/zashto-sofia-skara-kandidatkmetovete-na-varshava',
     topic: 'Град за хората',
     tags: 'Варшава, избори, градски транспорт, скандал',
     gps: '42.6889741,23.3098242',
@@ -1909,8 +1905,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/08/thumb-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d0%bf%d0%b0%d1%81%d0%b5%d0%bd%d0%b8%d0%b5%d1%82%d0%be-%d0%bd%d0%b0-%d0%be%d0%b2%d1%87%d0%b0-%d0%ba%d1%83%d0%bf%d0%b5%d0%bb-%d0%bd%d0%b5-%d0%b5-%d0%b2-%d0%bc%d0%b5%d1%82%d1%80%d0%be%d1%82%d0%be.html',
-    link: '/news/spasenieto-na-ovcha-kupel-ne-e-v-metroto.html',
+      'https://spasisofia.org/bg/%d1%81%d0%bf%d0%b0%d1%81%d0%b5%d0%bd%d0%b8%d0%b5%d1%82%d0%be-%d0%bd%d0%b0-%d0%be%d0%b2%d1%87%d0%b0-%d0%ba%d1%83%d0%bf%d0%b5%d0%bb-%d0%bd%d0%b5-%d0%b5-%d0%b2-%d0%bc%d0%b5%d1%82%d1%80%d0%be%d1%82%d0%be',
+    link: '/news/spasenieto-na-ovcha-kupel-ne-e-v-metroto',
     topic: 'Транспорт и инфраструктура',
     tags: 'Овча купел, метро, булевард, Западна тангента, Президент Линкълн, бус ленти',
     gps: '42.66915983244312, 23.265476324642094',
@@ -1926,8 +1922,8 @@ export const PROJECTS = [
       'Над 50 000 души харесаха нашата страница, а с това и каузата ни за по-добра София. Благодарим ви, че тези над три години, вие сте до нас и всички заедно, ясно и категорично заявяваме правото ни да живеем в град, в който човекът е центърът на приоритетите и вниманието.',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2018/06/img-50K.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b1%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d0%b8%d0%bc-%d0%b2%d0%b8-%d0%be%d1%82-%d1%81%d1%8a%d1%80%d1%86%d0%b5.html',
-    link: '/news/blagodarim-vi-ot-sartse.html',
+      'https://spasisofia.org/bg/%d0%b1%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d0%b8%d0%bc-%d0%b2%d0%b8-%d0%be%d1%82-%d1%81%d1%8a%d1%80%d1%86%d0%b5',
+    link: '/news/blagodarim-vi-ot-sartse',
     topic: 'Град за хората',
     tags: 'Спаси София',
     gps: '42.6889741,23.3098242',
@@ -1944,8 +1940,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/05/bukvar_Page_01-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b1%d1%83%d0%ba%d0%b2%d0%b0%d1%80-%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d0%b9%d1%81%d0%ba%d0%b8%d1%82%d0%b5-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b8.html',
-    link: '/news/bukvar-na-sofiyskite-problemi.html',
+      'https://spasisofia.org/bg/%d0%b1%d1%83%d0%ba%d0%b2%d0%b0%d1%80-%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d0%b9%d1%81%d0%ba%d0%b8%d1%82%d0%b5-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b8',
+    link: '/news/bukvar-na-sofiyskite-problemi',
     topic: 'Град за хората',
     tags: '24-ти май, буквар, проблеми',
     gps: '42.6889741,23.3098242',
@@ -1962,8 +1958,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/04/dvoynata-kashta.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d1%83%d0%bb%d1%82%d1%83%d1%80%d0%b0-%d0%bf%d0%be%d0%b4-%d0%be%d0%b1%d1%81%d0%b0%d0%b4%d0%b0.html',
-    link: '/news/kultura-pod-obsada.html',
+      'https://spasisofia.org/bg/%d0%ba%d1%83%d0%bb%d1%82%d1%83%d1%80%d0%b0-%d0%bf%d0%be%d0%b4-%d0%be%d0%b1%d1%81%d0%b0%d0%b4%d0%b0',
+    link: '/news/kultura-pod-obsada',
     topic: 'Образование и култура',
     tags: 'паметници, култура, двойната къща, Царските конюшни, Захарна фабрика',
     gps: '42.6889741,23.3098242',
@@ -1980,8 +1976,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/01/spasi-shestitsata-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%be%d0%b1%d1%89%d0%b8%d0%bd%d0%b0%d1%82%d0%b0-%d0%bb%d0%b8%d0%ba%d0%b2%d0%b8%d0%b4%d0%b8%d1%80%d0%b0-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-%d0%bb%d0%be%d0%b7%d0%b5%d0%bd%d0%b5%d1%86.html',
-    link: '/news/obshtinata-iska-da-likvidira-porednoto-tramvayno-trase-v-lozenets.html',
+      'https://spasisofia.org/bg/%d0%be%d0%b1%d1%89%d0%b8%d0%bd%d0%b0%d1%82%d0%b0-%d0%bb%d0%b8%d0%ba%d0%b2%d0%b8%d0%b4%d0%b8%d1%80%d0%b0-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-%d0%bb%d0%be%d0%b7%d0%b5%d0%bd%d0%b5%d1%86',
+    link: '/news/obshtinata-iska-da-likvidira-porednoto-tramvayno-trase-v-lozenets',
     topic: 'Транспорт и инфраструктура',
     tags: 'трамвай, закриване, Спаси шестицата,  шестицата, Лозенец',
     gps: '42.68953630142487, 23.313756040493733',
@@ -1998,8 +1994,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/01/sravnenie-spasi-sofia-so-01-1024x1024.png',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d0%be-%d1%81%d0%b0%d0%b1%d0%be%d1%82%d0%b8%d1%80%d0%b0-%d0%bd%d0%be%d1%89%d0%bd%d0%b8%d1%8f-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82.html',
-    link: '/news/obshtinata-otnovo-sabotira-noshtniya-gradski-transport.html',
+      'https://spasisofia.org/bg/%d1%81%d0%be-%d1%81%d0%b0%d0%b1%d0%be%d1%82%d0%b8%d1%80%d0%b0-%d0%bd%d0%be%d1%89%d0%bd%d0%b8%d1%8f-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82',
+    link: '/news/obshtinata-otnovo-sabotira-noshtniya-gradski-transport',
     topic: 'Транспорт и инфраструктура',
     tags: 'нощен транспорт, транспорт',
     gps: '42.6889741,23.3098242',
@@ -2016,8 +2012,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/01/obshtinata-nyama-da-ni-spasi-ot-zamarsvyavaneto-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%be%d0%b1%d1%89%d0%b8%d0%bd%d0%b0%d1%82%d0%b0-%d0%bd%d1%8f%d0%bc%d0%b0-%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d0%be%d1%82-%d0%b7%d0%b0%d0%bc%d1%8a%d1%80%d1%81%d1%8f%d0%b2%d0%b0%d0%bd%d0%b5%d1%82%d0%be.html',
-    link: '/news/zashto-programata-na-obshtinata-nyama-da-ni-spasi-ot-zamarsyavaneto.html',
+      'https://spasisofia.org/bg/%d0%be%d0%b1%d1%89%d0%b8%d0%bd%d0%b0%d1%82%d0%b0-%d0%bd%d1%8f%d0%bc%d0%b0-%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d0%be%d1%82-%d0%b7%d0%b0%d0%bc%d1%8a%d1%80%d1%81%d1%8f%d0%b2%d0%b0%d0%bd%d0%b5%d1%82%d0%be',
+    link: '/news/zashto-programata-na-obshtinata-nyama-da-ni-spasi-ot-zamarsyavaneto',
     topic: 'Град за хората',
     tags: 'екология, мръсен въздух, замърсяване на въздуха',
     gps: '42.6889741,23.3098242',
@@ -2034,8 +2030,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2018/01/krastovishte-cherni-vrah-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2-%d0%ba%d1%80%d1%8a%d1%81%d1%82%d0%be%d0%b2%d0%b8%d1%89%d0%b5-%d0%bd%d0%b0-%d0%b4%d0%b2%d0%b5-%d0%bd%d0%b8%d0%b2%d0%b0-%d0%b2-%d0%bb%d0%be%d0%b7%d0%b5%d0%bd%d0%b5.html',
-    link: '/news/spasi-sofia-e-protiv-krastovishte-na-dve-niva-v-lozenets.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2-%d0%ba%d1%80%d1%8a%d1%81%d1%82%d0%be%d0%b2%d0%b8%d1%89%d0%b5-%d0%bd%d0%b0-%d0%b4%d0%b2%d0%b5-%d0%bd%d0%b8%d0%b2%d0%b0-%d0%b2-%d0%bb%d0%be%d0%b7%d0%b5%d0%bd%d0%b5',
+    link: '/news/spasi-sofia-e-protiv-krastovishte-na-dve-niva-v-lozenets',
     topic: 'Транспорт и инфраструктура',
     tags: 'кръстовище, Джеймс Баучер, Черни връх',
     gps: '42.672278, 23.321339',
@@ -2052,8 +2048,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/02/10881581_1525752647709411_1123669526853612284_n.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b4%d0%b5%d0%ba%d0%bb%d0%b0%d1%80%d0%b0%d1%86%d0%b8%d1%8f-%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d1%81%d0%be%d1%84%d0%b8%d1%8f.html',
-    link: '/news/deklaratsiya-na-spasi-sofia.html',
+      'https://spasisofia.org/bg/%d0%b4%d0%b5%d0%ba%d0%bb%d0%b0%d1%80%d0%b0%d1%86%d0%b8%d1%8f-%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d1%81%d0%be%d1%84%d0%b8%d1%8f',
+    link: '/news/deklaratsiya-na-spasi-sofia',
     topic: 'Град за хората',
     tags: 'Спаси София, ГЕРБ, БСП',
     gps: '42.6889741,23.3098242',
@@ -2070,8 +2066,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/11/DB0KpM9XgAA9z-o-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%be%d0%b1%d1%89%d0%b8%d0%bd%d1%81%d0%ba%d0%b8-%d1%81%d1%8a%d0%b2%d0%b5%d1%82%d0%bd%d0%b8%d1%86%d0%b8-%d0%b5%d0%bb%d0%b0%d1%82%d0%b5-%d0%bd%d0%b0-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d1%81%d1%82.html',
-    link: '/news/uvazhaemi-obshtinski-savetnitsi-elate-na-protest.html',
+      'https://spasisofia.org/bg/%d0%be%d0%b1%d1%89%d0%b8%d0%bd%d1%81%d0%ba%d0%b8-%d1%81%d1%8a%d0%b2%d0%b5%d1%82%d0%bd%d0%b8%d1%86%d0%b8-%d0%b5%d0%bb%d0%b0%d1%82%d0%b5-%d0%bd%d0%b0-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d1%81%d1%82',
+    link: '/news/uvazhaemi-obshtinski-savetnitsi-elate-na-protest',
     topic: 'Град за хората',
     tags: '#ДанчеСлез, протест, Дондуков, Столичната община',
     gps: '42.6889741,23.3098242',
@@ -2088,8 +2084,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/10/otvoreno-pismo-1-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%be-%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d0%b7%d0%b0-%d0%ba%d0%b0%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%be-%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82%d0%b8.html',
-    link: '/news/otvoreno-pismo-za-kachestvoto-na-remontite-v-sofia.html',
+      'https://spasisofia.org/bg/%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%be-%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d0%b7%d0%b0-%d0%ba%d0%b0%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%be-%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82%d0%b8',
+    link: '/news/otvoreno-pismo-za-kachestvoto-na-remontite-v-sofia',
     topic: 'Транспорт и инфраструктура',
     tags: 'качество, ремонти, Столичния общински съвет',
     gps: '42.6889741,23.3098242',
@@ -2106,8 +2102,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/10/manastirski_livadi_protest-600x367.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bc%d0%b0%d0%bd%d0%b0%d1%81%d1%82%d0%b8%d1%80%d1%81%d0%ba%d0%b8-%d0%bb%d0%b8%d0%b2%d0%b0%d0%b4%d0%b8-%d0%b5%d0%bb%d0%b8%d1%82%d0%bd%d0%be%d1%82%d0%be-%d0%b3%d0%b5%d1%82%d0%be.html',
-    link: '/news/manastirski-livadi-elitnoto-geto-na-sofia.html',
+      'https://spasisofia.org/bg/%d0%bc%d0%b0%d0%bd%d0%b0%d1%81%d1%82%d0%b8%d1%80%d1%81%d0%ba%d0%b8-%d0%bb%d0%b8%d0%b2%d0%b0%d0%b4%d0%b8-%d0%b5%d0%bb%d0%b8%d1%82%d0%bd%d0%be%d1%82%d0%be-%d0%b3%d0%b5%d1%82%d0%be',
+    link: '/news/manastirski-livadi-elitnoto-geto-na-sofia',
     topic: 'Транспорт и инфраструктура',
     tags: 'презастрояване, Манастирски ливади, Каблешков, транспорт, инфраструктура',
     gps: '42.659394, 23.299984',
@@ -2124,8 +2120,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/08/triugulnik-mladost-1-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d0%be%d0%bf%d0%b5%d0%bd%d1%85%d0%b0%d0%b3%d0%b5%d0%bd-%d0%b5-%d0%b2%d1%8a%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be%d1%81%d1%82-%d0%bd%d0%b5-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc.html',
-    link: '/news/bul-kopenhagen-e-vazmozhnost-ne-problem.html',
+      'https://spasisofia.org/bg/%d0%ba%d0%be%d0%bf%d0%b5%d0%bd%d1%85%d0%b0%d0%b3%d0%b5%d0%bd-%d0%b5-%d0%b2%d1%8a%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be%d1%81%d1%82-%d0%bd%d0%b5-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc',
+    link: '/news/bul-kopenhagen-e-vazmozhnost-ne-problem',
     topic: 'Транспорт и инфраструктура',
     tags: 'бул. Копенхаген, Дружба, Младост, строеж, булевард',
     gps: '42.647990, 23.403555',
@@ -2142,8 +2138,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/06/dondukov-paveta-ili-asphalt.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b8%d1%81%d1%82%d0%b8%d0%bd%d0%b0%d1%82%d0%b0-%d0%b7%d0%b0-%d0%b4%d0%be%d0%bd%d0%b4%d1%83%d0%ba%d0%be%d0%b2.html',
-    link: '/news/istinata-za-dondukov.html',
+      'https://spasisofia.org/bg/%d0%b8%d1%81%d1%82%d0%b8%d0%bd%d0%b0%d1%82%d0%b0-%d0%b7%d0%b0-%d0%b4%d0%be%d0%bd%d0%b4%d1%83%d0%ba%d0%be%d0%b2',
+    link: '/news/istinata-za-dondukov',
     topic: 'Транспорт и инфраструктура',
     tags: 'Дондуков, булевард, некачествен, ремонт, велоалея',
     gps: '42.698191, 23.329465',
@@ -2160,8 +2156,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/06/dondtyrgcvet-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%be-%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d1%84%d0%b0%d0%bd%d0%b4%d1%8a%d0%ba%d0%be%d0%b2%d0%b0-%d0%b4%d0%be%d0%bd%d0%b4%d1%83%d0%ba%d0%be%d0%b2.html',
-    link: '/news/otvoreno-pismo-do-yordanka-fandakova-za-bul-dondukov.html',
+      'https://spasisofia.org/bg/%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%be-%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d1%84%d0%b0%d0%bd%d0%b4%d1%8a%d0%ba%d0%be%d0%b2%d0%b0-%d0%b4%d0%be%d0%bd%d0%b4%d1%83%d0%ba%d0%be%d0%b2',
+    link: '/news/otvoreno-pismo-do-yordanka-fandakova-za-bul-dondukov',
     topic: 'Транспорт и инфраструктура',
     tags: 'Дондуков, булевард, некачествен, ремонт, писмо, Фандъкова',
     gps: '42.698191, 23.329465',
@@ -2178,8 +2174,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/06/dondukov-paveta-ili-asphalt.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d0%b2%d0%b0%d0%bb%d1%8a%d1%82-%d0%b4%d0%be%d0%bd%d0%b4%d1%83%d0%ba%d0%be%d0%b2.html',
-    link: '/news/provalat-dondukov.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d0%b2%d0%b0%d0%bb%d1%8a%d1%82-%d0%b4%d0%be%d0%bd%d0%b4%d1%83%d0%ba%d0%be%d0%b2',
+    link: '/news/provalat-dondukov',
     topic: 'Транспорт и инфраструктура',
     tags: 'Дондуков, булевард, некачествен, ремонт',
     gps: '42.698191, 23.329465',
@@ -2196,8 +2192,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/04/vmesto-za-muzey-davat-tramvayno-depo-na-chastnik.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bc%d1%83%d0%b7%d0%b5%d0%b9-%d0%bd%d0%b0%d0%b9-%d1%81%d1%82%d0%b0%d1%80%d0%be-%d0%b4%d0%b5%d0%bf%d0%be-%d1%87%d0%b0%d1%81%d1%82%d0%bd%d0%b8%d0%ba.html',
-    link: '/news/vmesto-za-muzey-tramvayno-depo-se-dava-na-chastnik.html',
+      'https://spasisofia.org/bg/%d0%bc%d1%83%d0%b7%d0%b5%d0%b9-%d0%bd%d0%b0%d0%b9-%d1%81%d1%82%d0%b0%d1%80%d0%be-%d0%b4%d0%b5%d0%bf%d0%be-%d1%87%d0%b0%d1%81%d1%82%d0%bd%d0%b8%d0%ba',
+    link: '/news/vmesto-za-muzey-tramvayno-depo-se-dava-na-chastnik',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, музей, трамвайно депо Клокотница',
     gps: '42.70825147559193, 23.323699773603053',
@@ -2214,8 +2210,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/03/Title-picture-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82%d0%bd%d0%b0-%d0%ba%d0%be%d0%bc%d0%b8%d1%81%d0%b8%d1%8f.html',
-    link: '/news/komisiyata-po-transport-primer-za-bezotgovornost.html',
+      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82%d0%bd%d0%b0-%d0%ba%d0%be%d0%bc%d0%b8%d1%81%d0%b8%d1%8f',
+    link: '/news/komisiyata-po-transport-primer-za-bezotgovornost',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, трамвай, линия, комисия',
     gps: '42.6889741,23.3098242',
@@ -2232,8 +2228,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/03/kakva-beshe-sofia-prez-2016-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%ba%d0%b2%d0%b0-%d0%b1%d0%b5%d1%88%d0%b5-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%bf%d1%80%d0%b5%d0%b7-2016.html',
-    link: '/news/kakva-beshe-sofia-prez-2016-g.html',
+      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%ba%d0%b2%d0%b0-%d0%b1%d0%b5%d1%88%d0%b5-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%bf%d1%80%d0%b5%d0%b7-2016',
+    link: '/news/kakva-beshe-sofia-prez-2016-g',
     topic: 'Град за хората',
     tags: '2016, обобщение, управление',
     gps: '42.6889741,23.3098242',
@@ -2250,8 +2246,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/03/comic-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%be-%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d0%b7%d0%b0-%d1%86%d0%b5%d0%bd%d0%b0%d1%82%d0%b0-%d0%bd%d0%b0-%d0%b1%d0%b8%d0%bb%d0%b5%d1%82%d0%b0.html',
-    link: '/news/otvoreno-pismo-za-tsenata-na-bileta.html',
+      'https://spasisofia.org/bg/%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%be-%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d0%b7%d0%b0-%d1%86%d0%b5%d0%bd%d0%b0%d1%82%d0%b0-%d0%bd%d0%b0-%d0%b1%d0%b8%d0%bb%d0%b5%d1%82%d0%b0',
+    link: '/news/otvoreno-pismo-za-tsenata-na-bileta',
     topic: 'Транспорт и инфраструктура',
     tags: 'билет, цена, градски транспорт, писмо, Административен съд',
     gps: '42.6889741,23.3098242',
@@ -2268,8 +2264,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/01/kriterii-avtobus-01-1024x689.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%be%d1%82%d0%bd%d0%be%d0%b2%d0%be-%d0%b4%d0%b8%d0%b7%d0%b5%d0%bb%d0%be%d0%b2%d0%b8-%d0%b0%d0%b2%d1%82%d0%be%d0%b1%d1%83%d1%81%d0%b8-%d0%b7%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%ba%d0%b8%d1%82.html',
-    link: '/news/otnovo-dizelovi-avtobusi-za-sofia-kitayski-ili-turski.html',
+      'https://spasisofia.org/bg/%d0%be%d1%82%d0%bd%d0%be%d0%b2%d0%be-%d0%b4%d0%b8%d0%b7%d0%b5%d0%bb%d0%be%d0%b2%d0%b8-%d0%b0%d0%b2%d1%82%d0%be%d0%b1%d1%83%d1%81%d0%b8-%d0%b7%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%ba%d0%b8%d1%82',
+    link: '/news/otnovo-dizelovi-avtobusi-za-sofia-kitayski-ili-turski',
     topic: 'Транспорт и инфраструктура',
     tags: 'автобуси, градски транспорт, търг',
     gps: '42.6889741,23.3098242',
@@ -2286,8 +2282,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2017/01/15942633_10211062235612743_2123589375_o-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%85%d0%b8%d0%b4%d1%80%d0%b0%d0%bd%d1%82%d1%8a%d1%82-%d0%b8-%d0%b3%d1%80%d0%b0%d0%b4%d1%8a%d1%82.html',
-    link: '/news/hidrantat-i-gradat.html',
+      'https://spasisofia.org/bg/%d1%85%d0%b8%d0%b4%d1%80%d0%b0%d0%bd%d1%82%d1%8a%d1%82-%d0%b8-%d0%b3%d1%80%d0%b0%d0%b4%d1%8a%d1%82',
+    link: '/news/hidrantat-i-gradat',
     topic: 'Град за хората',
     tags: 'Витоша, булевард, зимна градина, контрол',
     gps: '42.68601684733704, 23.317960633457595',
@@ -2304,8 +2300,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/02/shema-kakvo-napravihme.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d0%be%d0%b4%d0%ba%d1%80%d0%b5%d0%bf%d0%b5%d1%82%d0%b5-%d0%bd%d0%b8-%d0%b4%d0%b0%d1%80%d0%b5%d1%82%d0%b5-%d0%bd%d0%b0-%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d1%81%d0%be%d1%84%d0%b8%d1%8f.html',
-    link: '/news/podkrepete-ni-darete-na-spasi-sofia.html',
+      'https://spasisofia.org/bg/%d0%bf%d0%be%d0%b4%d0%ba%d1%80%d0%b5%d0%bf%d0%b5%d1%82%d0%b5-%d0%bd%d0%b8-%d0%b4%d0%b0%d1%80%d0%b5%d1%82%d0%b5-%d0%bd%d0%b0-%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d1%81%d0%be%d1%84%d0%b8%d1%8f',
+    link: '/news/podkrepete-ni-darete-na-spasi-sofia',
     topic: 'Акции',
     tags: 'дарение, Спаси София',
     gps: '42.6889741,23.3098242',
@@ -2322,8 +2318,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/12/koleden-prizrak-vmesto-koleden-duh-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d1%81-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%bf%d1%80%d0%b8%d0%b7%d1%80%d0%b0%d0%ba-%d0%b2%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d0%b4%d1%83%d1%85.html',
-    link: '/news/sofia-s-koleden-prizrak-vmesto-duh.html',
+      'https://spasisofia.org/bg/%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d1%81-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%bf%d1%80%d0%b8%d0%b7%d1%80%d0%b0%d0%ba-%d0%b2%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d0%b4%d1%83%d1%85',
+    link: '/news/sofia-s-koleden-prizrak-vmesto-duh',
     topic: 'Град за хората',
     tags: 'градска среда, Йорданка Фандъкова, квартали, Коледа, празници, украса',
     gps: '42.6889741,23.3098242',
@@ -2340,8 +2336,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/12/1-%D0%B8%D0%B7%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA-atrium.bg_-e1480881499386.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%bc%d0%b1%d0%b0%d0%bd%d0%b8%d1%82%d0%b5.html',
-    link: '/news/kambanite-zabraveniyat-pametnik.html',
+      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%bc%d0%b1%d0%b0%d0%bd%d0%b8%d1%82%d0%b5',
+    link: '/news/kambanite-zabraveniyat-pametnik',
     topic: 'Образование и култура',
     tags: 'деца, камбани, Камбаните, комунистически, Министерство на културата, мир, Младост, паметник на културата',
     gps: '42.618796, 23.379182',
@@ -2358,8 +2354,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/11/1-XNgBNF4UAdls4e8tV5gwdQ.jpeg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%89%d0%be-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%b5-%d0%bd%d0%b0-%d0%b4%d1%8a%d0%bd%d0%be%d1%82%d0%be-%d0%bf%d0%be%d1%83%d0%ba%d0%b8-%d0%be%d1%82-%d1%82%d0%b8%d1%80%d0%b0%d0%bd%d0%b0.html',
-    link: '/news/zashto-sofia-e-na-danoto-pouki-ot-tirana.html',
+      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%89%d0%be-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%b5-%d0%bd%d0%b0-%d0%b4%d1%8a%d0%bd%d0%be%d1%82%d0%be-%d0%bf%d0%be%d1%83%d0%ba%d0%b8-%d0%be%d1%82-%d1%82%d0%b8%d1%80%d0%b0%d0%bd%d0%b0',
+    link: '/news/zashto-sofia-e-na-danoto-pouki-ot-tirana',
     topic: 'Град за хората',
     tags: 'град без коли, деца, кмет, мръсен въздух, тирана',
     gps: '42.6889741,23.3098242',
@@ -2376,8 +2372,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/11/02.-bus-lenti-ogranicheni-traseta-sofia-praga.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8%d1%8f-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82-%d0%b2-%d0%bf%d1%80%d0%b0%d0%b3%d0%b0-%d0%bf%d1%80%d0%b8%d0%be%d1%80%d0%b8%d1%82%d0%b5%d1%82.html',
-    link: '/news/inzh-doshli-v-praga-gradskiyat-transport-naistina-e-prioritet.html',
+      'https://spasisofia.org/bg/%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8%d1%8f-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82-%d0%b2-%d0%bf%d1%80%d0%b0%d0%b3%d0%b0-%d0%bf%d1%80%d0%b8%d0%be%d1%80%d0%b8%d1%82%d0%b5%d1%82',
+    link: '/news/inzh-doshli-v-praga-gradskiyat-transport-naistina-e-prioritet',
     topic: 'Транспорт и инфраструктура',
     tags: 'автобуси, градски транспорт, Нощен транспорт, Прага, ремонти, тарифна политика, трамвай',
     gps: '42.6889741,23.3098242',
@@ -2394,8 +2390,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/03/comic-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d1%84%d0%b0%d0%bd%d0%b4%d1%8a%d0%ba%d0%be%d0%b2%d0%b0-%d1%81%d0%b0%d0%bc%d0%be-%d1%81-%d0%bc%d0%b5%d1%82%d1%80%d0%be-%d0%bd%d0%b5-%d1%81%d1%82%d0%b0%d0%b2%d0%b0.html',
-    link: '/news/gzho-fandakova-samo-s-metro-ne-stava-tryabva-i-akal.html',
+      'https://spasisofia.org/bg/%d1%84%d0%b0%d0%bd%d0%b4%d1%8a%d0%ba%d0%be%d0%b2%d0%b0-%d1%81%d0%b0%d0%bc%d0%be-%d1%81-%d0%bc%d0%b5%d1%82%d1%80%d0%be-%d0%bd%d0%b5-%d1%81%d1%82%d0%b0%d0%b2%d0%b0',
+    link: '/news/gzho-fandakova-samo-s-metro-ne-stava-tryabva-i-akal',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, Европейска зелена столица, Йорданка Фандъкова, метро, ремонти, Столична община',
     gps: '42.6889741,23.3098242',
@@ -2412,8 +2408,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/11/za-gradinkite-stroezhite-i-grada-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b7%d0%b0-%d0%b3%d1%80%d0%b0%d0%b4%d0%b8%d0%bd%d0%ba%d0%b8%d1%82%d0%b5-%d1%81%d1%82%d1%80%d0%be%d0%b5%d0%b6%d0%b8%d1%82%d0%b5-%d0%b8-%d1%83%d0%bd%d0%b8%d1%89%d0%be%d0%b6%d0%b8%d1%82%d0%b5%d0%bb.html',
-    link: '/news/za-gradinkite-stroezhite-i-unishtozhitelite-na-grada.html',
+      'https://spasisofia.org/bg/%d0%b7%d0%b0-%d0%b3%d1%80%d0%b0%d0%b4%d0%b8%d0%bd%d0%ba%d0%b8%d1%82%d0%b5-%d1%81%d1%82%d1%80%d0%be%d0%b5%d0%b6%d0%b8%d1%82%d0%b5-%d0%b8-%d1%83%d0%bd%d0%b8%d1%89%d0%be%d0%b6%d0%b8%d1%82%d0%b5%d0%bb',
+    link: '/news/za-gradinkite-stroezhite-i-unishtozhitelite-na-grada',
     topic: 'Зеленина и паркове',
     tags: 'застрояване, зелен град, междублокови пространства, Младост, Столична община',
     gps: '42.6889741,23.3098242',
@@ -2430,8 +2426,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/10/14643023_1177257648977992_849931763_n-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b2%d0%b8%d1%82%d0%be%d1%88%d0%b0-%d0%bf%d0%b0%d1%80%d0%ba-%d0%b0-%d0%bd%d0%b5-%d0%bf%d0%b0%d1%80%d0%ba%d0%b8%d0%bd%d0%b3.html',
-    link: '/news/vitosha-park-a-ne-parking.html',
+      'https://spasisofia.org/bg/%d0%b2%d0%b8%d1%82%d0%be%d1%88%d0%b0-%d0%bf%d0%b0%d1%80%d0%ba-%d0%b0-%d0%bd%d0%b5-%d0%bf%d0%b0%d1%80%d0%ba%d0%b8%d0%bd%d0%b3',
+    link: '/news/vitosha-park-a-ne-parking',
     topic: 'Град за хората',
     tags: 'автобуси, Витоша, зелен град, парк, природа',
     gps: '42.61666, 23.34848',
@@ -2448,8 +2444,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/09/%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D0%BD%D0%B8-1024x537.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82-%d0%bb%d1%8e%d0%b1%d0%bb%d1%8f%d0%bd%d0%b0-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d0%b0-%d1%81%d1%82%d0%be%d0%bb%d0%b8%d1%86%d0%b0.html',
-    link: '/news/transportat-koyto-napravi-lyublyana-evropeyska-zelena-stolitsa.html',
+      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82-%d0%bb%d1%8e%d0%b1%d0%bb%d1%8f%d0%bd%d0%b0-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d0%b0-%d1%81%d1%82%d0%be%d0%bb%d0%b8%d1%86%d0%b0',
+    link: '/news/transportat-koyto-napravi-lyublyana-evropeyska-zelena-stolitsa',
     topic: 'Град за хората',
     tags: 'Европейска зелена столица, зелен град, зелени политики, Любляна',
     gps: '42.6889741,23.3098242',
@@ -2465,8 +2461,8 @@ export const PROJECTS = [
       'Духът на градовете ни си отива. Късче по късче и парцел по парцел. Пожарите на това бездушно отношение към градската среда (ще) идват в много форми – буквални и метафорични. Вчера пламнаха тютюневите складове на Пловдив, едни от малкото опазени образци на индустриалната ни архитектура.',
     imageUrl: 'https://spasisofia.org/wp-content/uploads/2016/08/IMG_5812.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b4%d0%be%d0%ba%d0%be%d0%b3%d0%b0-%d1%89%d0%b5-%d0%b3%d0%b0%d1%81%d0%b8%d0%bc-%d0%bf%d0%be%d0%b6%d0%b0%d1%80%d0%b8.html',
-    link: '/news/dokoga-shte-gasim-pozhari.html',
+      'https://spasisofia.org/bg/%d0%b4%d0%be%d0%ba%d0%be%d0%b3%d0%b0-%d1%89%d0%b5-%d0%b3%d0%b0%d1%81%d0%b8%d0%bc-%d0%bf%d0%be%d0%b6%d0%b0%d1%80%d0%b8',
+    link: '/news/dokoga-shte-gasim-pozhari',
     topic: 'Образование и култура',
     tags: 'архитектурни паметници, Вежди Рашидов, културно наследство, Петър Диков, пожар',
     gps: '42.6889741,23.3098242',
@@ -2483,8 +2479,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/04/graph-concessia-01.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%ba-%d0%be%d0%b1%d1%89%d0%b8%d0%bd%d0%b0%d1%82%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%80%d1%8f%d0%b2%d0%b0-141-%d0%bc%d0%bb%d0%bd-%d0%bb%d0%b2.html',
-    link: '/news/kak-obshtinata-podaryava-141-000-000-lv-predi-vakantsiya.html',
+      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%ba-%d0%be%d0%b1%d1%89%d0%b8%d0%bd%d0%b0%d1%82%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%80%d1%8f%d0%b2%d0%b0-141-%d0%bc%d0%bb%d0%bd-%d0%bb%d0%b2',
+    link: '/news/kak-obshtinata-podaryava-141-000-000-lv-predi-vakantsiya',
     topic: 'Транспорт и инфраструктура',
     tags: 'автобуси, градски транспорт, концесия, Любомир Христов, Столична община',
     gps: '42.6889741,23.3098242',
@@ -2501,8 +2497,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/07/122018764-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%ba%d0%b2%d0%be-%d1%87%d0%b0%d0%ba%d0%b0%d0%bc%d0%b5-%d0%be%d1%82-%d0%b7%d0%b0%d0%bc-%d0%ba%d0%bc%d0%b5%d1%82%d0%b0-%d0%bf%d0%be-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82.html',
-    link: '/news/kakvo-ochakvame-ot-noviya-zamkmet-po-transporta.html',
+      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%ba%d0%b2%d0%be-%d1%87%d0%b0%d0%ba%d0%b0%d0%bc%d0%b5-%d0%be%d1%82-%d0%b7%d0%b0%d0%bc-%d0%ba%d0%bc%d0%b5%d1%82%d0%b0-%d0%bf%d0%be-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82',
+    link: '/news/kakvo-ochakvame-ot-noviya-zamkmet-po-transporta',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, Евгени Крусев, Любомир Христов, Столична община',
     gps: '42.6889741,23.3098242',
@@ -2519,8 +2515,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/07/cgm-shturm-kum-shevskite-mesta-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d1%89%d1%83%d1%80%d0%bc-%d0%ba%d1%8a%d0%bc-%d1%88%d0%b5%d1%84%d1%81%d0%ba%d0%b8%d1%82%d0%b5-%d0%ba%d1%80%d0%b5%d1%81%d0%bb%d0%b0-%d0%bd%d0%b0-%d1%86%d0%b3%d0%bc.html',
-    link: '/news/shturm-kam-shefskite-kresla-na-tsgm.html',
+      'https://spasisofia.org/bg/%d1%89%d1%83%d1%80%d0%bc-%d0%ba%d1%8a%d0%bc-%d1%88%d0%b5%d1%84%d1%81%d0%ba%d0%b8%d1%82%d0%b5-%d0%ba%d1%80%d0%b5%d1%81%d0%bb%d0%b0-%d0%bd%d0%b0-%d1%86%d0%b3%d0%bc',
+    link: '/news/shturm-kam-shefskite-kresla-na-tsgm',
     topic: 'Транспорт и инфраструктура',
     tags: 'конкурс, Столичен общински съвет, Столична община, ЦГМ',
     gps: '42.6889741,23.3098242',
@@ -2537,8 +2533,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/04/%D0%BA%D0%B0%D1%82%E2%80%93%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9-1024x683.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d0%be%d0%bd%d0%ba%d1%83%d1%80%d1%81-%d1%86%d0%b3%d0%bc-%d1%82%d1%80%d1%8f%d0%b1%d0%b2%d0%b0-%d0%b4%d0%b0-%d0%b5-%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d1%87%d0%b5%d0%bd.html',
-    link: '/news/izborat-na-rakovodstvo-na-tsgm-tryabva-da-e-naistina-publichen.html',
+      'https://spasisofia.org/bg/%d0%ba%d0%be%d0%bd%d0%ba%d1%83%d1%80%d1%81-%d1%86%d0%b3%d0%bc-%d1%82%d1%80%d1%8f%d0%b1%d0%b2%d0%b0-%d0%b4%d0%b0-%d0%b5-%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d1%87%d0%b5%d0%bd',
+    link: '/news/izborat-na-rakovodstvo-na-tsgm-tryabva-da-e-naistina-publichen',
     topic: 'Транспорт и инфраструктура',
     tags: 'Симеон Арнаудов, Столична община, ЦГМ',
     gps: '42.6889741,23.3098242',
@@ -2555,8 +2551,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/06/20130205_143549-1024x576.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%80%d0%b0%d0%b7%d1%80%d1%83%d1%85%d0%b0-%d0%bc%d0%bb%d0%b0%d0%b4%d0%be%d1%81%d1%82-%d0%b8-%d0%ba%d0%b0%d0%ba%d0%b2%d0%be-%d0%b5-%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d0%b5%d1%82%d0%be.html',
-    link: '/news/razruha-v-mladost-i-kakvo-e-reshenieto.html',
+      'https://spasisofia.org/bg/%d1%80%d0%b0%d0%b7%d1%80%d1%83%d1%85%d0%b0-%d0%bc%d0%bb%d0%b0%d0%b4%d0%be%d1%81%d1%82-%d0%b8-%d0%ba%d0%b0%d0%ba%d0%b2%d0%be-%d0%b5-%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d0%b5%d1%82%d0%be',
+    link: '/news/razruha-v-mladost-i-kakvo-e-reshenieto',
     topic: 'Град за хората',
     tags: 'жилищен комплекс, квартали, Младост, София, Столична община',
     gps: '42.64080067771231, 23.38078040987843',
@@ -2573,8 +2569,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/06/20160317_155716-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%b0%d0%b6%d0%ba%d0%b0-%d1%80%d0%b5%d0%b2%d0%be%d0%bb%d1%8e%d1%86%d0%b8%d1%8f-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82.html',
-    link: '/news/prazhka-revolyutsiya-v-gradskiya-transport.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%b0%d0%b6%d0%ba%d0%b0-%d1%80%d0%b5%d0%b2%d0%be%d0%bb%d1%8e%d1%86%d0%b8%d1%8f-%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b8-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82',
+    link: '/news/prazhka-revolyutsiya-v-gradskiya-transport',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, Прага, Столична',
     gps: '42.6889741,23.3098242',
@@ -2591,8 +2587,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/06/krazhbite-v-cgm-i-novata-cena-na-bileta-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d1%80%d0%b0%d0%b6%d0%b1%d0%b8%d1%82%d0%b5-%d0%b2-%d1%86%d0%b3%d0%bc-%d0%b8-%d0%bd%d0%be%d0%b2%d0%b0%d1%82%d0%b0-%d1%86%d0%b5%d0%bd%d0%b0-%d0%bd%d0%b0-%d0%b1%d0%b8%d0%bb%d0%b5%d1%82%d0%b0.html',
-    link: '/news/krazhbite-v-tsgm-i-novata-tsena-na-bileta.html',
+      'https://spasisofia.org/bg/%d0%ba%d1%80%d0%b0%d0%b6%d0%b1%d0%b8%d1%82%d0%b5-%d0%b2-%d1%86%d0%b3%d0%bc-%d0%b8-%d0%bd%d0%be%d0%b2%d0%b0%d1%82%d0%b0-%d1%86%d0%b5%d0%bd%d0%b0-%d0%bd%d0%b0-%d0%b1%d0%b8%d0%bb%d0%b5%d1%82%d0%b0',
+    link: '/news/krazhbite-v-tsgm-i-novata-tsena-na-bileta',
     topic: 'Транспорт и инфраструктура',
     tags: 'корупция, обществени поръчки, ЦГМ, билет, градски транспорт',
     gps: '42.6889741,23.3098242',
@@ -2609,8 +2605,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/05/1464196517-2-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%81%d0%bb%d1%83%d0%b6%d0%b0%d0%b2%d0%b0-%d0%bb%d0%b8-raffy-%d1%82%d1%80%d0%be%d1%82%d0%be%d0%b0%d1%80%d0%bd%d0%be-%d0%bf%d1%80%d0%b0%d0%b2%d0%be.html',
-    link: '/news/zasluzhava-li-raffy-trotoarno-pravo.html',
+      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%81%d0%bb%d1%83%d0%b6%d0%b0%d0%b2%d0%b0-%d0%bb%d0%b8-raffy-%d1%82%d1%80%d0%be%d1%82%d0%be%d0%b0%d1%80%d0%bd%d0%be-%d0%bf%d1%80%d0%b0%d0%b2%d0%be',
+    link: '/news/zasluzhava-li-raffy-trotoarno-pravo',
     topic: 'Град за хората',
     tags: 'Витоша, Йорданка Фандъкова',
     gps: '42.68601684733704, 23.317960633457595',
@@ -2627,8 +2623,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/05/preview-sravnenie-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d0%be%d0%bb%d0%ba%d0%be-%d0%bc%d0%b8%d0%bb%d0%b8%d0%be%d0%bd%d0%b0-%d1%81%d0%b5-%d0%b8%d0%b7%d1%82%d0%be%d1%87%d0%b2%d0%b0%d1%82-%d0%bf%d1%80%d0%b5%d0%b7-%d1%86%d0%b3%d0%bc.html',
-    link: '/news/kolko-miliona-se-iztochvat-prez-tsgm.html',
+      'https://spasisofia.org/bg/%d0%ba%d0%be%d0%bb%d0%ba%d0%be-%d0%bc%d0%b8%d0%bb%d0%b8%d0%be%d0%bd%d0%b0-%d1%81%d0%b5-%d0%b8%d0%b7%d1%82%d0%be%d1%87%d0%b2%d0%b0%d1%82-%d0%bf%d1%80%d0%b5%d0%b7-%d1%86%d0%b3%d0%bc',
+    link: '/news/kolko-miliona-se-iztochvat-prez-tsgm',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, Любомир Христов, Симеон Арнаудов, ЦГМ',
     gps: '42.6889741,23.3098242',
@@ -2645,8 +2641,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/05/IMG_20160506_164011-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%84%d0%be%d1%82%d0%be%d1%80%d0%b0%d0%b7%d1%85%d0%be%d0%b4%d0%ba%d0%b0-%d0%b3%d1%80%d0%b0%d1%84%d0%b0-%d0%bd%d0%b0-%d1%83%d0%b6%d0%b0%d1%81%d0%b8%d1%82%d0%b5.html',
-    link: '/news/fotorazhodka-grafa-na-uzhasite.html',
+      'https://spasisofia.org/bg/%d1%84%d0%be%d1%82%d0%be%d1%80%d0%b0%d0%b7%d1%85%d0%be%d0%b4%d0%ba%d0%b0-%d0%b3%d1%80%d0%b0%d1%84%d0%b0-%d0%bd%d0%b0-%d1%83%d0%b6%d0%b0%d1%81%d0%b8%d1%82%d0%b5',
+    link: '/news/fotorazhodka-grafa-na-uzhasite',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, Йорданка Фандъкова, конкурс, Петър Диков, пешеходни пространства, ремонти, Столична община, улица',
     gps: '42.690359, 23.326287',
@@ -2663,8 +2659,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/05/tn1_1362477316.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b1%d1%80%d0%b0%d1%82%d0%be%d0%b5%d0%b2-%d1%81%d1%82%d0%b0%d0%bd%d1%86%d0%b8%d1%8f%d1%82%d0%b0-%d0%b2-%d0%bc%d0%be%d0%b4%d0%b5%d1%80%d0%bd%d0%be-%d0%bf%d1%80%d0%b5%d0%b4%d0%b3%d1%80%d0%b0%d0%b4.html',
-    link: '/news/bratoev-stantsiyata-v-moderno-predgradie-shte-reshi-problemite-s-intervalite.html',
+      'https://spasisofia.org/bg/%d0%b1%d1%80%d0%b0%d1%82%d0%be%d0%b5%d0%b2-%d1%81%d1%82%d0%b0%d0%bd%d1%86%d0%b8%d1%8f%d1%82%d0%b0-%d0%b2-%d0%bc%d0%be%d0%b4%d0%b5%d1%80%d0%bd%d0%be-%d0%bf%d1%80%d0%b5%d0%b4%d0%b3%d1%80%d0%b0%d0%b4',
+    link: '/news/bratoev-stantsiyata-v-moderno-predgradie-shte-reshi-problemite-s-intervalite',
     topic: 'Транспорт и инфраструктура',
     tags: 'метро, метростанция, Модерно предградие, Стоян Братоев',
     gps: '42.74291657233513, 23.27796369834698',
@@ -2681,8 +2677,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/04/0443207001400481568_535407_600x458-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bd%d0%b0%d1%81%d1%82%d0%be%d1%8f%d0%b2%d0%b0%d0%bc%d0%b5-%d0%b7%d0%b0-%d0%be%d1%82%d0%bc%d1%8f%d0%bd%d0%b0-%d1%86%d0%b5%d0%bd%d0%b0-%d0%bd%d0%b0-%d0%b1%d0%b8%d0%bb%d0%b5%d1%82%d0%b0.html',
-    link: '/news/nastoyavame-za-otmyana-na-novata-tsena-na-bileta.html',
+      'https://spasisofia.org/bg/%d0%bd%d0%b0%d1%81%d1%82%d0%be%d1%8f%d0%b2%d0%b0%d0%bc%d0%b5-%d0%b7%d0%b0-%d0%be%d1%82%d0%bc%d1%8f%d0%bd%d0%b0-%d1%86%d0%b5%d0%bd%d0%b0-%d0%bd%d0%b0-%d0%b1%d0%b8%d0%bb%d0%b5%d1%82%d0%b0',
+    link: '/news/nastoyavame-za-otmyana-na-novata-tsena-na-bileta',
     topic: 'Проекти и реформи',
     tags: 'билети, градски транспорт, мобилност, ЦГМ',
     gps: '42.69708787733038, 23.331701284653537',
@@ -2699,8 +2695,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/04/katastrofa_sf-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b4%d0%b8%d1%80%d0%b5%d0%ba%d1%82%d0%be%d1%80%d0%b8-%d1%86%d0%b3%d0%bc-%d1%83%d0%b2%d0%be%d0%bb%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5.html',
-    link: '/news/zashto-direktorite-v-tsgm-tryabva-da-badat-uvolneni.html',
+      'https://spasisofia.org/bg/%d0%b4%d0%b8%d1%80%d0%b5%d0%ba%d1%82%d0%be%d1%80%d0%b8-%d1%86%d0%b3%d0%bc-%d1%83%d0%b2%d0%be%d0%bb%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5',
+    link: '/news/zashto-direktorite-v-tsgm-tryabva-da-badat-uvolneni',
     topic: 'Проекти и реформи',
     tags: 'градски транспорт, далавери, Любомир Христов, Симеон Арнаудов, София, Спаси София, Фандъкова, ЦГМ',
     gps: '42.672984359830664, 23.29329275486883',
@@ -2717,8 +2713,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/04/12439434_289364074728638_1991219998113535800_n-600x348.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b4%d0%b0-%d0%ba%d0%b0%d0%b6%d0%b5%d0%bc-%d0%bd%d0%b5-%d0%b1%d0%b8%d0%bb%d0%b5%d1%82-%d0%b7%d0%b0-1-60.html',
-    link: '/news/da-kazhem-ne-na-bileta-za-160.html',
+      'https://spasisofia.org/bg/%d0%b4%d0%b0-%d0%ba%d0%b0%d0%b6%d0%b5%d0%bc-%d0%bd%d0%b5-%d0%b1%d0%b8%d0%bb%d0%b5%d1%82-%d0%b7%d0%b0-1-60',
+    link: '/news/da-kazhem-ne-na-bileta-za-160',
     topic: 'Проекти и реформи',
     tags: 'Антон Деспотов, билети, градски транспорт, Любомир Христов, Симеон Арнаудов, ЦГМ',
     gps: '42.69737953964299, 23.33228062472351',
@@ -2735,8 +2731,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/03/%D0%BB%D1%8E%D0%B1%D0%BE%D0%BC%D0%B8%D1%80-%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bd%d0%be%d0%b2%d0%b0-%d0%ba%d0%be%d0%bd%d1%86%d0%b5%d1%81%d0%b8%d1%8f-%d0%b0%d0%b2%d1%82%d0%be%d0%b1%d1%83%d1%81%d0%b8-141-%d0%bc%d0%bb%d0%bd-%d0%bb%d0%b2.html',
-    link: '/news/obshtinata-dava-nova-kontsesiya-za-avtobusni-linii-za-141-mln-lv.html',
+      'https://spasisofia.org/bg/%d0%bd%d0%be%d0%b2%d0%b0-%d0%ba%d0%be%d0%bd%d1%86%d0%b5%d1%81%d0%b8%d1%8f-%d0%b0%d0%b2%d1%82%d0%be%d0%b1%d1%83%d1%81%d0%b8-141-%d0%bc%d0%bb%d0%bd-%d0%bb%d0%b2',
+    link: '/news/obshtinata-dava-nova-kontsesiya-za-avtobusni-linii-za-141-mln-lv',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, Йорданка Фандъкова, концесия, Столична община, тарифна политика',
     gps: '42.696993168011076, 23.33129357175483',
@@ -2753,8 +2749,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/03/comic-600x400.png',
     oldLink:
-      'https://spasisofia.org/bg/10-%d0%b7%d0%b0%d1%89%d0%be-%d0%b1%d0%b8%d0%bb%d0%b5%d1%82%d0%b8%d1%82%d0%b5-%d0%bf%d0%be%d1%81%d0%ba%d1%8a%d0%bf%d0%b2%d0%b0%d1%82.html',
-    link: '/news/10-prichini-zashto-biletite-ne-biva-da-poskapvat.html',
+      'https://spasisofia.org/bg/10-%d0%b7%d0%b0%d1%89%d0%be-%d0%b1%d0%b8%d0%bb%d0%b5%d1%82%d0%b8%d1%82%d0%b5-%d0%bf%d0%be%d1%81%d0%ba%d1%8a%d0%bf%d0%b2%d0%b0%d1%82',
+    link: '/news/10-prichini-zashto-biletite-ne-biva-da-poskapvat',
     topic: 'Транспорт и инфраструктура',
     tags: 'билети, Любомир Христов, Столична община, тарифна политика, ЦГМ',
     gps: '42.69690643119189, 23.332066047991187',
@@ -2771,8 +2767,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/03/57786714-6d15-fda5-600x393.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2-%d1%86%d0%b5%d0%bd%d0%b0-%d0%bd%d0%b0-%d0%b1%d0%b8%d0%bb%d0%b5%d1%82%d0%b0-%d0%be%d1%82-1-60-%d0%bb%d0%b2.html',
-    link: '/news/spasi-sofia-protiv-tsena-na-bileta-ot-160-lv.html',
+      'https://spasisofia.org/bg/%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2-%d1%86%d0%b5%d0%bd%d0%b0-%d0%bd%d0%b0-%d0%b1%d0%b8%d0%bb%d0%b5%d1%82%d0%b0-%d0%be%d1%82-1-60-%d0%bb%d0%b2',
+    link: '/news/spasi-sofia-protiv-tsena-na-bileta-ot-160-lv',
     topic: 'Проекти и реформи',
     tags: 'билети, Любомир Христов, Столична община, тарифна политика',
     gps: '42.69706413440944, 23.331626165689926',
@@ -2789,8 +2785,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/03/20160227_155419-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d1%82%d1%80%d1%8f%d1%81%d0%ba%d0%b0%d1%89%d0%b0-%d1%80%d0%b0%d0%b7%d1%80%d1%83%d1%85%d0%b0-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-%d0%b1%d0%b5%d0%b7%d1%83%d0%bc%d0%b8%d0%b5.html',
-    link: '/news/stryaskashta-razruha-tramvay-bezumie-edna-godina-pokasno.html',
+      'https://spasisofia.org/bg/%d1%81%d1%82%d1%80%d1%8f%d1%81%d0%ba%d0%b0%d1%89%d0%b0-%d1%80%d0%b0%d0%b7%d1%80%d1%83%d1%85%d0%b0-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-%d0%b1%d0%b5%d0%b7%d1%83%d0%bc%d0%b8%d0%b5',
+    link: '/news/stryaskashta-razruha-tramvay-bezumie-edna-godina-pokasno',
     topic: 'Транспорт и инфраструктура',
     tags: 'трамвай безумие, ремонти, Йорданка Фандъкова',
     gps: '42.68022444488366, 23.30348482664151',
@@ -2807,8 +2803,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/02/12027391_1695210520763622_8817299604060474711_o-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%bd%d0%be-%d0%bd%d0%b0%d1%81%d0%bb%d0%b5%d0%b4%d1%81%d1%82%d0%b2%d0%be.html',
-    link: '/news/otvoreno-pismo-do-borisov-rashidov-i-fandakova-za-opazvane-na-arhitekturnoto-nasledstvo.html',
+      'https://spasisofia.org/bg/%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%bd%d0%be-%d0%bd%d0%b0%d1%81%d0%bb%d0%b5%d0%b4%d1%81%d1%82%d0%b2%d0%be',
+    link: '/news/otvoreno-pismo-do-borisov-rashidov-i-fandakova-za-opazvane-na-arhitekturnoto-nasledstvo',
     topic: 'Образование и култура',
     tags: 'архитектурни паметници, Вежди Рашидов, Йорданка Фандъкова, културно наследство, паметник, стара София',
     gps: '42.69760842570014, 23.330218913444337',
@@ -2825,8 +2821,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/02/konkurs-za-novo-lice.png',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d0%be%d0%bd%d0%ba%d1%83%d1%80%d1%81-%d0%b7%d0%b0-%d0%bd%d0%be%d0%b2%d0%be-%d0%bb%d0%b8%d1%86%d0%b5.html',
-    link: '/news/konkurs-za-novo-litse.html',
+      'https://spasisofia.org/bg/%d0%ba%d0%be%d0%bd%d0%ba%d1%83%d1%80%d1%81-%d0%b7%d0%b0-%d0%bd%d0%be%d0%b2%d0%be-%d0%bb%d0%b8%d1%86%d0%b5',
+    link: '/news/konkurs-za-novo-litse',
     topic: 'Проекти и реформи',
     tags: 'главен архитект, Йорданка Фандъкова, конкурс, Петър Диков, реформа, Столична община',
     gps: '42.699384212644865, 23.324478886464185',
@@ -2843,8 +2839,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/02/0802-oleg-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%89%d0%be-%d1%84%d0%b0%d0%bd%d0%b4%d1%8a%d0%ba%d0%be%d0%b2%d0%b0.html',
-    link: '/news/zashto-gzho-fandakova.html',
+      'https://spasisofia.org/bg/%d0%b7%d0%b0%d1%89%d0%be-%d1%84%d0%b0%d0%bd%d0%b4%d1%8a%d0%ba%d0%be%d0%b2%d0%b0',
+    link: '/news/zashto-gzho-fandakova',
     topic: 'Град за хората',
     tags: 'Йорданка Фандъкова, протест, София, Спаси София, Спаси шестицата, трамвай, Фандъкова, шестицата',
     gps: '42.68953630142487, 23.313756040493733',
@@ -2861,8 +2857,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/06/tema-bobi-splash-screen-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bd%d0%be%d0%b2-%d0%b3%d0%bb%d0%b0%d0%b2%d0%b5%d0%bd-%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82-%d0%b0-%d1%80%d0%b5%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b0.html',
-    link: '/news/nov-glaven-arhitekt-li-a-reformata.html',
+      'https://spasisofia.org/bg/%d0%bd%d0%be%d0%b2-%d0%b3%d0%bb%d0%b0%d0%b2%d0%b5%d0%bd-%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82-%d0%b0-%d1%80%d0%b5%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b0',
+    link: '/news/nov-glaven-arhitekt-li-a-reformata',
     topic: 'Проекти и реформи',
     tags: 'главен архитект, Петър Диков, Столична община',
     gps: '42.698746935378935, 23.330844449932435',
@@ -2879,8 +2875,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/01/spasi-shestitsata-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d0%b1%d0%be%d0%b3%d0%be%d0%bc-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-6.html',
-    link: '/news/sbogom-tramvay-6.html',
+      'https://spasisofia.org/bg/%d1%81%d0%b1%d0%be%d0%b3%d0%be%d0%bc-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-6',
+    link: '/news/sbogom-tramvay-6',
     topic: 'Транспорт и инфраструктура',
     tags: 'Йорданка Фандъкова, Любомир Христов, НДК, Петър Диков, ремонти, трамвай',
     gps: '42.69943940661411, 23.324403784607867',
@@ -2897,8 +2893,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2016/01/desktop-1425311623.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%bf%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%be-%d0%bd%d0%b5%d0%b8%d0%b7%d0%bf%d1%8a%d0%bb%d0%bd%d0%b5%d0%bd%d0%b0-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%b0-2015.html',
-    link: '/news/kapitalno-neizpalnena-programa-2015.html',
+      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%bf%d0%b8%d1%82%d0%b0%d0%bb%d0%bd%d0%be-%d0%bd%d0%b5%d0%b8%d0%b7%d0%bf%d1%8a%d0%bb%d0%bd%d0%b5%d0%bd%d0%b0-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%b0-2015',
+    link: '/news/kapitalno-neizpalnena-programa-2015',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, капиталова програма, Любомир Христов, ремонти, Столична община, улична мрежа',
     gps: '42.69700111980917, 23.33159399420704',
@@ -2915,8 +2911,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/12/compare-bus-exterior.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b8-%d0%bb%d0%be%d1%88%d0%b8-%d0%bd%d0%be%d0%b2%d0%b8%d0%bd%d0%b8-%d0%b7%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f.html',
-    link: '/news/tri-loshi-novini-za-sofia.html',
+      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b8-%d0%bb%d0%be%d1%88%d0%b8-%d0%bd%d0%be%d0%b2%d0%b8%d0%bd%d0%b8-%d0%b7%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f',
+    link: '/news/tri-loshi-novini-za-sofia',
     topic: 'Транспорт и инфраструктура',
     tags: 'автобус, градски транспорт, дондуков, Йорданка Фандъкова, Столична община, трамвай',
     gps: '42.68183696469137, 23.278068739522368',
@@ -2933,8 +2929,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/12/oo_18455912-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b2%d0%b4%d0%b8%d0%b3%d0%b0%d0%bd%d0%b5%d1%82%d0%be-%d0%bd%d0%b0-%d0%b4%d0%b0%d0%bd%d1%8a%d0%ba-%d1%81%d0%b3%d1%80%d0%b0%d0%b4%d0%b8-%d0%bd%d1%8f%d0%bc%d0%b0-%d0%b4%d0%b0-%d1%81%d0%bf%d0%b0%d1%81.html',
-    link: '/news/vdiganeto-na-danaksgradi-nyama-da-spasi-gradskata-sreda.html',
+      'https://spasisofia.org/bg/%d0%b2%d0%b4%d0%b8%d0%b3%d0%b0%d0%bd%d0%b5%d1%82%d0%be-%d0%bd%d0%b0-%d0%b4%d0%b0%d0%bd%d1%8a%d0%ba-%d1%81%d0%b3%d1%80%d0%b0%d0%b4%d0%b8-%d0%bd%d1%8f%d0%bc%d0%b0-%d0%b4%d0%b0-%d1%81%d0%bf%d0%b0%d1%81',
+    link: '/news/vdiganeto-na-danaksgradi-nyama-da-spasi-gradskata-sreda',
     topic: 'Град за хората',
     tags: 'данък-сгради, данъци, местни данъци',
     gps: '42.697040545590994, 23.33146524816764',
@@ -2951,8 +2947,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/12/reforma-NAG-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d0%b5%d0%b3%d0%b0-%d0%b5-%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d1%82%d0%be-%d0%b7%d0%b0-%d1%80%d0%b5%d1%84%d0%be%d1%80%d0%bc%d0%b0-%d0%bd%d0%b0%d0%b3.html',
-    link: '/news/sega-e-vremeto-za-reforma-na-nag.html',
+      'https://spasisofia.org/bg/%d1%81%d0%b5%d0%b3%d0%b0-%d0%b5-%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d1%82%d0%be-%d0%b7%d0%b0-%d1%80%d0%b5%d1%84%d0%be%d1%80%d0%bc%d0%b0-%d0%bd%d0%b0%d0%b3',
+    link: '/news/sega-e-vremeto-za-reforma-na-nag',
     topic: 'Проекти и реформи',
     tags: 'Йорданка Фандъкова, Петър Диков',
     gps: '42.6995103702167, 23.32445742882965',
@@ -2969,8 +2965,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/10/complilation-2-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b8%d1%80%d0%b0%d0%bd%d0%b8%d1%8f%d1%82-%d0%b8%d0%b7%d0%b1%d0%be%d1%80-%d0%b5-%d0%b7%d0%b0%d0%b4%d1%8a%d0%bb%d0%b6%d0%b8%d1%82%d0%b5%d0%bb%d0%b5%d0%bd.html',
-    link: '/news/informiraniyat-izbor-e-zadalzhitelen.html',
+      'https://spasisofia.org/bg/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b8%d1%80%d0%b0%d0%bd%d0%b8%d1%8f%d1%82-%d0%b8%d0%b7%d0%b1%d0%be%d1%80-%d0%b5-%d0%b7%d0%b0%d0%b4%d1%8a%d0%bb%d0%b6%d0%b8%d1%82%d0%b5%d0%bb%d0%b5%d0%bd',
+    link: '/news/informiraniyat-izbor-e-zadalzhitelen',
     topic: 'Град за хората',
     tags: 'кандидат-кмет, местни избори',
     gps: '42.69696169400233, 23.33157253631635',
@@ -2987,8 +2983,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/10/Pic9f_Sofia-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d0%b5%d1%80%d0%b8%d0%be%d0%b7%d0%bd%d0%b8-%d1%81%d1%8a%d0%bc%d0%bd%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d0%b8%d1%82%d0%b5-%d1%80%d0%b5%d0%bb%d1%81%d0%b8.html',
-    link: '/news/svetovni-eksperti-sas-seriozni-samneniya-za-kachestvoto-na-zelenite-relsi-na-ruski-pametnik.html',
+      'https://spasisofia.org/bg/%d1%81%d0%b5%d1%80%d0%b8%d0%be%d0%b7%d0%bd%d0%b8-%d1%81%d1%8a%d0%bc%d0%bd%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d0%b8%d1%82%d0%b5-%d1%80%d0%b5%d0%bb%d1%81%d0%b8',
+    link: '/news/svetovni-eksperti-sas-seriozni-samneniya-za-kachestvoto-na-zelenite-relsi-na-ruski-pametnik',
     topic: 'Транспорт и инфраструктура',
     tags: 'зелените релси, руски паметник, Столична община, трамвай',
     gps: '42.69218446456121, 23.310574359050914',
@@ -3005,8 +3001,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/10/12036887_1644285255856149_1380640274430636041_n.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9%d0%bd%d0%b8-%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82%d0%b8-%d0%b0%d0%bc%d0%b0-%d0%b4%d1%80%d1%83%d0%b3-%d0%bf%d1%8a%d1%82.html',
-    link: '/news/tramvayni-remonti-ama-drug-pat.html',
+      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9%d0%bd%d0%b8-%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82%d0%b8-%d0%b0%d0%bc%d0%b0-%d0%b4%d1%80%d1%83%d0%b3-%d0%bf%d1%8a%d1%82',
+    link: '/news/tramvayni-remonti-ama-drug-pat',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, Любомир Христов, ремонти, трамвай',
     gps: '42.698412672458666, 23.330707820373163',
@@ -3023,8 +3019,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/10/12107115_10206483582146163_9193292796745277924_n-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b0%d0%bd%d1%82%d0%b8%d1%87%d0%ba%d0%b0-%d1%81%d0%b5%d1%80%d0%b4%d0%b8%d0%ba%d0%b0-%d0%b4%d0%be-%d0%ba%d0%bb%d1%8e%d1%87.html',
-    link: '/news/antichka-serdika-do-klyuch.html',
+      'https://spasisofia.org/bg/%d0%b0%d0%bd%d1%82%d0%b8%d1%87%d0%ba%d0%b0-%d1%81%d0%b5%d1%80%d0%b4%d0%b8%d0%ba%d0%b0-%d0%b4%d0%be-%d0%ba%d0%bb%d1%8e%d1%87',
+    link: '/news/antichka-serdika-do-klyuch',
     topic: 'Образование и култура',
     tags: 'археология, градска среда, площад, реставрация, сердика',
     gps: '42.69828200290142, 23.32331586038786',
@@ -3041,8 +3037,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/10/mestni-izbori-2015-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%bd%d0%b4%d0%b8%d0%b4%d0%b0%d1%82-%d0%ba%d0%bc%d0%b5%d1%82-%d1%81%d1%82%d0%b0%d0%bd%d0%b8-%d0%ba%d0%b0%d0%bd%d0%b4%d0%b8%d0%b4%d0%b0%d1%82-%d0%ba%d0%bc%d0%b5%d1%82-%d0%bc%d0%b8%d1%80.html',
-    link: '/news/kandidatkmet-stani-kandidatkmet-mirno.html',
+      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%bd%d0%b4%d0%b8%d0%b4%d0%b0%d1%82-%d0%ba%d0%bc%d0%b5%d1%82-%d1%81%d1%82%d0%b0%d0%bd%d0%b8-%d0%ba%d0%b0%d0%bd%d0%b4%d0%b8%d0%b4%d0%b0%d1%82-%d0%ba%d0%bc%d0%b5%d1%82-%d0%bc%d0%b8%d1%80',
+    link: '/news/kandidatkmet-stani-kandidatkmet-mirno',
     topic: 'Проекти и реформи',
     tags: 'местни избори, предизборна кампания, предизборна програма',
     gps: '42.697079971347776, 23.331712011177324',
@@ -3059,8 +3055,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/08/LYUBOMIR-HRISTOV-INFRASTRUKTURA-1024x683.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d1%80%d1%8a%d1%81%d1%82%d0%be%d0%b2%d0%b8%d1%89%d0%b5-%d0%bd%d0%b0-%d0%b4%d0%b2%d0%b5-%d0%bd%d0%b8%d0%b2%d0%b0-25-%d0%bc%d0%bb%d0%bd-%d0%bb%d0%b2.html',
-    link: '/news/krastovishte-na-dve-niva-kak-se-harchat-25-miliona.html',
+      'https://spasisofia.org/bg/%d0%ba%d1%80%d1%8a%d1%81%d1%82%d0%be%d0%b2%d0%b8%d1%89%d0%b5-%d0%bd%d0%b0-%d0%b4%d0%b2%d0%b5-%d0%bd%d0%b8%d0%b2%d0%b0-25-%d0%bc%d0%bb%d0%bd-%d0%bb%d0%b2',
+    link: '/news/krastovishte-na-dve-niva-kak-se-harchat-25-miliona',
     topic: 'Град за хората',
     tags: 'България, Гешов, градски транспорт, кръстовище на две нива, пешеходни пространства, улична мрежа',
     gps: '42.679173137587846, 23.302516102655645',
@@ -3077,8 +3073,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/09/s1-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%ba-%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%bd%d0%be%d1%81%d1%82%d1%82%d0%b0-%d0%b4%d0%b0-%d1%81%d1%82%d0%b0%d0%bd%d0%b5-%d0%b5%d0%b6%d0%b5%d0%b4%d0%bd%d0%b5%d0%b2%d0%b8%d0%b5.html',
-    link: '/news/kak-evropeyskata-sedmitsa-na-mobilnostta-da-stane-sofiysko-ezhednevie.html',
+      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%ba-%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%bd%d0%be%d1%81%d1%82%d1%82%d0%b0-%d0%b4%d0%b0-%d1%81%d1%82%d0%b0%d0%bd%d0%b5-%d0%b5%d0%b6%d0%b5%d0%b4%d0%bd%d0%b5%d0%b2%d0%b8%d0%b5',
+    link: '/news/kak-evropeyskata-sedmitsa-na-mobilnostta-da-stane-sofiysko-ezhednevie',
     topic: 'Град за хората',
     tags: 'градска среда, градски транспорт, Европейска комисия, Любомир Христов, мобилност, Петър Диков',
     gps: '42.69062639468973, 23.328940056266813',
@@ -3095,8 +3091,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/07/serdika-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bd%d0%be%d0%b2%d0%b0%d1%82%d0%b0-%d0%ba%d0%b0%d1%80%d1%82%d0%b0-%d0%bd%d0%b0-%d0%bc%d0%b5%d1%82%d1%80%d0%be%d1%82%d0%be-%d0%b5-%d0%bf%d1%80%d0%b5%d0%ba%d1%80%d0%b0%d1%81%d0%bd%d0%b0.html',
-    link: '/news/kameran-but-novata-geografska-karta-na-metroto-e-prosto-prekrasna.html',
+      'https://spasisofia.org/bg/%d0%bd%d0%be%d0%b2%d0%b0%d1%82%d0%b0-%d0%ba%d0%b0%d1%80%d1%82%d0%b0-%d0%bd%d0%b0-%d0%bc%d0%b5%d1%82%d1%80%d0%be%d1%82%d0%be-%d0%b5-%d0%bf%d1%80%d0%b5%d0%ba%d1%80%d0%b0%d1%81%d0%bd%d0%b0',
+    link: '/news/kameran-but-novata-geografska-karta-na-metroto-e-prosto-prekrasna',
     topic: 'Транспорт и инфраструктура',
     tags: 'карта, карта метро, схеми метро',
     gps: '42.68621625614309, 23.332085184581132',
@@ -3113,8 +3109,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/06/IMAG1651-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b2%d0%b8%d1%82%d0%be%d1%88%d0%b0-%d0%b5-%d0%bf%d0%be%d1%87%d1%82%d0%b8-%d0%b3%d0%be%d1%82%d0%be%d0%b2-%d0%b4%d0%b0-%d1%80%d1%83%d1%85%d0%bd%d0%b5.html',
-    link: '/news/bulevard-vitosha-e-pochti-gotov-da-ruhne.html',
+      'https://spasisofia.org/bg/%d0%b2%d0%b8%d1%82%d0%be%d1%88%d0%b0-%d0%b5-%d0%bf%d0%be%d1%87%d1%82%d0%b8-%d0%b3%d0%be%d1%82%d0%be%d0%b2-%d0%b4%d0%b0-%d1%80%d1%83%d1%85%d0%bd%d0%b5',
+    link: '/news/bulevard-vitosha-e-pochti-gotov-da-ruhne',
     topic: 'Град за хората',
     tags: 'Витоша, градска среда, Йорданка Фандъкова, Петър Диков, пешеходни пространства, Столична община',
     gps: '42.68601684733704, 23.317960633457595',
@@ -3131,8 +3127,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/06/unnamed-5-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%bc%d1%8a%d0%bd%d0%b8%d1%82%d0%b5-%d0%bf%d0%b0%d0%b4%d0%b0%d1%82-%d0%b2%d1%8a%d1%80%d1%85%d1%83-%d1%81%d0%b5%d1%80%d0%b4%d0%b8%d0%ba%d0%b0%d1%82%d0%b0-%d0%bf%d0%b0%d0%b4%d0%b0%d1%82.html',
-    link: '/news/kamanite-padat-varhu-serdikata-padat.html',
+      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%bc%d1%8a%d0%bd%d0%b8%d1%82%d0%b5-%d0%bf%d0%b0%d0%b4%d0%b0%d1%82-%d0%b2%d1%8a%d1%80%d1%85%d1%83-%d1%81%d0%b5%d1%80%d0%b4%d0%b8%d0%ba%d0%b0%d1%82%d0%b0-%d0%bf%d0%b0%d0%b4%d0%b0%d1%82',
+    link: '/news/kamanite-padat-varhu-serdikata-padat',
     topic: 'Образование и култура',
     tags: 'археология, Вежди Рашидов, Министерство на културата, Сердика',
     gps: '42.69777487061064, 23.3231780056985',
@@ -3149,8 +3145,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/06/tema-bobi-splash-screen-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bb%d1%8a%d0%b6%d0%b5%d1%86-%d0%bb%d0%b8-%d0%b5-%d0%bf%d0%b5%d1%82%d1%8a%d1%80-%d0%b4%d0%b8%d0%ba%d0%be%d0%b2.html',
-    link: '/news/lazhets-li-e-petar-dikov.html',
+      'https://spasisofia.org/bg/%d0%bb%d1%8a%d0%b6%d0%b5%d1%86-%d0%bb%d0%b8-%d0%b5-%d0%bf%d0%b5%d1%82%d1%8a%d1%80-%d0%b4%d0%b8%d0%ba%d0%be%d0%b2',
+    link: '/news/lazhets-li-e-petar-dikov',
     topic: 'Транспорт и инфраструктура',
     tags: 'BUS ленти, Евлоги Георгиев, Петър Диков, Столична община',
     gps: '42.69134924467352, 23.339787559407092',
@@ -3167,8 +3163,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/05/logos1-600x254.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%b7%d0%b0%d0%b5%d0%b4%d0%bd%d0%be-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b2%d0%b5%d1%87%d0%b5-%d0%b1%d1%83%d1%81-%d0%bb%d0%b5%d0%bd%d1%82%d0%b8.html',
-    link: '/news/zaedno-za-poveche-bus-lenti.html',
+      'https://spasisofia.org/bg/%d0%b7%d0%b0%d0%b5%d0%b4%d0%bd%d0%be-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b2%d0%b5%d1%87%d0%b5-%d0%b1%d1%83%d1%81-%d0%bb%d0%b5%d0%bd%d1%82%d0%b8',
+    link: '/news/zaedno-za-poveche-bus-lenti',
     topic: 'Транспорт и инфраструктура',
     tags: 'BUS ленти, МРРБ',
     gps: '42.697048430744346, 23.331669096241612',
@@ -3185,8 +3181,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/05/tm-1-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d0%be%d1%84%d0%b8%d0%b9%d1%81%d0%ba%d0%b8%d1%82%d0%b5-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b8-%d0%bf%d0%be-%d0%b1%d1%8a%d1%80%d0%b7%d0%b8.html',
-    link: '/news/shte-stanat-li-sofiyskite-tramvai-pobarzi.html',
+      'https://spasisofia.org/bg/%d1%81%d0%be%d1%84%d0%b8%d0%b9%d1%81%d0%ba%d0%b8%d1%82%d0%b5-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b8-%d0%bf%d0%be-%d0%b1%d1%8a%d1%80%d0%b7%d0%b8',
+    link: '/news/shte-stanat-li-sofiyskite-tramvai-pobarzi',
     topic: 'Транспорт и инфраструктура',
     tags: 'автономно трасе, Столична община, трамвай',
     gps: '42.68917750103191, 23.31426961104775',
@@ -3203,8 +3199,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/04/11180383_10203636644667805_2013544799_o-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-%d0%b1%d0%b5%d0%b7%d1%83%d0%bc%d0%b8%d0%b5-%d1%84%d0%b0%d0%bd%d0%b4%d1%8a%d0%ba%d0%be%d0%b2%d0%b0-%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d1%81%d0%be%d1%84%d0%b8.html',
-    link: '/news/tramvay-bezumie-fandakova-vs-spasi-sofia.html',
+      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-%d0%b1%d0%b5%d0%b7%d1%83%d0%bc%d0%b8%d0%b5-%d1%84%d0%b0%d0%bd%d0%b4%d1%8a%d0%ba%d0%be%d0%b2%d0%b0-%d1%81%d0%bf%d0%b0%d1%81%d0%b8-%d1%81%d0%be%d1%84%d0%b8',
+    link: '/news/tramvay-bezumie-fandakova-vs-spasi-sofia',
     topic: 'Транспорт и инфраструктура',
     tags: 'Йорданка Фандъкова, ремонти, Столична община, трамвай безумие',
     gps: '42.67830801576076, 23.2980260318876',
@@ -3221,8 +3217,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/04/IMG_0333-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d0%be%d0%b4%d0%bb%d0%b5%d0%b7%d1%8a%d1%82-%d0%bd%d0%b0-%d0%bd%d0%b4%d0%ba-%d0%b5-%d0%b2-%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82.html',
-    link: '/news/sled-dazhd-kachulka-podlezat-na-ndk-e-v-remont.html',
+      'https://spasisofia.org/bg/%d0%bf%d0%be%d0%b4%d0%bb%d0%b5%d0%b7%d1%8a%d1%82-%d0%bd%d0%b0-%d0%bd%d0%b4%d0%ba-%d0%b5-%d0%b2-%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82',
+    link: '/news/sled-dazhd-kachulka-podlezat-na-ndk-e-v-remont',
     topic: 'Транспорт и инфраструктура',
     tags: 'инфраструктура, НДК, пешеходни пространства, подлез, Столична община',
     gps: '42.68908286713294, 23.31781012674935',
@@ -3239,8 +3235,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/03/20150315_1534530-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b8-%d0%b0%d0%bf%d0%b0%d1%80%d1%82%d0%b0%d0%bc%d0%b5%d0%bd%d1%82%d0%b0-%d1%81%d0%bf%d0%b8%d1%80%d0%b0%d1%82-%d1%81%d0%b0%d0%bd%d0%b8%d1%80%d0%b0%d0%bd%d0%b5%d1%82%d0%be-%d0%bd.html',
-    link: '/news/tri-apartamenta-spirat-saniraneto-na-ostanalite-180.html',
+      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b8-%d0%b0%d0%bf%d0%b0%d1%80%d1%82%d0%b0%d0%bc%d0%b5%d0%bd%d1%82%d0%b0-%d1%81%d0%bf%d0%b8%d1%80%d0%b0%d1%82-%d1%81%d0%b0%d0%bd%d0%b8%d1%80%d0%b0%d0%bd%d0%b5%d1%82%d0%be-%d0%bd',
+    link: '/news/tri-apartamenta-spirat-saniraneto-na-ostanalite-180',
     topic: 'Проекти и реформи',
     tags: 'панелни блокове, ремонти, саниране',
     gps: '42.66211886081035, 23.26744269127111',
@@ -3257,8 +3253,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/03/Hungary-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%81%d0%b0%d0%bd%d0%b8%d1%80%d0%b0%d0%bd%d0%b5%d1%82%d0%be-%d0%bc%d0%b8%d1%81%d0%b8%d1%8f-%d0%b2%d1%8a%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%b0.html',
-    link: '/news/saniraneto--misiya-vazmozhna.html',
+      'https://spasisofia.org/bg/%d1%81%d0%b0%d0%bd%d0%b8%d1%80%d0%b0%d0%bd%d0%b5%d1%82%d0%be-%d0%bc%d0%b8%d1%81%d0%b8%d1%8f-%d0%b2%d1%8a%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%b0',
+    link: '/news/saniraneto--misiya-vazmozhna',
     topic: 'Проекти и реформи',
     tags: 'панелни блокове, ремонти, саниране',
     gps: '42.66925063825183, 23.392583832165162',
@@ -3275,8 +3271,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/03/10984236_1568181453466530_8676606728552287246_n-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d1%8a%d0%b4%d0%b5-%d1%81%d0%b0-%d0%b2%d0%b0%d0%bd%d0%b4%d0%b0%d0%bb%d0%b8%d1%82%d0%b5-%d0%be%d1%82-%d0%bf%d0%be%d0%b4%d0%bb%d0%b5%d0%b7%d0%b0.html',
-    link: '/news/kade-sa-vandalite-ot-podleza.html',
+      'https://spasisofia.org/bg/%d0%ba%d1%8a%d0%b4%d0%b5-%d1%81%d0%b0-%d0%b2%d0%b0%d0%bd%d0%b4%d0%b0%d0%bb%d0%b8%d1%82%d0%b5-%d0%be%d1%82-%d0%bf%d0%be%d0%b4%d0%bb%d0%b5%d0%b7%d0%b0',
+    link: '/news/kade-sa-vandalite-ot-podleza',
     topic: 'Транспорт и инфраструктура',
     tags: 'вандализъм, метростанция, НДК',
     gps: '42.685341695304714, 23.319277592056537',
@@ -3293,8 +3289,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/03/IMAG0978-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bf%d0%be%d0%b4%d0%bb%d0%b5%d0%b7%d1%8a%d1%82-%d0%bd%d0%b0-%d0%bd%d0%b4%d0%ba-%d1%83%d0%b6%d0%b0%d1%81%d0%b8%d1%82%d0%b5.html',
-    link: '/news/podlezat-na-ndk-uzhasite.html',
+      'https://spasisofia.org/bg/%d0%bf%d0%be%d0%b4%d0%bb%d0%b5%d0%b7%d1%8a%d1%82-%d0%bd%d0%b0-%d0%bd%d0%b4%d0%ba-%d1%83%d0%b6%d0%b0%d1%81%d0%b8%d1%82%d0%b5',
+    link: '/news/podlezat-na-ndk-uzhasite',
     topic: 'Транспорт и инфраструктура',
     tags: 'метростанция, НДК, подлез',
     gps: '42.68930054051947, 23.319083512414046',
@@ -3311,8 +3307,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/03/tram-peroni-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%ba%d0%b2%d0%be-%d0%bc%d0%be%d0%b6%d0%b5%d1%88%d0%b5-%d0%b4%d0%b0-%d0%b1%d1%8a%d0%b4%d0%b5-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-%d0%b1%d0%b5%d0%b7%d1%83%d0%bc%d0%b8%d0%b5.html',
-    link: '/news/kakvo-tryabva-da-se-napravi-za-tramvay-bezumie.html',
+      'https://spasisofia.org/bg/%d0%ba%d0%b0%d0%ba%d0%b2%d0%be-%d0%bc%d0%be%d0%b6%d0%b5%d1%88%d0%b5-%d0%b4%d0%b0-%d0%b1%d1%8a%d0%b4%d0%b5-%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-%d0%b1%d0%b5%d0%b7%d1%83%d0%bc%d0%b8%d0%b5',
+    link: '/news/kakvo-tryabva-da-se-napravi-za-tramvay-bezumie',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, СК- 13, Столична община',
     gps: '42.682869719388556, 23.314443500521076',
@@ -3329,8 +3325,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/03/IMAG0948-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-%d0%b1%d0%b5%d0%b7%d1%83%d0%bc%d0%b8%d0%b5-%d0%b5-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%8f.html',
-    link: '/news/tramvay-bezumie-e-na-bul-balgariya.html',
+      'https://spasisofia.org/bg/%d1%82%d1%80%d0%b0%d0%bc%d0%b2%d0%b0%d0%b9-%d0%b1%d0%b5%d0%b7%d1%83%d0%bc%d0%b8%d0%b5-%d0%b5-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%8f',
+    link: '/news/tramvay-bezumie-e-na-bul-balgariya',
     topic: 'Транспорт и инфраструктура',
     tags: 'градски транспорт, СК- 13, Столична община',
     gps: '42.685697594691824, 23.317557676108418',
@@ -3347,8 +3343,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/02/1393149221-1024x683.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bd%d0%b5-%d1%81%d0%b5-%d1%85%d0%b0%d1%80%d0%b5%d1%81%d0%b2%d0%b0-1300-%d0%b3%d0%be%d0%b4%d0%b8%d0%bd%d0%b8-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%8f-%d0%bc%d0%be%d0%b4%d0%b0.html',
-    link: '/news/da-ne-se-haresva-1300-godini-balgariya-e-moda.html',
+      'https://spasisofia.org/bg/%d0%bd%d0%b5-%d1%81%d0%b5-%d1%85%d0%b0%d1%80%d0%b5%d1%81%d0%b2%d0%b0-1300-%d0%b3%d0%be%d0%b4%d0%b8%d0%bd%d0%b8-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%8f-%d0%bc%d0%be%d0%b4%d0%b0',
+    link: '/news/da-ne-se-haresva-1300-godini-balgariya-e-moda',
     topic: 'Образование и култура',
     tags: 'паметници, култура, 1300 години България',
     gps: '42.68365668998887, 23.344839705357405',
@@ -3365,8 +3361,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/02/91-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/%d0%bd%d0%b5%d0%ba%d0%b0%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b8%d1%82%d0%b5-%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82%d0%b8.html',
-    link: '/news/nekachestvenite-remonti-v-sofia.html',
+      'https://spasisofia.org/bg/%d0%bd%d0%b5%d0%ba%d0%b0%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b8%d1%82%d0%b5-%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82%d0%b8',
+    link: '/news/nekachestvenite-remonti-v-sofia',
     topic: 'Транспорт и инфраструктура',
     tags: 'ремонти, инфраструктура, градска среда',
     gps: '42.68844250729495, 23.3249735012748',
@@ -3383,8 +3379,8 @@ export const PROJECTS = [
     imageUrl:
       'https://spasisofia.org/wp-content/uploads/2015/02/photo_verybig_668255-600x400.jpg',
     oldLink:
-      'https://spasisofia.org/bg/5-%d0%b3%d0%be%d0%b4%d0%b8%d0%bd%d0%b8-%d0%bf%d1%80%d0%b0%d0%b7%d0%bd%d0%b8-%d0%be%d0%b1%d0%b5%d1%89%d0%b0%d0%bd%d0%b8%d1%8f-%d0%b7%d0%b0-bus-%d0%bb%d0%b5%d0%bd%d1%82%d0%b8.html',
-    link: '/news/5-godini-prazni-obeshtaniya-za-bus-lenti.html',
+      'https://spasisofia.org/bg/5-%d0%b3%d0%be%d0%b4%d0%b8%d0%bd%d0%b8-%d0%bf%d1%80%d0%b0%d0%b7%d0%bd%d0%b8-%d0%be%d0%b1%d0%b5%d1%89%d0%b0%d0%bd%d0%b8%d1%8f-%d0%b7%d0%b0-bus-%d0%bb%d0%b5%d0%bd%d1%82%d0%b8',
+    link: '/news/5-godini-prazni-obeshtaniya-za-bus-lenti',
     topic: 'Транспорт и инфраструктура',
     tags: 'BUS ленти, булеварди, градски транспорт',
     gps: '42.69697091455275, 23.33170858927322',
