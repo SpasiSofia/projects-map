@@ -55,44 +55,67 @@ const prepareStaticProjects = (projects) => {
   });
 };
 
-
 export const ProjectsProvider = ({ children }) => {
   let [searchParams] = useSearchParams();
 
   const [mapTopicIdToTopic, setMapTopicIdToTopic] = React.useState(null);
-  React.useEffect(() =>
-    fetch(`${BASE_URL}/wp-json/wp/v2/project-category/`)
-      .then(res => res.json())
-      .then(data => setMapTopicIdToTopic(new Map(data.map(obj => [obj.id, obj.name]))))
-    , []);
+  React.useEffect(
+    () =>
+      fetch(`${BASE_URL}/wp-json/wp/v2/project-category/`)
+        .then((res) => res.json())
+        .then((data) =>
+          setMapTopicIdToTopic(new Map(data.map((obj) => [obj.id, obj.name])))
+        )
+        .catch(() => console.log('Failed to load topics from Worldpress')),
+    []
+  );
 
   const [wordpressProjectsRaw, setWordpressProjectsRaw] = React.useState([]);
-  React.useEffect(() => fetch(`${BASE_URL}/wp-json/wp/v2/projects`)
-    .then(res => res.json())
-    .then(data => setWordpressProjectsRaw(data.filter(el => el.acf && el.acf.map))),
-    []);
+  React.useEffect(
+    () =>
+      fetch(`${BASE_URL}/wp-json/wp/v2/projects`)
+        .then((res) => res.json())
+        .then((data) =>
+          setWordpressProjectsRaw(data.filter((el) => el.acf && el.acf.map))
+        )
+        .catch(() =>
+          console.log('Failed to load raw projects from Worldpress')
+        ),
+    []
+  );
 
   const [wordpressProjects, setWordpressProjects] = React.useState([]);
-  React.useEffect(() =>
-    setWordpressProjects(wordpressProjectsRaw.map(el => Object({
-      id: uuidv4(),
-      name: el.title.rendered,
-      description: '',
-      imageUrl: el.featured_media
-        ? fetch(`${BASE_URL}/wp-json/wp/v2/media/${el.featured_media}`)
-          .then(res => res.json())
-          .then(data => data.media_details.sizes.large.source_url)
-          .catch(() => null)
-        : null,
-      link: el.link,
-      tags: [],
-      topic: el['project-category'].length > 0 && mapTopicIdToTopic
-        ? mapTopicIdToTopic.get(el['project-category'].at(0))
-        : null,
-      quarter: '',
-      coordinates: [Number(el.acf.map.lat), Number(el.acf.map.lng)],
-      date: el.date,
-    }))), [wordpressProjectsRaw, mapTopicIdToTopic]);
+  React.useEffect(() => {
+    async function updateWordpressProject() {
+      setWordpressProjects(
+        await Promise.all(
+          wordpressProjectsRaw.map((el) =>
+            Object({
+              id: uuidv4(),
+              name: el.title.rendered,
+              description: '',
+              imageUrl: el.featured_media
+                ? fetch(`${BASE_URL}/wp-json/wp/v2/media/${el.featured_media}`)
+                    .then((res) => res.json())
+                    .then((data) => data.media_details.sizes.large.source_url)
+                    .catch(() => null)
+                : null,
+              link: el.link,
+              tags: [],
+              topic:
+                el['project-category'].length > 0 && mapTopicIdToTopic
+                  ? mapTopicIdToTopic.get(el['project-category'].at(0))
+                  : null,
+              quarter: '',
+              coordinates: [Number(el.acf.map.lat), Number(el.acf.map.lng)],
+              date: el.date,
+            })
+          )
+        )
+      );
+    }
+    updateWordpressProject();
+  }, [wordpressProjectsRaw, mapTopicIdToTopic]);
 
   const yearsParams = searchParams.get('years');
   const topicsParams = searchParams.get('topics');
@@ -121,10 +144,11 @@ export const ProjectsProvider = ({ children }) => {
 
   const projectsQuery = useQuery(
     ['projects', reducerState.filter, wordpressProjects],
-    () => filterProjects(
-      [...prepareStaticProjects(STATIC_PROJECTS), ...wordpressProjects],
-      { ...reducerState.filter }
-    ),
+    () =>
+      filterProjects(
+        [...prepareStaticProjects(STATIC_PROJECTS), ...wordpressProjects],
+        { ...reducerState.filter }
+      ),
     {
       keepPreviousData: true,
     }

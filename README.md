@@ -71,3 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### `yarn build` fails with opensslErrorStack: [ 'error:03000086:digital envelope routines::initialization error' ]
+
+This happens on Node > 17.x.x . Check this one: https://stackoverflow.com/questions/74726224/opensslerrorstack-error03000086digital-envelope-routinesinitialization-e
+In short this should help: export NODE_OPTIONS=--openssl-legacy-provider
