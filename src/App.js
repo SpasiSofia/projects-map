@@ -8,7 +8,7 @@ import {
 } from 'react-leaflet';
 import L from 'leaflet';
 import MarkerClusterGroup from 'react-leaflet-markercluster';
-
+import ProjectDetails from './ProjectDetails';
 import logo from './spasi-sofia-logo.png';
 import districts from './data/sofia-districts.json';
 import { districtNames } from './data/sofia-districts-names';
@@ -22,12 +22,10 @@ import {
   DrawerContent,
   DrawerCloseButton,
   Button,
-  Image,
   Link,
   Tag,
   HStack,
   Box,
-  Flex,
   Text,
   useDisclosure,
 } from '@chakra-ui/react';
@@ -103,74 +101,7 @@ function App() {
           </DrawerHeader>
 
           <DrawerBody>
-            <Flex
-              shrink={0}
-              direction={{ base: 'column', sm: 'column', md: 'row', lg: 'row' }}
-            >
-              <Box flex={1} mr={4}>
-                {selected.description}
-                <Flex>
-                  <Box flex={1} mr={4} fontSize={1}>
-                    <Text fontSize="sm">
-                      <em>{selected.tags}</em>
-                    </Text>
-                  </Box>
-                </Flex>
-              </Box>
-              <Box
-                m={{ base: '0', sm: '0', md: '2', lg: '2' }}
-                w={{
-                  base: '100%',
-                  sm: '100%',
-                  md: '100%',
-                  lg: '250px',
-                }}
-                flexBasis={{
-                  base: '100%',
-                  sm: '100%',
-                  md: '250px',
-                  lg: '250px',
-                }}
-              >
-                {selected.imageUrl ? (
-                  <Image
-                    boxSize={{
-                      base: '100%',
-                      sm: '100%',
-                      md: '100%',
-                      lg: '250px',
-                    }}
-                    width={{
-                      base: '100%',
-                      sm: '100%',
-                      md: '250px',
-                      lg: '250px',
-                    }}
-                    objectFit="cover"
-                    src={selected.imageUrl}
-                    alt={selected.name}
-                  />
-                ) : (
-                  <Image
-                    boxSize={{
-                      base: '100%',
-                      sm: '100%',
-                      md: '100%',
-                      lg: '250px',
-                    }}
-                    width={{
-                      base: '100%',
-                      sm: '100%',
-                      md: '250px',
-                      lg: '250px',
-                    }}
-                    objectFit="cover"
-                    src={'https://via.placeholder.com/250?text=SpasiSofia'}
-                    alt={selected.name}
-                  />
-                )}
-              </Box>
-            </Flex>
+            <ProjectDetails project={selected} />
           </DrawerBody>
 
           {selected.link && (
