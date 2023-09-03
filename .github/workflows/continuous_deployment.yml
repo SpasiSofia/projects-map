@@ -48,3 +48,4 @@ jobs:
         port: 22
         source: "build/*"
         target: "~/webapps/ssprojects/"
+        strip_components: 1
