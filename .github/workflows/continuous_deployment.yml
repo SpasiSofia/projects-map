@@ -44,7 +44,7 @@ jobs:
       with:
         host: 116.203.28.253
         username: runcloud
-        password: ${{ secrets.PASSWORD }}
+        key: ${{ secrets.PASSWORD }}
         port: 22
         source: "build/*"
         target: "~/webapps/ssprojects/"
