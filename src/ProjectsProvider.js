@@ -21,6 +21,11 @@ const INITIAL_STATE = {
   },
 };
 
+function unescapeHTML(escapedString) {
+  const doc = new DOMParser().parseFromString(escapedString, "text/html");
+  return doc.documentElement.textContent;
+}
+
 export const useProjects = () => {
   const context = React.useContext(ProjectsContext);
 
@@ -92,8 +97,8 @@ export const ProjectsProvider = ({ children }) => {
           wordpressProjectsRaw.map((el) =>
             Object({
               id: uuidv4(),
-              name: el.title.rendered,
-              description: '',
+              name: unescapeHTML(el.title.rendered),
+              description: unescapeHTML(el.excerpt.rendered),
               imageUrl: el.featured_media
                 ? fetch(`${BASE_URL}/wp-json/wp/v2/media/${el.featured_media}`)
                     .then((res) => res.json())
