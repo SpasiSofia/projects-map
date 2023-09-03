@@ -1,0 +1,40 @@
+name: Continuous Deployment
+
+on:
+  push:
+    branches: [ "master" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Use Node.js 9.7.2
+      uses: actions/setup-node@v3
+      with:
+        node-version: 9.7.2
+        cache: 'npm'
+    - run: npm ci
+    - run: npm run build --if-present
+
+    - name: Clean up production server
+      uses: appleboy/ssh-action@master
+      with:
+        host: 116.203.28.253
+        username: runcloud
+        key: ${{ secrets.PASSWORD }}
+        port: 22
+        script: |
+          rm -rf ~/webapps/ssprojects/*
+
+    - name: Copy files to production server
+      uses: appleboy/scp-action@v0.1.4
+      with:
+        host: 116.203.28.253
+        username: runcloud
+        password: ${{ secrets.PASSWORD }}
+        port: 22
+        source: "build/*"
+        target: "~/webapps/ssprojects/"
