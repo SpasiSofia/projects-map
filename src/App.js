@@ -101,9 +101,10 @@ function App() {
               direction={{
                 base: 'column',
               }}
-              padding={'24px 24px 24px 24px'}
+              margin={'24px 24px 24px 24px'}
+              padding={'0px'}
             >
-              <DrawerHeader padding={'0px 0px 16px 0px'}>
+              <DrawerHeader margin={'0px 0px 16px 0px'} padding={'0px'}>
                 {selected.name}
                 <Box mt={1}>
                   <HStack spacing={4}>
@@ -114,7 +115,7 @@ function App() {
                   </HStack>
                 </Box>
               </DrawerHeader>
-              <DrawerBody padding={'0px 0px 24px 0px'}>
+              <DrawerBody margin={'0px 0px 24px 0px'} padding={'0px'}>
                 <ProjectDetails project={selected} />
               </DrawerBody>
               {selected.link && (
@@ -130,7 +131,9 @@ function App() {
                 </DrawerFooter>
               )}
             </Flex>
-            <ProjectImage project={selected} width={'28%'} />
+            <Flex width={'28%'} height={'100%'}>
+              <ProjectImage project={selected} />
+            </Flex>
           </Flex>
         </DrawerContent>
       </Drawer>
