@@ -27,6 +27,7 @@ import {
   HStack,
   Box,
   Text,
+  Flex,
   useDisclosure,
 } from '@chakra-ui/react';
 
@@ -35,6 +36,7 @@ import { useProjects } from './ProjectsProvider';
 import { SOFIA_GPS_CENTER } from './ProjectsService';
 import './App.css';
 import { topicsToPinsMap } from './data/pins-map';
+import ProjectImage from './ProjectImage';
 
 const markerIcon = (topic) => {
   return L.icon({
@@ -82,37 +84,57 @@ function App() {
         <DrawerContent
           style={{
             height: '100%',
-            maxHeight: '80vh',
+            maxHeight: '45%',
             background: '#fff',
             color: '#1A202C',
           }}
         >
-          <DrawerCloseButton />
-          <DrawerHeader>
-            {selected.name}
-            <Box mt={1}>
-              <HStack spacing={4}>
-                {selected.categories &&
-                  selected.categories.map((category) => (
-                    <Tag key={category}>{category}</Tag>
-                  ))}
-              </HStack>
-            </Box>
-          </DrawerHeader>
-
-          <DrawerBody>
-            <ProjectDetails project={selected} />
-          </DrawerBody>
-
-          {selected.link && (
-            <DrawerFooter justifyContent={'flex-start'}>
-              <Button colorScheme="brand" style={{ color: '#fff' }}>
-                <Link href={selected.link} isExternal>
-                  Виж повече за проекта
-                </Link>
-              </Button>
-            </DrawerFooter>
-          )}
+          <DrawerCloseButton
+            top={'24px'}
+            right={'24px'}
+            backgroundColor={'#fff'}
+          />
+          <Flex width={'100%'} height={'100%'}>
+            <Flex
+              shrink={0}
+              width={'72%'}
+              direction={{
+                base: 'column',
+              }}
+              margin={'24px 24px 24px 24px'}
+              padding={'0px'}
+            >
+              <DrawerHeader margin={'0px 0px 16px 0px'} padding={'0px'}>
+                {selected.name}
+                <Box mt={1}>
+                  <HStack spacing={4}>
+                    {selected.categories &&
+                      selected.categories.map((category) => (
+                        <Tag key={category}>{category}</Tag>
+                      ))}
+                  </HStack>
+                </Box>
+              </DrawerHeader>
+              <DrawerBody margin={'0px 0px 24px 0px'} padding={'0px'}>
+                <ProjectDetails project={selected} />
+              </DrawerBody>
+              {selected.link && (
+                <DrawerFooter
+                  padding={'0px 0px 0px 0px'}
+                  justifyContent={'flex-start'}
+                >
+                  <Button colorScheme="brand" style={{ color: '#fff' }}>
+                    <Link href={selected.link} isExternal>
+                      Виж повече за проекта в сайта на Спаси София
+                    </Link>
+                  </Button>
+                </DrawerFooter>
+              )}
+            </Flex>
+            <Flex width={'28%'} height={'100%'}>
+              <ProjectImage project={selected} />
+            </Flex>
+          </Flex>
         </DrawerContent>
       </Drawer>
       <div className="map">
